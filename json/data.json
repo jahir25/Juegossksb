@@ -1,4 +1,53 @@
-[{
-	"id": "arcoiris",
-	"titulo": "Tobogán Arcoiris"
-}]
+[
+	{
+		"id": "arcoiris",
+		"titulo": "Tobogán Arcoiris",
+		"assets": "assets/img/juegossksb/toboganes/arcoiris.jpg",
+		"medidas": [
+			{
+				"texto": "Altura: 0.96mts"
+			},
+			{
+				"texto": "Ancho: 0.65mt"
+			},
+			{
+				"texto": "Largo: 2mts"
+			}
+		],
+		"descripciones": [
+			{
+				"texto": "Estructura confeccionada en fibra de vidrio de 4mm de espesor"
+			},
+			{
+				"texto": "Pintado con hielco de colores al escoger."
+			},
+			{
+				"texto": "Estructura de metal confeccionada en tubo negro de 1¼” x 2mm y pintado con esmalte al horno"
+			}
+		]
+	},
+	{
+		"id": "caracol",
+		"titulo": "Tobogán Caracol Abierto",
+		"assets": "assets/img/juegossksb/toboganes/caracolAbierto.jpg",
+		"medidas": [
+			{
+				"texto": "Altura: 2.20mts"
+			},
+			{
+				"texto": "Ancho: 0.65mt"
+			}
+		],
+		"descripciones": [
+			{
+				"texto": "Estructura confeccionada en fibra de vidrio de 4mm de espesor"
+			},
+			{
+				"texto": "Pintado con hielco de colores al escoger."
+			},
+			{
+				"texto": "Estructura de metal confeccionada en tubo negro de 1¼” x 2mm y pintado con esmalte al horno"
+			}
+		]
+	}
+]
