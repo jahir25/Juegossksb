@@ -301,7 +301,7 @@
     <section class="mainContent full-width clearfix productSection">
       <div class="container">
         <div class="row">
-          <div class="col-md-3 col-xs-6">
+          <div class="col-md-3 col-xs-6" ng-repeat-start="1 in 10">
             <div class="box bg-color-1">
               <div class="box-img border-color-1 text-center">
                 <a>
@@ -309,7 +309,7 @@
                 </a>
                 <a data-toggle="modal" href="" onclick="onModal(this)" id="arcoiris" class="btn-block"><i class="fa fa-eye" aria-hidden="true"></i></a>
               </div>
-              <div class="box-info">
+              <div class="box-info" ng-repeat-end="">
                 <h4>Tobogán Arcoiris</h4>
               </div>
             </div>
