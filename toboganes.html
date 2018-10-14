@@ -304,10 +304,10 @@
           <div class="col-md-3 col-xs-6">
             <div class="box bg-color-1">
               <div class="box-img border-color-1 text-center">
-                <a href="single-product.html">
+                <a>
                   <img src="assets/img/juegossksb/toboganes/arcoiris.jpg" alt="image" class="img-responsive">
                 </a>
-                <a data-toggle="modal" href=".quick-view" class="btn-block"><i class="fa fa-eye" aria-hidden="true"></i>Quick View</a>
+                <a data-toggle="modal" href="" onclick="onModal(this)" id="arcoiris" class="btn-block"><i class="fa fa-eye" aria-hidden="true"></i></a>
               </div>
               <div class="box-info">
                 <h4>Tobogán Arcoiris</h4>
@@ -465,7 +465,7 @@
 	<!-- ====================================
     ——— PORDUCT QUICK VIEW MODAL
     ===================================== -->
-		<div class="modal fade quick-view" tabindex="-1" role="dialog">
+		<div class="modal fade quick-view" id="tobogan" tabindex="-1" role="dialog">
 			<div class="modal-dialog">
 				<div class="modal-content">
 					<div class="container-fluid">
@@ -480,7 +480,7 @@
 							<div class="col-md-6 col-sm-5 col-xs-12">
 								<button type="button" class="close" data-dismiss="modal" aria-label="Close"><span aria-hidden="true">&times;</span></button>
 								<div class="product-info">
-									<h1 class="product-title">Tobogán Arcoiris</h1>
+									<h1 class="product-title" id="idTitulo" ></h1>
 									<p>
                     <ul>
                       <li>
@@ -752,6 +752,7 @@
     <script src="assets/plugins/smoothscroll/SmoothScroll.js"></script>
     <script src="assets/plugins/wow/wow.min.js"></script>
     <script src="assets/js/app.js"></script>
+    <script src="assets/js/juegossksb.js"></script>
 <link href="assets/options/optionswitch.css" rel="stylesheet">
 <script src="assets/options/optionswitcher.js"></script>
 </body>
