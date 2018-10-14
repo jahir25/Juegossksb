@@ -1,7 +1,7 @@
 .logo{
 	height: auto;
 	width: 15%;
-	margin-top: 1em;
+	margin-top: 0.5em;
 }
 
 .construccion{
@@ -10,4 +10,9 @@
 	margin-left: 15%;
 	margin-right: 15%;
 	margin-top: 5%;
+}
+
+.margen{
+	margin-right: auto;
+	margin-left: auto;
 }
