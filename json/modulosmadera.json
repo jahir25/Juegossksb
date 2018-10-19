@@ -1,0 +1,20 @@
+[
+	{
+		"id": "modulomi09",
+		"titulo": "Módulo MI-09",
+		"assets": "assets/img/juegossksb/modulosmadera/modulomi09.jpg",
+		"medidas": [
+			{
+				"texto": "Largo: 5mts x 5mts"
+			}
+		],
+		"descripciones": [
+			{
+				"texto": "Dos torres de madera huayruro con techos a dos aguas."
+			},
+			{
+				"texto": "Estructura pintada con base anticorrosivo y acabado con esmalte al horno en colores variados."
+			}
+		]
+	}
+]

@@ -1,0 +1,20 @@
+[
+	{
+		"id": "cubiletecuero",
+		"titulo": "Cubilte de Cuero",
+		"assets": "assets/img/juegossksb/juegossalon/cubiletecuero.png",
+		"medidas": [
+			{
+				"texto": "Largo: 8cmts"
+			},
+			{
+				"texto": "Diámetro: 7cmts"
+			}
+		],
+		"descripciones": [
+			{
+				"texto": "Confeccionado en cuero con figuras."
+			}
+		]
+	}
+]

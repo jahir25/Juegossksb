@@ -1,8 +1,19 @@
-function onModal(oEvent) {
-	console.log(oEvent);
-	var json = getJSON("./json/data.json");
+var titu = "";
+
+function onModal(oEvent, tit) {
+	if(tit == "Toboganes"){
+		var json = getJSON("./json/tobogan.json");
+	}else if(tit == "SubeYBaja"){
+		var json = getJSON("./json/subeybaja.json");
+	}else if(tit == "Pasamanos"){
+		var json = getJSON("./json/pasamanos.json");
+	}else if(tit == "ModulosMadera"){
+		var json = getJSON("./json/modulosmadera.json");
+	}else if(tit == "JuegosSalon"){
+		var json = getJSON("./json/juegossalon.json");
+	}
+
 	json = JSON.parse(json);
-	console.log(json);
 	var img, medidas, descri, limedidas, lidescri;
 	img = document.getElementById("idImgModal");
 	medidas = document.getElementById("idUlMedida");
@@ -60,11 +71,22 @@ function getJSON(url) {
     return resp ;
 }
 
-function createE() {
+function createE(tit) {
+	titu = tit;
+	if(tit == "Toboganes"){
+		var json = getJSON("./json/tobogan.json");
+	}else if(tit == "SubeYBaja"){
+		var json = getJSON("./json/subeybaja.json");
+	}else if(tit == "Pasamanos"){
+		var json = getJSON("./json/pasamanos.json");
+	}else if(tit == "ModulosMadera"){
+		var json = getJSON("./json/modulosmadera.json");
+	}else if(tit == "JuegosSalon"){
+		var json = getJSON("./json/juegossalon.json");
+	}
 
-	var json = getJSON("./json/data.json");
+	
 	json = JSON.parse(json);
-	console.log(json);
 	var random, bgcolor, borcolor;
 	$.each(json, function(k , v){
 		
@@ -95,7 +117,7 @@ function createE() {
 		img.setAttribute("src", v.assets);
 		
 		var aclick = document.createElement("a");
-		aclick.setAttribute("onclick", "onModal(this)");
+		aclick.setAttribute("onclick", "onModal(this,titu)");
 		// aclick.addEventListener("click", onModal(this));
 		aclick.setAttribute("href", "");
 		aclick.setAttribute("data-toggle", "modal");
@@ -132,4 +154,11 @@ function createE() {
 	});
 	
 }
-createE();
+
+function init(){
+	var titulo = document.getElementsByTagName("title");
+
+	createE(titulo[0].innerHTML);
+}
+
+init();

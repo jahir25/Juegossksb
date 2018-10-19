@@ -1,0 +1,65 @@
+[
+	{
+		"id": "subeybajamadera",
+		"titulo": "Sube y Baja de Madera",
+		"assets": "assets/img/juegossksb/subeybaja/subeybajamadera.jpg",
+		"medidas": [
+			{
+				"texto": "Cantidad: 6 niños - 8 niños"
+			},
+			{
+				"texto": "Altura: 0.50mts - 0.50mts"
+			},
+			{
+				"texto": "Ancho: 3.20mts - 3.20mts"
+			},
+			{
+				"texto": "Largo: 2.20mts - 3mts"
+			}
+		],
+		"descripciones": [
+			{
+				"texto": "Estructura confeccionada en madera huairuro de 4 x 4 de espesor."
+			},
+			{
+				"texto": "Estructura barnizada con barniz marino."
+			},
+			{
+				"texto": "Asientos de pera de fibra de vidrio pintado en esmalte al horno."
+			},
+			{
+				"texto": "Manijas confeccionadas en tubo negro estructural de 3/4 y pintado en esmalte al horno."
+			}
+		]
+	},
+	{
+		"id": "subeybajaninios",
+		"titulo": "Sube y Baja Para Niños",
+		"assets": "assets/img/juegossksb/subeybaja/subeybajaninios.jpg",
+		"medidas": [
+			{
+				"texto": "Cantidad niños:   4 - 6 - 8 - 12"
+			},
+			{
+				"texto": "Altura mts:       0.5 - 0.5 - 0.5 - 0.5"
+			},
+			{
+				"texto": "Ancho mts:        3.2 - 3.2 - 3.2 - 3.2"
+			},
+			{
+				"texto": "Largo mts:        1.4 - 2.2 - 3 - 4.6"
+			}
+		],
+		"descripciones": [
+			{
+				"texto": "Estructura confeccionada en tubo negro de 2 1/2 x 3mm y 2 x 2mm."
+			},
+			{
+				"texto": "Estructura pintada en esmalte al horno de diferentes colores."
+			},
+			{
+				"texto": "Asientos de fibra de vidrio pintado en esmalte al horno."
+			}
+		]
+	}
+]

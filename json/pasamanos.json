@@ -1,0 +1,23 @@
+[
+	{
+		"id": "pasamanoscircuito",
+		"titulo": "Circuito de Pasamanos",
+		"assets": "assets/img/juegossksb/pasamanos/pasamanoscircuito.png",
+		"medidas": [
+			{
+				"texto": "Larog: 7mts"
+			},
+			{
+				"texto": "Ancho: 5mts"
+			}
+		],
+		"descripciones": [
+			{
+				"texto": "Estructura confeccionada en tubo negro estructural de 1 1/2, 1 3/4 x 2mm de espesor."
+			},
+			{
+				"texto": "Estructura pintada con base anticorrosivo y acabado con esmalte al horno en colores variados."
+			}
+		]
+	}
+]
