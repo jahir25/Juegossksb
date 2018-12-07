@@ -15,9 +15,8 @@ function onInit(){
         success: function(result){
             $.each(result, function(k, v){
                 if(v.ca_id == data){
-
                     document.getElementById("idCategory").innerHTML = v.ca_name;
-
+                    document.getElementById("idTitlePage").innerHTML = v.ca_name;                    
                     $.ajax({
                         url: v.ca_json,
                         datatype: "json",
