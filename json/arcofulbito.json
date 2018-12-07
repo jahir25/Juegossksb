@@ -1,0 +1,41 @@
+[
+    {
+        "id": "arcofulbito",
+		"titulo": "Arco de Fulbito",
+		"assets": "assets/img/juegossksb/arco/arco-3x2.jpg",
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/arco/arco-3x2.jpg"
+            },
+            {
+				"idImage": "arco02",
+				"src": "assets/img/juegossksb/arco/arco-3x2-2.jpg"
+            },
+            {
+				"idImage": "arco03",
+				"src": "assets/img/juegossksb/arco/arco-3x2-3.jpg"
+			}
+
+		],
+		"medidas": [
+			{
+				"texto": "Largo: 3mts"
+            },
+            {
+				"texto": "Ancho: 2mts"
+			}
+		],
+		"descripciones": [
+			{
+				"texto": "Estructura confeccionada en tubo negro estructural de 2” x 2mm de espesor."
+			},
+			{
+				"texto": "Estructura pintada con esmalte al horno color blanco."
+			},
+			{
+				"texto": "Malla alquitranada."
+			}
+		]
+    }
+]

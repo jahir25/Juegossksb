@@ -3,26 +3,41 @@
 		"id": "arcoiris",
 		"titulo": "Tobogán Arcoiris",
 		"assets": "assets/img/juegossksb/toboganes/arcoiris.jpg",
-		"medidas": [
+		"imgs": [
 			{
-				"texto": "Altura: 0.96mts"
-			},
-			{
-				"texto": "Ancho: 0.65mt"
-			},
-			{
-				"texto": "Largo: 2mts"
+				"idImage": "arcoiris1",
+				"src": "assets/img/juegossksb/toboganes/arcoiris.jpg"
 			}
+
 		],
-		"descripciones": [
+		"info":[
 			{
-				"texto": "- Estructura confeccionada en fibra de vidrio de 4mm de espesor"
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": "Altura: 0.96mts"
+					},
+					{
+						"texto": "Ancho: 0.65mt"
+					},
+					{
+						"texto": "Largo: 2mts"
+					}
+				]
 			},
 			{
-				"texto": "- Pintado con hielco de colores al escoger."
-			},
-			{
-				"texto": "- Estructura de metal confeccionada en tubo negro de 1¼” x 2mm y pintado con esmalte al horno"
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Estructura confeccionada en fibra de vidrio de 4mm de espesor"
+					},
+					{
+						"texto": "Pintado con hielco de colores al escoger."
+					},
+					{
+						"texto": "Estructura de metal confeccionada en tubo negro de 1¼” x 2mm y pintado con esmalte al horno"
+					}
+				]
 			}
 		]
 	},
@@ -30,410 +45,679 @@
 		"id": "caracol",
 		"titulo": "Tobogán Caracol Abierto",
 		"assets": "assets/img/juegossksb/toboganes/caracolAbierto.jpg",
-		"medidas": [
+		"imgs": [
 			{
-				"texto": "Altura: 2.20mts"
-			},
-			{
-				"texto": "Ancho: 0.65mt"
+				"idImage": "caracol1",
+				"src": "assets/img/juegossksb/toboganes/caracolAbierto.jpg"
 			}
+
 		],
-		"descripciones": [
+		"info":[
 			{
-				"texto": "- Estructura confeccionada en fibra de vidrio de 4mm de espesor"
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": "Altura: 2.20mts"
+					},
+					{
+						"texto": "Ancho: 0.65mt"
+					}
+				]
 			},
 			{
-				"texto": "- Pintado con hielco de colores al escoger."
-			},
-			{
-				"texto": "- Estructura de metal confeccionada en tubo negro de 1¼” x 2mm y pintado con esmalte al horno"
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Estructura confeccionada en fibra de vidrio de 4mm de espesor"
+					},
+					{
+						"texto": "Pintado con hielco de colores al escoger."
+					},
+					{
+						"texto": "Estructura de metal confeccionada en tubo negro de 1¼” x 2mm y pintado con esmalte al horno"
+					}
+				]
 			}
 		]
 	},
 	{
 		"id": "tobogan070",
 		"titulo": "Tobogán 0.70 mts",
-		"assets": "assets/img/juegossksb/toboganes/tobogan070.png",
-		"medidas": [
+		"assets": "assets/img/juegossksb/toboganes/TOBOGÁNDE0.70MT-01.jpg",
+		"imgs": [
 			{
-				"texto": "Altura: 0.70mts"
+				"idImage": "0701",
+				"src": "assets/img/juegossksb/toboganes/TOBOGÁNDE0.70MT-01.jpg"
 			},
 			{
-				"texto": "Ancho: 1.35mt"
+				"idImage": "0702",
+				"src": "assets/img/juegossksb/toboganes/TOBOGÁNDE0.70MT-02.jpg"
+			},
+			{
+				"idImage": "0703",
+				"src": "assets/img/juegossksb/toboganes/TOBOGÁNDE0.70MT-03.jpg"
 			}
+
 		],
-		"descripciones": [
+		"info":[
 			{
-				"texto": "- Resbaladera confeccionada en fibra de vidrio de 4mm de espesor"
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": "Altura: 0.70mts"
+					},
+					{
+						"texto": "Ancho: 1.35mt"
+					}
+				]
 			},
 			{
-				"texto": "- Resbaladera pintada con resina hielco en colores."
-			},
-			{
-				"texto": "- Escalera de metal confeccionado en tubo cuadrado de 7/8 y con escalones de madera huayruro."
-			},
-			{
-				"texto": "- Modelo Ondeado."
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Resbaladera confeccionada en fibra de vidrio de 4mm de espesor"
+					},
+					{
+						"texto": "Resbaladera pintada con resina hielco en colores."
+					},
+					{
+						"texto": "Escalera de metal confeccionado en tubo cuadrado de 7/8 y con escalones de madera huayruro."
+					},
+					{
+						"texto": "Modelo Ondeado."
+					}
+				]
 			}
 		]
 	},
 	{
 		"id": "tobogan120",
 		"titulo": "Tobogán 1.20 mts",
-		"assets": "assets/img/juegossksb/toboganes/tobogan120.png",
-		"medidas": [
+		"assets": "assets/img/juegossksb/toboganes/TOBOGÁNDE1.20MT-01.jpg",
+		"imgs": [
 			{
-				"texto": "Altura: 1.20mts"
+				"idImage": "arcoiris1",
+				"src": "assets/img/juegossksb/toboganes/TOBOGÁNDE1.20MT-01.jpg"
 			},
 			{
-				"texto": "Largo: 2.50mt"
+				"idImage": "arcoiris2",
+				"src": "assets/img/juegossksb/toboganes/TOBOGÁNDE1.20MT-02.jpg"
 			},
 			{
-				"texto": "Ancho: 0.46mt"
+				"idImage": "arcoiris3",
+				"src": "assets/img/juegossksb/toboganes/TOBOGÁNDE1.20MT-03.jpg"
+			},
+			{
+				"idImage": "arcoiris4",
+				"src": "assets/img/juegossksb/toboganes/TOBOGÁNDE1.20MT-04.jpg"
 			}
+
 		],
-		"descripciones": [
+		"info":[
 			{
-				"texto": "- Resbaladera confeccionada en fibra de vidrio de 4mm de espesor y pintado con resina hielco en colores."
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": "Altura: 1.20mts"
+					},
+					{
+						"texto": "Largo: 2.50mt"
+					},
+					{
+						"texto": "Ancho: 0.46mt"
+					}
+				]
 			},
 			{
-				"texto": "- Escalera confeccionada en tubo cuadrado de 7/8” y con escalones de madera huayruro."
-			},
-			{
-				"texto": "- Modelo Ondeado."
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Resbaladera confeccionada en fibra de vidrio de 4mm de espesor y pintado con resina hielco en colores."
+					},
+					{
+						"texto": "Escalera confeccionada en tubo cuadrado de 7/8” y con escalones de madera huayruro."
+					},
+					{
+						"texto": "Modelo Ondeado."
+					}
+				]
 			}
 		]
 	},
 	{
 		"id": "tobogan150",
 		"titulo": "Tobogán 1.50 mts",
-		"assets": "assets/img/juegossksb/toboganes/tobogan150.jpg",
-		"medidas": [
+		"assets": "assets/img/juegossksb/toboganes/TOBOGÁNDE1.50MT-01.jpg",
+		"imgs": [
 			{
-				"texto": "Altura: 1.50mts"
+				"idImage": "arcoiris1",
+				"src": "assets/img/juegossksb/toboganes/TOBOGÁNDE1.50MT-01.jpg"
 			},
 			{
-				"texto": "Largo: 2.50mt"
-			},
-			{
-				"texto": "Ancho: 0.46mt"
+				"idImage": "arcoiris2",
+				"src": "assets/img/juegossksb/toboganes/TOBOGÁNDE1.50MT-02.jpg"
 			}
 		],
-		"descripciones": [
+		"info":[
 			{
-				"texto": "- Resbaladera confeccionada en fibra de vidrio de 4mm de espesor y pintado con resina hielco en colores."
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": "Altura: 1.50mts"
+					},
+					{
+						"texto": "Largo: 2.50mt"
+					},
+					{
+						"texto": "Ancho: 0.46mt"
+					}
+				]
 			},
 			{
-				"texto": "- Escalera confeccionada en tubo cuadrado de 7/8” y con escalones de madera huayruro."
-			},
-			{
-				"texto": "- Modelo Ondeado."
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Resbaladera confeccionada en fibra de vidrio de 4mm de espesor y pintado con resina hielco en colores."
+					},
+					{
+						"texto": "Escalera confeccionada en tubo cuadrado de 7/8” y con escalones de madera huayruro."
+					},
+					{
+						"texto": "Modelo Ondeado."
+					}
+				]
 			}
 		]
 	},
 	{
 		"id": "tobogan100",
 		"titulo": "Tobogán 1.00 mts",
-		"assets": "assets/img/juegossksb/toboganes/tobogan100.jpg",
-		"medidas": [
+		"assets": "assets/img/juegossksb/toboganes/TOBOGÁNDE1MT-01.jpg",
+		"imgs": [
 			{
-				"texto": "Altura: 1.00mts"
+				"idImage": "arcoiris1",
+				"src": "assets/img/juegossksb/toboganes/TOBOGÁNDE1MT-01.jpg"
 			},
 			{
-				"texto": "Largo: 0.42mt"
+				"idImage": "arcoiris2",
+				"src": "assets/img/juegossksb/toboganes/TOBOGÁNDE1MT-02.jpg"
 			},
 			{
-				"texto": "Ancho: 1.80mt"
+				"idImage": "arcoiris3",
+				"src": "assets/img/juegossksb/toboganes/TOBOGÁNDE1MT-03.jpg"
 			}
 		],
-		"descripciones": [
+		"info":[
 			{
-				"texto": "- Resbaladera confeccionada en fibra de vidrio de 4mm de espesor y pintado con resina hielco en colores."
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": "Altura: 1.00mts"
+					},
+					{
+						"texto": "Largo: 0.42mt"
+					},
+					{
+						"texto": "Ancho: 1.80mt"
+					}
+				]
 			},
 			{
-				"texto": "- Escalera confeccionada en tubo cuadrado de 7/8” y con escalones de madera huayruro."
-			},
-			{
-				"texto": "- Modelo Ondeado."
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Resbaladera confeccionada en fibra de vidrio de 4mm de espesor y pintado con resina hielco en colores."
+					},
+					{
+						"texto": "Escalera confeccionada en tubo cuadrado de 7/8” y con escalones de madera huayruro."
+					},
+					{
+						"texto": "Modelo Ondeado."
+					}
+				]
 			}
 		]
 	},
 	{
 		"id": "tobogan200",
 		"titulo": "Tobogán 2.00 mts",
-		"assets": "assets/img/juegossksb/toboganes/tobogan200.png",
-		"medidas": [
+		"assets": "assets/img/juegossksb/toboganes/TOBOGÁNDE2MTS-01.jpg",
+		"imgs": [
 			{
-				"texto": "Altura: 2.00mts"
-			},
-			{
-				"texto": "Largo: 3.20mt"
-			},
-			{
-				"texto": "Ancho: 0.50mt"
+				"idImage": "arcoiris1",
+				"src": "assets/img/juegossksb/toboganes/TOBOGÁNDE2MTS-01.jpg"
 			}
 		],
-		"descripciones": [
+		"info":[
 			{
-				"texto": "- Resbaladera confeccionada en fibra de vidrio de 4mm de espesor y pintado con resina hielco en colores."
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": "Altura: 2.00mts"
+					},
+					{
+						"texto": "Largo: 3.20mt"
+					},
+					{
+						"texto": "Ancho: 0.50mt"
+					}
+				]
 			},
 			{
-				"texto": "- Escalera confeccionada en tubo cuadrado de 7/8” y con escalones de madera huayruro."
-			},
-			{
-				"texto": "- Modelo Ondeado."
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Resbaladera confeccionada en fibra de vidrio de 4mm de espesor y pintado con resina hielco en colores."
+					},
+					{
+						"texto": "Escalera confeccionada en tubo cuadrado de 7/8” y con escalones de madera huayruro."
+					},
+					{
+						"texto": "Modelo Ondeado."
+					}
+				]
 			}
 		]
 	},
 	{
 		"id": "toboganfv150",
 		"titulo": "Tobogán Fibra V. 1.50 mts",
-		"assets": "assets/img/juegossksb/toboganes/toboganfv150.png",
-		"medidas": [
+		"assets": "assets/img/juegossksb/toboganes/TOBOGÁNDEFIBRADEVIDRIO1.50mtEDICIONESPECIAL-01.jpg",
+		"imgs": [
 			{
-				"texto": "Altura: 1.50mts"
+				"idImage": "arcoiris1",
+				"src": "assets/img/juegossksb/toboganes/TOBOGÁNDEFIBRADEVIDRIO1.50mtEDICIONESPECIAL-01.jpg"
 			},
 			{
-				"texto": "Largo: 2.50mt"
-			},
-			{
-				"texto": "Ancho: 0.46mt"
+				"idImage": "arcoiris2",
+				"src": "assets/img/juegossksb/toboganes/TOBOGÁNDEFIBRADEVIDRIO1.50mtEDICIONESPECIAL-02.jpg"
 			}
 		],
-		"descripciones": [
+		"info":[
 			{
-				"texto": "- Resbaladera confeccionada en fibra de vidrio de 4mm de espesor y pintado con resina hielco en colores."
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": "Altura: 1.50mts"
+					},
+					{
+						"texto": "Largo: 2.50mt"
+					},
+					{
+						"texto": "Ancho: 0.46mt"
+					}
+				]
 			},
 			{
-				"texto": "- Escalera confeccionada en tubo cuadrado de 7/8” x 1.5mm y con escalones de madera huayruro."
-			},
-			{
-				"texto": "- Escalera pintada con esmalte al horno."
-			},
-			{
-				"texto": "- Modelo Ondeado."
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Resbaladera confeccionada en fibra de vidrio de 4mm de espesor y pintado con resina hielco en colores."
+					},
+					{
+						"texto": "Escalera confeccionada en tubo cuadrado de 7/8” x 1.5mm y con escalones de madera huayruro."
+					},
+					{
+						"texto": "Escalera pintada con esmalte al horno."
+					},
+					{
+						"texto": "Modelo Ondeado."
+					}
+				]
 			}
 		]
 	},
 	{
 		"id": "toboganMetal",
 		"titulo": "Tobogán de Metal",
-		"assets": "assets/img/juegossksb/toboganes/toboganMetal.jpg",
-		"medidas": [
+		"assets": "assets/img/juegossksb/toboganes/TOBOGÁNDEMETAL-01.jpg",
+		"imgs": [
 			{
-				"texto": "Altura: 2.10mts"
-			},
-			{
-				"texto": "Largo: 3.80mt"
+				"idImage": "arcoiris1",
+				"src": "assets/img/juegossksb/toboganes/TOBOGÁNDEMETAL-01.jpg"
 			}
 		],
-		"descripciones": [
+		"info":[
 			{
-				"texto": "- Estructura confeccionada en tubo negro de ¾” y 1” x 2mm, y en plancha galvanizada de 1/20."
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": "Altura: 2.10mts"
+					},
+					{
+						"texto": "Largo: 3.80mt"
+					}
+				]
 			},
 			{
-				"texto": "- Estructura pintada con esmalte acrílico."
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Estructura confeccionada en tubo negro de ¾” y 1” x 2mm, y en plancha galvanizada de 1/20."
+					},
+					{
+						"texto": "Estructura pintada con esmalte acrílico."
+					}
+				]
 			}
 		]
 	},
 	{
 		"id": "toboganDoblefv",
 		"titulo": "Tobogán Doble Fibra V.",
-		"assets": "assets/img/juegossksb/toboganes/toboganDoblefv.png",
-		"medidas": [
+		"assets": "assets/img/juegossksb/toboganes/TOBOGÁNDOBLEDEFIBRADEVIDRIO-01.jpg",
+		"imgs": [
 			{
-				"texto": "Largo: 6mts"
+				"idImage": "arcoiris1",
+				"src": "assets/img/juegossksb/toboganes/TOBOGÁNDOBLEDEFIBRADEVIDRIO-01.jpg"
 			},
 			{
-				"texto": "Ancho: 4mt"
+				"idImage": "arcoiris2",
+				"src": "assets/img/juegossksb/toboganes/TOBOGÁNDOBLEDEFIBRADEVIDRIO-02.jpg"
 			},
 			{
-				"texto": "Altura plataforma: 1.5mt"
+				"idImage": "arcoiris3",
+				"src": "assets/img/juegossksb/toboganes/TOBOGÁNDOBLEDEFIBRADEVIDRIO-03.jpg"
 			}
 		],
-		"descripciones": [
+		"info":[
 			{
-				"texto": "- Las resbaladeras están confeccionadas en fibra de vidrio de 4mm de espesor y pintados con resina hielco en colores al escoger."
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": "Largo: 6mts"
+					},
+					{
+						"texto": "Ancho: 4mt"
+					},
+					{
+						"texto": "Altura plataforma: 1.5mt"
+					}
+				]
 			},
 			{
-				"texto": "- Escalera confeccionada en tubo negro de ¾” x 2mm, pintado con anticorrosivo y esmalte al horno en colores al escoger."
-			},
-			{
-				"texto": "- Tubo de bomberos confeccionado en tubo negro de 1” x 2mm, pintado con anticorrosivo y esmalte al horno al escoger."
-			},
-			{
-				"texto": "- Plataforma y escalones de escalera confeccionadas en madera huayruro de 1” de espesor, laqueado y barnizado."
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Las resbaladeras están confeccionadas en fibra de vidrio de 4mm de espesor y pintados con resina hielco en colores al escoger."
+					},
+					{
+						"texto": "Escalera confeccionada en tubo negro de ¾” x 2mm, pintado con anticorrosivo y esmalte al horno en colores al escoger."
+					},
+					{
+						"texto": "Tubo de bomberos confeccionado en tubo negro de 1” x 2mm, pintado con anticorrosivo y esmalte al horno al escoger."
+					},
+					{
+						"texto": "Plataforma y escalones de escalera confeccionadas en madera huayruro de 1” de espesor, laqueado y barnizado."
+					}
+				]
 			}
 		]
 	},
 	{
 		"id": "toboganMellizofv150mt",
 		"titulo": "Tobogán Mellizo Fibra V. 1.5 Mt",
-		"assets": "assets/img/juegossksb/toboganes/toboganMellizofv150mt.jpg",
-		"medidas": [
+		"assets": "assets/img/juegossksb/toboganes/TOBOGÁNMELLIZODEFIBRADEVIDRIO1.50MT-01.jpg",
+		"imgs": [
 			{
-				"texto": "Altura: 1.50mts"
+				"idImage": "arcoiris1",
+				"src": "assets/img/juegossksb/toboganes/TOBOGÁNMELLIZODEFIBRADEVIDRIO1.50MT-01.jpg"
 			},
 			{
-				"texto": "Ancho: 1.50mt"
-			},
-			{
-				"texto": "Largo: 2.50mt"
+				"idImage": "arcoiris2",
+				"src": "assets/img/juegossksb/toboganes/TOBOGÁNMELLIZODEFIBRADEVIDRIO1.50MT-02.jpg"
 			}
 		],
-		"descripciones": [
+		"info":[
 			{
-				"texto": "- Resbaladera confeccionada en fibra de vidrio de 4mm de espesor y pintado con resina hielco en colores."
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": "Altura: 1.50mts"
+					},
+					{
+						"texto": "Ancho: 1.50mt"
+					},
+					{
+						"texto": "Largo: 2.50mt"
+					}
+				]
 			},
 			{
-				"texto": "- Escalera confeccionada en tubo cuadrado de 7/8” y con escalones de madera huayruro."
-			},
-			{
-				"texto": "- Modelo ondeado."
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Resbaladera confeccionada en fibra de vidrio de 4mm de espesor y pintado con resina hielco en colores."
+					},
+					{
+						"texto": "Escalera confeccionada en tubo cuadrado de 7/8” y con escalones de madera huayruro."
+					},
+					{
+						"texto": "Modelo ondeado."
+					}
+				]
 			}
 		]
 	},
 	{
 		"id": "toboganMellizofv100mt",
 		"titulo": "Tobogán Mellizo Fibra V. 1Mt",
-		"assets": "assets/img/juegossksb/toboganes/toboganMellizofv100mt.jpg",
-		"medidas": [
+		"assets": "assets/img/juegossksb/toboganes/TOBOGÁNMELLIZODEFIBRADEVIDRIO1MT.jpg",
+		"imgs": [
 			{
-				"texto": "Altura: 1.00mts"
-			},
-			{
-				"texto": "Ancho: 1.20mt"
-			},
-			{
-				"texto": "Largo: 1.80mt"
+				"idImage": "arcoiris1",
+				"src": "assets/img/juegossksb/toboganes/TOBOGÁNMELLIZODEFIBRADEVIDRIO1MT.jpg"
 			}
 		],
-		"descripciones": [
+		"info":[
 			{
-				"texto": "- Resbaladera confeccionada en fibra de vidrio de 4mm de espesor y pintado con resina hielco en colores al escoger."
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": "Altura: 1.00mts"
+					},
+					{
+						"texto": "Ancho: 1.20mt"
+					},
+					{
+						"texto": "Largo: 1.80mt"
+					}
+				]
 			},
 			{
-				"texto": "- Escalera confeccionada en tubo cuadrado de 7/8” y pintado con esmalte al horno."
-			},
-			{
-				"texto": "- Escalones confeccionados en madera huayruro de 1” de espesor y laqueados con barniz marino."
-			},
-			{
-				"texto": "- Modelo Recto."
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Resbaladera confeccionada en fibra de vidrio de 4mm de espesor y pintado con resina hielco en colores al escoger."
+					},
+					{
+						"texto": "Escalera confeccionada en tubo cuadrado de 7/8” y pintado con esmalte al horno."
+					},
+					{
+						"texto": "Escalones confeccionados en madera huayruro de 1” de espesor y laqueados con barniz marino."
+					},
+					{
+						"texto": "Modelo Recto."
+					}
+				]
 			}
 		]
 	},
 	{
 		"id": "toboganCabezaSerpiente",
 		"titulo": "Tobogán Tubular con Cabeza de Serpiente",
-		"assets": "assets/img/juegossksb/toboganes/toboganCabezaSerpiente.png",
-		"medidas": [
+		"assets": "assets/img/juegossksb/toboganes/TOBOGÁNTUBULARCARACOLCONCABEZADESERPIENTE-01.jpg",
+		"imgs": [
 			{
-				"texto": "Altura: 2.90mts"
-			},
-			{
-				"texto": "Diámetro del Canal: 0.72mt"
-			},
-			{
-				"texto": "Área: 3.50 x 3.50mts"
+				"idImage": "arcoiris1",
+				"src": "assets/img/juegossksb/toboganes/TOBOGÁNTUBULARCARACOLCONCABEZADESERPIENTE-01.jpg"
 			}
 		],
-		"descripciones": [
+		"info":[
 			{
-				"texto": "- El canal y la cabeza de serpiente están confeccionados en fibra de vidrio contraplacado de 4mm de espesor, y pintados con esmalte al horno."
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": "Altura: 2.90mts"
+					},
+					{
+						"texto": "Diámetro del Canal: 0.72mt"
+					},
+					{
+						"texto": "Área: 3.50 x 3.50mts"
+					}
+				]
 			},
 			{
-				"texto": "- Estructura de metal confeccionado en tubo negro de ¾”, 1”, 1½” x 2mm de espesor."
-			},
-			{
-				"texto": "- Estructura pintada en esmalte al horno de color aluminio."
-			},
-			{
-				"texto": "- Modelo Recto."
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "El canal y la cabeza de serpiente están confeccionados en fibra de vidrio contraplacado de 4mm de espesor, y pintados con esmalte al horno."
+					},
+					{
+						"texto": "Estructura de metal confeccionado en tubo negro de ¾”, 1”, 1½” x 2mm de espesor."
+					},
+					{
+						"texto": "Estructura pintada en esmalte al horno de color aluminio."
+					},
+					{
+						"texto": "Modelo Recto."
+					}
+				]
 			}
 		]
 	},
 	{
 		"id": "toboganTubularCaracol",
 		"titulo": "Tobogán Tubular Caracol",
-		"assets": "assets/img/juegossksb/toboganes/toboganTubularCaracol.png",
-		"medidas": [
+		"assets": "assets/img/juegossksb/toboganes/TOBOGÁNTUBULARCARACOL.jpg",
+		"imgs": [
 			{
-				"texto": "Altura: 2.20mts"
-			},
-			{
-				"texto": "Diámetro: 0.65mt"
+				"idImage": "arcoiris1",
+				"src": "assets/img/juegossksb/toboganes/TOBOGÁNTUBULARCARACOL.jpg"
 			}
 		],
-		"descripciones": [
+		"info":[
 			{
-				"texto": "- Confeccionado en fibra de vidrio de 4mm. de espesor y pintado de colores con esmalte al horno."
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": "Altura: 2.20mts"
+					},
+					{
+						"texto": "Diámetro: 0.65mt"
+					}
+				]
 			},
 			{
-				"texto": "- Escalera triangular de metal con techo de fibra de vidrio."
-			},
-			{
-				"texto": "- Cubo de fibra de vidrio con ventanas circulares cubiertas con cúpulas de acrílico."
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Confeccionado en fibra de vidrio de 4mm. de espesor y pintado de colores con esmalte al horno."
+					},
+					{
+						"texto": "Escalera triangular de metal con techo de fibra de vidrio."
+					},
+					{
+						"texto": "Cubo de fibra de vidrio con ventanas circulares cubiertas con cúpulas de acrílico."
+					}
+				]
 			}
 		]
 	},
 	{
 		"id": "toboganCabezaDragón",
 		"titulo": "Tobogán Tubular con Cabeza de Dragón",
-		"assets": "assets/img/juegossksb/toboganes/toboganCabezDragón.png",
-		"medidas": [
+		"assets": "assets/img/juegossksb/toboganes/TOBOGÁNTUBULARCONCABEZADEDRAGÓN-01.jpg",
+		"imgs": [
 			{
-				"texto": "Altura: 5mts"
+				"idImage": "arcoiris1",
+				"src": "assets/img/juegossksb/toboganes/TOBOGÁNTUBULARCONCABEZADEDRAGÓN-01.jpg"
 			},
 			{
-				"texto": "Largo: 10mt"
-			},
-			{
-				"texto": "Diámetro: 0.72mt"
+				"idImage": "arcoiris2",
+				"src": "assets/img/juegossksb/toboganes/TOBOGÁNTUBULARCONCABEZADEDRAGÓN-02.jpg"
 			}
 		],
-		"descripciones": [
+		"info":[
 			{
-				"texto": "- Confeccionado en fibra de vidrio de 4mm de espesor y pintado con hielco al escoger."
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": "Altura: 5mts"
+					},
+					{
+						"texto": "Largo: 10mt"
+					},
+					{
+						"texto": "Diámetro: 0.72mt"
+					}
+				]
 			},
 			{
-				"texto": "- Estructura de metal confeccionada en tubo negro de 1¼” x 2mm de espesor."
-			},
-			{
-				"texto": "- Estructura pintada con esmalte al horno."
-			},
-			{
-				"texto": "- Deslizamiento en forma Zigzag."
-			},
-			{
-				"texto": "- Posee ventanas en ambos lados a lo largo del deslizamiento."
-			},
-			{
-				"texto": "- La cabeza de Dragón se ubica en la salida del juego."
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Confeccionado en fibra de vidrio de 4mm de espesor y pintado con hielco al escoger."
+					},
+					{
+						"texto": "Estructura de metal confeccionada en tubo negro de 1¼” x 2mm de espesor."
+					},
+					{
+						"texto": "Estructura pintada con esmalte al horno."
+					},
+					{
+						"texto": "Deslizamiento en forma Zigzag."
+					},
+					{
+						"texto": "Posee ventanas en ambos lados a lo largo del deslizamiento."
+					},
+					{
+						"texto": "La cabeza de Dragón se ubica en la salida del juego."
+					}
+				]
 			}
 		]
 	},
 	{
 		"id": "toboganTubularfv",
 		"titulo": "Tobogán Tubular Fibra de Vidrio",
-		"assets": "assets/img/juegossksb/toboganes/toboganTubularfv.jpg",
-		"medidas": [
+		"assets": "assets/img/juegossksb/toboganes/TOBOGÁNTUBULARDEFIBRADEVIDRIO-01.jpg",
+		"imgs": [
 			{
-				"texto": "Altura: 2mts"
+				"idImage": "arcoiris1",
+				"src": "assets/img/juegossksb/toboganes/TOBOGÁNTUBULARDEFIBRADEVIDRIO-01.jpg"
 			},
 			{
-				"texto": "Diámetro del Canal: 0.72mt"
-			},
-			{
-				"texto": "Largo: 3.20mt"
+				"idImage": "arcoiris2",
+				"src": "assets/img/juegossksb/toboganes/TOBOGÁNTUBULARDEFIBRADEVIDRIO-02.jpg"
 			}
 		],
-		"descripciones": [
+		"info":[
 			{
-				"texto": "- Confeccionado en fibra de vidrio contraplacado de 4mm de espesor."
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": "Altura: 2mts"
+					},
+					{
+						"texto": "Diámetro del Canal: 0.72mt"
+					},
+					{
+						"texto": "Largo: 3.20mt"
+					}
+				]
 			},
 			{
-				"texto": "- Pintado con esmalte al horno de 4 colores o al escoger."
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Confeccionado en fibra de vidrio contraplacado de 4mm de espesor."
+					},
+					{
+						"texto": "Pintado con esmalte al horno de 4 colores o al escoger."
+					}
+				]
 			}
 		]
 	}

@@ -1,0 +1,351 @@
+[
+    {
+        "id": "arcofulbito",
+		"titulo": "Arco de Fulbito",
+		"assets": "assets/img/juegossksb/arcofulbitobasquetyvoley/arco-3x2.jpg",
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/arcofulbitobasquetyvoley/arco-3x2.jpg"
+            },
+            {
+				"idImage": "arco02",
+				"src": "assets/img/juegossksb/arcofulbitobasquetyvoley/arco-3x2-2.jpg"
+            },
+            {
+				"idImage": "arco03",
+				"src": "assets/img/juegossksb/arcofulbitobasquetyvoley/arco-3x2-3.jpg"
+			}
+
+		],
+		"info":[
+			{
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": "Largo: 3mts"
+						},
+						{
+						"texto": "Ancho: 2mts"
+						}
+				]
+			},
+			{
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Estructura confeccionada en tubo negro estructural de 2” x 2mm de espesor."
+					},
+					{
+						"texto": "Estructura pintada con esmalte al horno color blanco."
+					},
+					{
+						"texto": "Malla alquitranada."
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "ArcodeFulbitoconTablerodeBasquet",
+		"titulo": "Arco de Fulbito con Tablero de Basquet",
+		"assets": "assets/img/juegossksb/arcofulbitobasquetyvoley/arco-tablero.jpg",
+
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/arcofulbitobasquetyvoley/arco-tablero.jpg"
+			},
+			{
+				"idImage": "arco02",
+				"src": "assets/img/juegossksb/arcofulbitobasquetyvoley/arco-tablero2.jpg"
+			},
+			{
+				"idImage": "arco03",
+				"src": "assets/img/juegossksb/arcofulbitobasquetyvoley/arco-tablero3.jpg"
+         }
+		],
+		"info":[
+			{
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": "Tablero: 1.80mt. x 1.05mt."
+					},
+					{
+						"texto": "Arco: 3mts. X 2mts."
+					},
+					{
+						"texto": "Altura: 3.05mts."
+					}
+				]
+			},
+			{
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Confeccionado en tubo negro estructural de ¾”, 2” x 2mm de espesor."
+					},
+					{
+						"texto": "Bastidor de metal de tubo cuadrado de 1” x 1.5mm de espesor."
+					},
+					{
+						"texto": "Estructura pintada con esmalte al horno de color blanco."
+					},
+					{
+						"texto": "Tablero de placa maciza de 18mm de espesor."
+					},
+					{
+						"texto": "Tablero pintado al duco color blanco."
+					},
+					{
+						"texto": "Incluye aro y canastilla de nylon."
+					}
+				]
+			}
+		]
+		},
+		{
+			"id": "MiniArcodeFulbito",
+			"titulo": "Mini Arco de Fulbito",
+			"assets": "assets/img/juegossksb/arcofulbitobasquetyvoley/arco1.20x90.jpg",
+	
+			"imgs": [
+				{
+					"idImage": "arco01",
+					"src": "assets/img/juegossksb/arcofulbitobasquetyvoley/arco1.20x90.jpg"
+				},
+				{
+					"idImage": "arco02",
+					"src": "assets/img/juegossksb/arcofulbitobasquetyvoley/arco1.20x90-2.jpg"
+				}
+			],
+			"info":[
+				{
+					"title":"Medidas",
+					"text":[
+						{
+							"texto": "Altura: 0.90mt."
+						},
+						{
+							"texto": "Largo: 1.20mt."
+						}
+					]
+				},
+				{
+					"title":"Descripciones",
+					"text":[
+						{
+							"texto": "Estructura confeccionada en tubo cuadrado de 7/8” x 1.5mm de espesor."
+						},
+						{
+							"texto": "Estructura pintada en esmalte al horno de color blanco."
+						},
+						{
+							"texto": "Malla de nylon de color verde."
+						},
+						{
+							"texto": "Marco principal acolchado con espuma de 2” y forrado con tela concord."
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "ParantesdeBasquetAmateur",
+			"titulo": "Parantes de Basquet Amateur",
+			"assets": "assets/img/juegossksb/arcofulbitobasquetyvoley/amateur-regulable1.jpg",
+	
+			"imgs": [
+				{
+					"idImage": "arco01",
+					"src": "assets/img/juegossksb/arcofulbitobasquetyvoley/amateur-regulable1.jpg"
+				},
+				{
+					"idImage": "arco02",
+					"src": "assets/img/juegossksb/arcofulbitobasquetyvoley/amateur-regulable2.jpg"
+				}
+			],
+			"info":[
+				{
+					"title":"Medidas",
+					"text":[
+						{
+							"texto": "Altura: 2.70mts – 3.05mts."
+						},
+						{
+							"texto": "Altura de Tablero: 0.90mt."
+						},
+						{
+							"texto": "Ancho de Tablero: 1.20mt."
+						},
+						{
+							"texto": "Espesor de Tablero: 10mm."
+						}
+						
+					]
+				},
+				{
+					"title":"Descripciones",
+					"text":[
+						{
+							"texto": "Confeccionado en tubo redondo de 2½” x 2mm con sistema regulable."
+						},
+						{
+							"texto": "Pintado con esmalte al horno de negro o blanco."
+						},
+						{
+							"texto": "Plataforma con base de cemento."
+						},
+						{
+							"texto": "Incluye aro de metal y malla de nylon."
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "ParantesdeBasquetRegulableReglamentario",
+			"titulo": "Parantes de Basquet Regulable Reglamentario",
+			"assets": "assets/img/juegossksb/arcofulbitobasquetyvoley/tablero-regulable-reglamentario.jpg",
+	
+			"imgs": [
+				{
+					"idImage": "arco01",
+					"src": "assets/img/juegossksb/arcofulbitobasquetyvoley/tablero-regulable-reglamentario.jpg"
+				},
+				{
+					"idImage": "arco02",
+					"src": "assets/img/juegossksb/arcofulbitobasquetyvoley/tablero-regulable-reglamentario2.jpg"
+				},
+				{
+					"idImage": "arco03",
+					"src": "assets/img/juegossksb/arcofulbitobasquetyvoley/tablero-regulable-reglamentario3.jpg"
+				}
+			],
+			"info":[
+				{
+					"title":"Medidas",
+					"text":[
+						{
+							"texto": "Altura: 2.70mts – 3.05mts."
+						},
+						{
+							"texto": "Altura de Tablero: 1.05mt."
+						},
+						{
+							"texto": "Ancho de Tablero: 1.80mt."
+						},
+						{
+							"texto": "Espesor de Tablero: 10mm."
+						}
+					]
+				},
+				{
+					"title":"Descripciones",
+					"text":[
+						{
+							"texto": "Confeccionado en tubo cuadrado de 5” con sistema regulable."
+						},
+						{
+							"texto": "Pintado con esmalte al horno de color negro o blanco."
+						},
+						{
+							"texto": "Anclado al piso con concreto armado de cemento."
+						},
+						{
+							"texto": "Incluye aro de metal y malla nylon."
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "PARANTESDEVOLEY",
+			"titulo": "PARANTES DE VOLEY",
+			"assets": "assets/img/juegossksb/arcofulbitobasquetyvoley/PARANTESDEVOLEY-1.jpg",
+	
+			"imgs": [
+				{
+					"idImage": "arco01",
+					"src": "assets/img/juegossksb/arcofulbitobasquetyvoley/PARANTESDEVOLEY-1.jpg"
+				},
+				{
+					"idImage": "arco01",
+					"src": "assets/img/juegossksb/arcofulbitobasquetyvoley/PARANTESDEVOLEY-2.jpg"
+				}
+			],
+			"info":[
+				{
+					"title":"Medidas",
+					"text":[
+						{
+							"texto": "Altura: 2.48mts."
+						},
+						{
+							"texto": "Ancho: 9mts."
+						}
+					]
+				},
+				{
+					"title":"Descripciones",
+					"text":[
+						{
+							"texto": "Confeccionado en tubo negro de 2½” x 2mm. de espesor."
+						},
+						{
+							"texto": "Parantes pintados al horno de color blanco."
+						},
+						{
+							"texto": "Incluye malla con cables."
+						}
+					]
+				}
+			]
+		},
+		{
+			"id": "TABLERODEBASQUETDEAGLOMERADO(SINPARANTES)",
+			"titulo": "TABLERO DE BASQUET DE AGLOMERADO (SIN PARANTES)",
+			"assets": "assets/img/juegossksb/arcofulbitobasquetyvoley/tablero-basquet-aglomerado.jpg",
+	
+			"imgs": [
+				{
+					"idImage": "arco01",
+					"src": "assets/img/juegossksb/arcofulbitobasquetyvoley/tablero-basquet-aglomerado.jpg"
+				}
+			],
+			"info":[
+				{
+					"title":"Medidas",
+					"text":[
+						{
+							"texto": "Alto: 1.05mt."
+						},
+						{
+							"texto": "Ancho: 1.80mt."
+						}
+					]
+				},
+				{
+					"title":"Descripciones",
+					"text":[
+						{
+							"texto": "Confeccionado en aglomerado de pino de 18mm de espesor."
+						},
+						{
+							"texto": "Pintado al duco color blanco con rayas rojas o negras."
+						},
+						{
+							"texto": "Bastidor de tubo cuadrado de 1” x 1.5mm de espesor."
+						},
+						{
+							"texto": "Pintado al horno en color negro."
+						},
+						{
+							"texto": "Incluye aro de metal y malla de nylon."
+						}
+					]
+				}
+			]
+		}
+]
