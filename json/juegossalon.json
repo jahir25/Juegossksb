@@ -1,19 +1,761 @@
 [
 	{
-		"id": "cubiletecuero",
-		"titulo": "Cubilte de Cuero",
-		"assets": "assets/img/juegossksb/juegossalon/cubiletecuero.png",
-		"medidas": [
+		"id": "CUBILETEDECUERO",
+		"titulo":"CUBILETE DE CUERO",
+		"category":"Ajedrez",
+		"assets": "assets/img/juegossksb/juegossalon/cubilete-cuero1.jpg",
+	
+		"imgs": [
 			{
-				"texto": "Largo: 8cmts"
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/cubilete-cuero1.jpg"
 			},
 			{
-				"texto": "Diámetro: 7cmts"
+				"idImage": "arco02",
+				"src": "assets/img/juegossksb/juegossalon/cubilete-cuero2.jpg"
 			}
 		],
-		"descripciones": [
+		"info":[
 			{
-				"texto": "Confeccionado en cuero con figuras."
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": "Altura: 8 cmts."
+					},
+					{
+						"texto": "Diámetro: 7cmts."
+					}
+				]
+			},
+			{
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Confeccionado en cuero con figuras"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "CUBILETEDEPLÁSTICOPARACASINO",
+		"titulo": "CUBILETE DE PLÁSTICO PARA CASINO",
+		"category":"Ajedrez",
+		"assets": "assets/img/juegossksb/juegossalon/CUBILETEDEPLÁSTICOPARACASINO-01.jpg",
+	
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/CUBILETEDEPLÁSTICOPARACASINO-01.jpg"
+			}
+		]
+	},
+	{
+		"id": "DARDOSIMANTADOS",
+		"titulo": "DARDOS IMANTADOS",
+		"category":"Ajedrez",
+		"assets": "assets/img/juegossksb/juegossalon/dardos-imantados.jpg",
+	
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/dardos-imantados.jpg"
+			}
+		],
+		"info":[
+			{
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": "Ancho: 38cmts."
+					},
+					{
+						"texto": "Largo: 44cmts."
+					}
+				]
+			},
+			{
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Incluye 6 plumillas con puntas imantadas."
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "JUEGODEBINGO",
+		"titulo": "JUEGO DE BINGO",
+		"category":"Ajedrez",
+		"assets": "assets/img/juegossksb/juegossalon/juegobingo.png",
+		
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/juegobingo.png"
+			}
+		]
+	},
+	{
+		"id": "JUEGODEDARDOS",
+		"titulo": "JUEGO DE DARDOS",
+		"category":"Ajedrez",
+		"assets": "assets/img/juegossksb/juegossalon/juego-dardos.jpg",
+	
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/juego-dardos.jpg"
+			}
+		]
+	},
+	{
+		"id": "MALETINCOMPLETODEFICHASDECASINO",
+		"titulo": "MALETIN COMPLETO DE FICHAS DE CASINO",
+		"category":"Ajedrez",
+		"assets": "assets/img/juegossksb/juegossalon/maletin-fichas-casino-completo.jpg",
+	
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/maletin-fichas-casino-completo.jpg"
+			}
+		]
+	},
+	{
+		"id": "MALETINDEFICHASDECASINO",
+		"titulo": "MALETIN DE FICHAS DE CASINO",
+		"category":"Ajedrez",
+		"assets": "assets/img/juegossksb/juegossalon/maletin-fichas-casino.jpg",
+	
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/maletin-fichas-casino.jpg"
+			}
+		]
+	},
+	{
+		"id": "MESA CUADRADA DE AJEDREZ",
+		"titulo": "MESA CUADRADA DE AJEDREZ",
+		"category":"Ajedrez",
+		"assets": "assets/img/juegossksb/juegossalon/mesa-ajedrez.jpg",
+	
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/mesa-ajedrez.jpg"
+			}
+		],
+		"info":[
+			{
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": "Largo: 0.70mt."
+					},
+					{
+						"texto": "Ancho: 0.7mt."
+					},
+					{
+						"texto": "Altura: 0.75mt."
+					}
+				]
+			},
+			{
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Elaborado en madera tornillo."
+					},
+					{
+						"texto": "Enchapado con enchape Jacaranda acabado en laca a la piroxilina."
+					},
+					{
+						"texto": "Tablero enchapado de ajedrez."
+					},
+					{
+						"texto": "Incluye con un juego de fichas de ajedrez de madera torneada."
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MESAHEXAGONALAJEDREZ-CASINO",
+		"titulo":"MESA HEXAGONAL AJEDREZ-CASINO",
+		"category":"Ajedrez",
+		"assets": "assets/img/juegossksb/juegossalon/mesa-ajedrez-casino.jpg",
+	
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/mesa-ajedrez-casino.jpg"
+			}
+		],
+		"info":[
+			{
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": "Diámetro: 1.10mt."
+					}
+				]
+			},
+			{
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Confeccionado en madera tornillo. "
+					},
+					{
+						"texto": "Enchapado con enchape Jacaranda acabado en laca a la piroxilina."
+					},
+					{
+						"texto": "Tablero reversible (una cara forrada de paño de color verde y la otra cara, enchapado de ajedrez."
+					}
+				]
+			},
+			{
+				"title":"Incluye",
+				"text":[
+					{
+						"texto": "Un juego de casino."
+					},
+					{
+						"texto": "Un cubilete de cuero."
+					},
+					{
+						"texto": "Un juego de fichas de ajedrez de madera torneada."
+					}
+				]
+			}
+			
+		]
+	},
+	{
+		"id": "TABLEROACOLCHADODEPOKEROCTOGONAL",
+		"titulo": "TABLERO ACOLCHADO DE POKER OCTOGONAL",
+		"category":"Ajedrez",
+		"assets": "assets/img/juegossksb/juegossalon/tablero-poker.jpg",
+	
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/tablero-poker.jpg"
+			}
+		],
+		"info":[
+			{
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": "Diámetro: 1.30mt"
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "TABLEROACOLCHADODEPOKEROVALADO",
+		"titulo": "TABLERO ACOLCHADO DE POKER OVALADO",
+		"category":"Ajedrez",
+		"assets": "assets/img/juegossksb/juegossalon/tablero-poker-ovalado.jpg",
+	
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/tablero-poker-ovalado.jpg"
+			}
+		],
+		"info":[
+			{
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": "Largo: 1.60mt."
+					},
+					{
+						"texto": "Ancho: 0.80mt."
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "TABLERODEAJEDREZ",
+		"titulo": "TABLERO DE AJEDREZ",
+		"category":"Ajedrez",
+		"assets": "assets/img/juegossksb/juegossalon/tablero-ajedrez1.jpg",
+	
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/tablero-ajedrez1.jpg"
+			},
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/tablero-ajedrez2.jpg"
+			}
+		],
+		"info":[
+			{
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": "Largo: 0.42mt."
+					},
+					{
+						"texto": "Ancho: 0.42mt."
+					}
+				]
+			},
+			{
+				"title":"Incluye",
+				"text":[
+					{
+						"texto": "Incluye fichas de ajedrez y damas de madera torneada."
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "ACCESORIOSDEMESADEHOCKEY",
+		"titulo": "ACCESORIOS DE MESA DE HOCKEY",
+		"category":"Hockey",
+		"assets": "assets/img/juegossksb/juegossalon/accesorios-hockey1.jpg",
+	
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/accesorios-hockey1.jpg"
+			},
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/accesorios-hockey2.jpg"
+			}
+		]
+	},
+	{
+		"id": "HOCKEYMODELOAMERICANO",
+		"titulo": "HOCKEY MODELO AMERICANO",
+		"category":"Hockey",
+		"assets": "assets/img/juegossksb/juegossalon/hockey-americano1.jpg",
+	
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/hockey-americano1.jpg"
+			},
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/hockey-americano2.jpg"
+			},
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/hockey-americano3.jpg"
+			},
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/hockey-americano4.jpg"
+			}
+		],
+		"info":[
+			{
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": "Largo: 2mts."
+					},
+					{
+						"texto": "Ancho: 1mt."
+					}
+				]
+			},
+			{
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Mueble confeccionado en aglomerado de pino de 19mm (placa maciza)."
+					},
+					{
+						"texto": "Enchapado en fórmica (colores al escoger."
+					},
+					{
+						"texto": "Esquineros elaborados en fibra de vidrio."
+					},
+					{
+						"texto": "Cancha de fórmica de color blanco."
+					},
+					{
+						"texto": "Marco de aluminio pintados de color verde o al escoger."
+					},
+					{
+						"texto": "Marcadores electrónicos con temporizador regulable."
+					},
+					{
+						"texto": "Motor soplador de 1 caballo de fuerza."
+					},
+					{
+						"texto": "Amperaje 4.5 amperios."
+					},
+					{
+						"texto": "Voltaje: 220 voltios."
+					}
+				]
+			},
+			{
+				"title":"Incluye",
+				"text":[
+					{
+						"texto": "Dos mandos."
+					},
+					{
+						"texto": "Una ficha de juego."
+					},
+					{
+						"texto": "50 fichas para la activación del sistema."
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MESADEPINGPONGAMERICANO",
+		"titulo": "MESA DE PING PONG AMERICANO",
+		"category":"Mesa de Ping Pong",
+		"assets": "assets/img/juegossksb/juegossalon/mesa-ping-pong-1.jpg",
+	
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/mesa-ping-pong-1.jpg"
+			},
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/mesa-ping-pong-2.jpg"
+			}
+		],
+		"info":[
+			{
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": "Ancho: 1.525mt."
+					},
+					{
+						"texto": "Largo: 2.74mts."
+					}
+				]
+			},
+			{
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Estructura confeccionada en tubo cuadrado de 1” y 7/8”."
+					},
+					{
+						"texto": "Estructura pintada en esmalte al horno color negro, blanco o gris."
+					},
+					{
+						"texto": "Consta de 4 garruchas para mayor facilidad de traslado."
+					},
+					{
+						"texto": "Tableros confeccionados en aglomerado de pino de 15mm de espesor."
+					},
+					{
+						"texto": "Tableros pintados a la piroxilina de color verde pizarra o azul en acabado mate."
+					},
+					{
+						"texto": "Incluye un juego de accesorios (2 paletas, 2 parantes, 1 malla, y 3 pelotas)."
+					},
+					{
+						"texto": "Modelo plegable."
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MESADEPINGPONGMODELOEXPORTACIÓN",
+		"titulo": "MESA DE PING PONG MODELO EXPORTACIÓN",
+		"category":"Mesa de Ping Pong",
+		"assets": "assets/img/juegossksb/juegossalon/mesa-ping-pong-exp-1.jpg",
+	
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/mesa-ping-pong-exp-1.jpg"
+			},
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/mesa-ping-pong-exp-2.jpg"
+			},
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/mesa-ping-pong-exp-3.jpg"
+			},
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/mesa-ping-pong-exp-4.jpg"
+			}
+		],
+		"info":[
+			{
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": "Ancho: 1.525mt."
+					},
+					{
+						"texto": "Largo: 2.74mts."
+					}
+				]
+			},
+			{
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Estructura confeccionada en tubo negro de 1½” x 1½” x 0.9mm, 1” x 2” x 0.9mm y 1½” x 0.9mm."
+					},
+					{
+						"texto": "Estructura pintada con esmalte al horno color negro, blanco o gris."
+					},
+					{
+						"texto": "Consta de 4 rodajes internos por tablero."
+					},
+					{
+						"texto": "Consta de 8 garruchas (4 con frenos y 4 sin frenos)."
+					},
+					{
+						"texto": "Tableros confeccionados en aglomerado de pino de 18mm de espesor."
+					},
+					{
+						"texto": "Tableros pintados a la piroxilina de color verde pizarra o azul en acabado mate."
+					},
+					{
+						"texto": "Incluye un juego de accesorios (2 paletas, 2 parantes, 1 malla, 6 pelotas)."
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "",
+		"titulo": "",
+		"category":"Mesas de Billar",
+		"assets": "assets/img/juegossksb/juegossalon/.jpg",
+	
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/.jpg"
+			}
+		],
+		"info":[
+			{
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": ""
+					}
+				]
+			},
+			{
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "",
+		"titulo": "",
+		"category":"Mesas de Billar",
+		"assets": "assets/img/juegossksb/juegossalon/.jpg",
+	
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/.jpg"
+			}
+		],
+		"info":[
+			{
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": ""
+					}
+				]
+			},
+			{
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "",
+		"titulo": "",
+		"category":"Mesas de Billar",
+		"assets": "assets/img/juegossksb/juegossalon/.jpg",
+	
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/.jpg"
+			}
+		],
+		"info":[
+			{
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": ""
+					}
+				]
+			},
+			{
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "",
+		"titulo": "",
+		"category":"Mesas de Billar",
+		"assets": "assets/img/juegossksb/juegossalon/.jpg",
+	
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/.jpg"
+			}
+		],
+		"info":[
+			{
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": ""
+					}
+				]
+			},
+			{
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "",
+		"titulo": "",
+		"category":"Mesas de Billar",
+		"assets": "assets/img/juegossksb/juegossalon/.jpg",
+	
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/.jpg"
+			}
+		],
+		"info":[
+			{
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": ""
+					}
+				]
+			},
+			{
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "",
+		"titulo": "",
+		"category":"Mesas de Billar",
+		"assets": "assets/img/juegossksb/juegossalon/.jpg",
+	
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/.jpg"
+			}
+		],
+		"info":[
+			{
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": ""
+					}
+				]
+			},
+			{
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": ""
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "",
+		"titulo": "",
+		"category":"Mesas de Billar",
+		"assets": "assets/img/juegossksb/juegossalon/.jpg",
+	
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/.jpg"
+			}
+		],
+		"info":[
+			{
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": ""
+					}
+				]
+			},
+			{
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": ""
+					}
+				]
 			}
 		]
 	}

@@ -33,14 +33,14 @@
         "ca_id": "C06",
         "ca_name": "Cama Elástica",
         "ca_img": "assets/img/juegossksb/category/camaelastica.jpg",
-        "ca_json": "./json/tobojan.json",
+        "ca_json": "./json/CamaElastica.json",
         "ca_flag_cate": false
     },{
         "ca_id": "C07",
         "ca_name": "Juegos de Salón",
-        "ca_img": "assets/img/juegossksb/category/juegosSalon.jpg",
+        "ca_img": "assets/img/juegossksb/category/JuegosSalon.jpg",
         "ca_json": "./json/juegossalon.json",
-        "ca_flag_cate": false
+        "ca_flag_cate": true
     },{
         "ca_id": "C08",
         "ca_name": "Inflables",
@@ -63,7 +63,7 @@
         "ca_id": "C011",
         "ca_name": "Arcos",
         "ca_img": "assets/img/juegossksb/category/columpios.jpg",
-        "ca_json": "./json/arcoFulbitoBasquetyVoley.json",
+        "ca_json": "./json/arcofulbito.json",
         "ca_flag_cate": false
     }
     

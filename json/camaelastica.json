@@ -189,36 +189,6 @@
 		]
 	},
 	{
-		"id": "",
-		"titulo": "",
-		"assets": "assets/img/juegossksb/camaelastica/.jpg",
-
-		"imgs": [
-			{
-				"idImage": "arco01",
-				"src": "assets/img/juegossksb/camaelastica/.jpg"
-			}
-		],
-		"info":[
-			{
-				"title":"Medidas",
-				"text":[
-					{
-						"texto": ""
-					}
-				]
-			},
-			{
-				"title":"Descripciones",
-				"text":[
-					{
-						"texto": ""
-					}
-				]
-			}
-		]
-	},
-	{
 		"id": "CAMAELÁSTICAOVALADA8MTSX4.27MTS",
 		"titulo":"CAMA ELÁSTICA OVALADA 8MTS X 4.27MTS",
 		"assets": "assets/img/juegossksb/camaelastica/CAMAELÁSTICAOVALADA8MTSX4.27MTS-1.jpg",
@@ -235,18 +205,647 @@
 		],
 		"info":[
 			{
-				"title":"Medidas",
+				"title":"Descripciones",
 				"text":[
 					{
-						"texto": ""
+						"texto": "Medida: 8mts de largo x 4.27mts de ancho."
+					},
+					{
+						"texto": "Estructura confeccionada en tubo negro de ¾”, 1¼” y 1½”x 2mm de espesor."
+					},
+					{
+						"texto": "Estructura pintada en esmalte al horno color aluminio."
+					},
+					{
+						"texto": "Estructura desarmable."
+					},
+					{
+						"texto": "Lona importada."
+					},
+					{
+						"texto": "148 resortes de 21cmts de largo."
+					},
+					{
+						"texto": "Protector de resortes confeccionado en lona concord en 4 colores y acolchado con espuma de 1” de espesor."
+					},
+					{
+						"texto": "Parantes forrados con lona concord y acolchados con espuma de 2” de espesor."
+					},
+					{
+						"texto": "La sombrilla y falda están confeccionados en lona concord de 4 colores."
+					},
+					{
+						"texto": "Falda decorada con figuras geométricas."
+					},
+					{
+						"texto": "Cercado con malla nylon de color verde."
 					}
 				]
+			}
+		]
+	},
+	{
+		"id": "CAMAELÁSTICAOVALADA10MTSX4.27MTS",
+		"titulo": "CAMA ELÁSTICA OVALADA 10MTS X 4.27MTS",
+		"assets": "assets/img/juegossksb/camaelastica/CAMAELÁSTICAOVALADA10MTSX4.27MTS-1.jpg",
+
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/camaelastica/CAMAELÁSTICAOVALADA10MTSX4.27MTS-1jpg"
 			},
+			{
+				"idImage": "arco02",
+				"src": "assets/img/juegossksb/camaelastica/CAMAELÁSTICAOVALADA10MTSX4.27MTS-2.jpg"
+			},
+			{
+				"idImage": "arco03",
+				"src": "assets/img/juegossksb/camaelastica/CAMAELÁSTICAOVALADA10MTSX4.27MTS-3.jpg"
+			}
+		],
+		"info":[
 			{
 				"title":"Descripciones",
 				"text":[
 					{
-						"texto": ""
+						"texto": "Medida: 10mts de largo x 4.27mts de ancho."
+					},
+					{
+						"texto": "Estructura confeccionada en tubo negro de ¾”, 1¼” y 1½”x 2mm de espesor."
+					},
+					{
+						"texto": "Estructura pintada en esmalte al horno color aluminio."
+					},
+					{
+						"texto": "Estructura desarmable."
+					},
+					{
+						"texto": "Lona importada."
+					},
+					{
+						"texto": "180 resortes de 21cmts de largo."
+					},
+					{
+						"texto": "Protector de resortes confeccionado en lona concord en 4 colores y acolchado con espuma de 1” de espesor."
+					},
+					{
+						"texto": "Parantes forrados con lona concord y acolchados con espuma de 2” de espesor."
+					},
+					{
+						"texto": "La sombrilla y falda están confeccionados en lona concord de 4 colores."
+					},
+					{
+						"texto": "Falda decorada con figuras geométricas."
+					},
+					{
+						"texto": "Cercado con malla nylon de color verde. "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "CAMAELÁSTICAOVALADADE3MTSX2MTS",
+		"titulo": "CAMA ELÁSTICA OVALADA DE 3MTS X 2MTS",
+		"assets": "assets/img/juegossksb/camaelastica/CAMAELÁSTICAOVALADADE3MTSX2MTS-1.jpg",
+
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/camaelastica/CAMAELÁSTICAOVALADADE3MTSX2MTS-1.jpg"
+			},
+			{
+				"idImage": "arco02",
+				"src": "assets/img/juegossksb/camaelastica/CAMAELÁSTICAOVALADADE3MTSX2MTS-2.jpg"
+			},
+			{
+				"idImage": "arco03",
+				"src": "assets/img/juegossksb/camaelastica/CAMAELÁSTICAOVALADADE3MTSX2MTS-3.jpg"
+			}
+		],
+		"info":[
+			{
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Medida: 3mts de largo x 2mts de ancho."
+					},
+					{
+						"texto": "Estructura confeccionada en tubo negro de ¾” y 1¼” x 2mm de espesor."
+					},
+					{
+						"texto": "Estructura pintada en esmalte al horno color aluminio."
+					},
+					{
+						"texto": "Estructura desarmable."
+					},
+					{
+						"texto": "Lona importada."
+					},
+					{
+						"texto": "60 resortes de 14cmts de largo."
+					},
+					{
+						"texto": "Protector de resortes confeccionado en lona concord en 4 colores (rojo, verde, amarillo y azul) y acolchado con espuma de 1” de espesor."
+					},
+					{
+						"texto": "Parantes forrados con lona concord y acolchados con espuma de 2” de espesor."
+					},
+					{
+						"texto": "La sombrilla y falda están confeccionados en lona concord de 4 colores."
+					},
+					{
+						"texto": "Falda decorada con figuras geométricas."
+					},
+					{
+						"texto": "Cercado con malla nylon de color verde."
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "CAMAELÁSTICARECTANGULAR8MTSX4.30MTS",
+		"titulo": "CAMA ELÁSTICA RECTANGULAR 8MTS X 4.30MTS",
+		"assets": "assets/img/juegossksb/camaelastica/CAMAELÁSTICARECTANGULAR8MTSX4.30MTS.jpg",
+
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/camaelastica/CAMAELÁSTICARECTANGULAR8MTSX4.30MTS.jpg"
+			}
+		],
+		"info":[
+			{
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Medidas: 8mts x 4.30mts."
+					},
+					{
+						"texto": "Estructura confeccionada en tubo negro de 1¼” y 1½” x 2mm. "
+					},
+					{
+						"texto": "Estructura pintada en esmalte al horno color aluminio."
+					},
+					{
+						"texto": "Estructura desarmable."
+					},
+					{
+						"texto": "Lona importada americana."
+					},
+					{
+						"texto": "172 resortes de 21 cmts de largo."
+					},
+					{
+						"texto": "Protector de resortes confeccionado en lona concord en 4 colores (rojo, verde, amarillo y azul), acolchado con espuma de 1” de espesor y cocido con hilo nylon."
+					},
+					{
+						"texto": "Parantes forrados en lona concord en 4 colores y acolchado con espuma de 2” de espesor."
+					},
+					{
+						"texto": "Techo y falda confeccionados en tela concord en 4 colores."
+					},
+					{
+						"texto": "Falda decorada con figuras geométricas."
+					},
+					{
+						"texto": "Cercado con malla nylon color verde."
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "CAMAELÁSTICARECTANGULAR10.60MTSX4.30MTS",
+		"titulo": "CAMA ELÁSTICA RECTANGULAR 10.60MTS X 4.30MTS",
+		"assets": "assets/img/juegossksb/camaelastica/CAMAELÁSTICARECTANGULAR10.60MTSX4.30MTS-1.jpg",
+
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/camaelastica/CAMAELÁSTICARECTANGULAR10.60MTSX4.30MTS-1.jpg"
+			},
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/camaelastica/CAMA ELÁSTICARECTANGULAR10.60MTSX4.30MTS-2.jpg"
+			},
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/camaelastica/CAMAELÁSTICARECTANGULAR10.60MTSX4.30MTS-3.jpg"
+			}
+		],
+		"info":[
+			{
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Medidas: 10.60mts x 5.30mts"
+					},
+					{
+						"texto": "Estructura confeccionada en tubo negro de 1¼” y 1½” x 2mm. "
+					},
+					{
+						"texto": "Estructura pintada en esmalte al horno color aluminio."
+					},
+					{
+						"texto": "Estructura desarmable."
+					},
+					{
+						"texto": "Lona importada americana."
+					},
+					{
+						"texto": "240 resortes de 21 cmts de largo."
+					},
+					{
+						"texto": "Protector de resortes confeccionado en lona concord en 4 colores (rojo, verde, amarillo y azul), acolchado con espuma de 1” de espesor y cocido con hilo nylon."
+					},
+					{
+						"texto": "Parantes forrados en lona concord en 4 colores y acolchado con espuma de 2” de espesor."
+					},
+					{
+						"texto": "Techo y falda confeccionados en tela concord en 4 colores."
+					},
+					{
+						"texto": "Falda decorada con figuras geométricas."
+					},
+					{
+						"texto": "Cercado con malla nylon color verde."
+					},
+					{
+						"texto": "Un tobogán de fibra de vidrio de 1.20mt de altura."
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "CAMAELÁSTICARECTANGULARCONDOBLETECHO",
+		"titulo": "CAMA ELÁSTICA RECTANGULAR CON DOBLE TECHO",
+		"assets": "assets/img/juegossksb/camaelastica/CAMAELÁSTICARECTANGULARCONDOBLETECHO-1.jpg",
+
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/camaelastica/CAMAELÁSTICARECTANGULARCONDOBLETECHO-1.jpg"
+			},
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/camaelastica/CAMAELÁSTICARECTANGULARCONDOBLETECHO-2.jpg"
+			}
+		],
+		"info":[
+			{
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Medidas: 5mts de largo x 4.30mts de ancho."
+					},
+					{
+						"texto": "Estructura confeccionada en tubo negro de 1¼” y 1½“ x 2mm."
+					},
+					{
+						"texto": "Estructura pintada en esmalte al horno color aluminio."
+					},
+					{
+						"texto": "124 resortes de 21cmts de largo."
+					},
+					{
+						"texto": "Protector de resortes confeccionado en lona concord en 4 colores (rojo, verde, amarillo y azul), acolchado con espuma de 1” de espesor y cocido con hilo nylon."
+					},
+					{
+						"texto": "Parantes forrados en lona concord en 4 colores y acolchado con espuma de 2” de espesor."
+					},
+					{
+						"texto": "Doble techo y falda confeccionados en tela concord en 4 colores."
+					},
+					{
+						"texto": "Falda decorada con figuras geométricas."
+					},
+					{
+						"texto": "Cercado con malla nylon color verde."
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "CAMAELÁSTICARECTANGULARDE5MTSX4.30MTS",
+		"titulo": "CAMA ELÁSTICA RECTANGULAR DE 5MTS X 4.30MTS",
+		"assets": "assets/img/juegossksb/camaelastica/CAMAELÁSTICARECTANGULARDE5MTSX4.30MTS-1.jpg",
+
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/camaelastica/CAMAELÁSTICARECTANGULARDE5MTSX4.30MTS-1.jpg"
+			}
+		],
+		"info":[
+			{
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Estructura confeccionado en tubo negro de 1½” y 1¼“ x 2mm."
+					},
+					{
+						"texto": "Estructura pintada en esmalte al horno color aluminio."
+					},
+					{
+						"texto": "Estructura desarmable."
+					},
+					{
+						"texto": "124 resortes de 21cmts de largo."
+					},
+					{
+						"texto": "Protector de resortes confeccionado en lona concord en 4 colores (rojo, verde, amarillo y azul), acolchado con espuma de 1” de espesor y cocido con hilo nylon."
+					},
+					{
+						"texto": "Parantes forrados en lona concord en 4 colores y acolchado con espuma de 2” de espesor."
+					},
+					{
+						"texto": "Techo y falda confeccionados en tela concord en 4 colores."
+					},
+					{
+						"texto": "Falda decorada con figuras geométricas."
+					},
+					{
+						"texto": "Cercado con malla nylon color verde."
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "CAMAELÁSTICAREDONDADE2.70MTSDEDIAMETRO",
+		"titulo": "CAMA ELÁSTICA REDONDA DE 2.70MTS DE DIAMETRO",
+		"assets": "assets/img/juegossksb/camaelastica/CAMAELÁSTICAREDONDADE2.70MTSDEDIAMETRO.jpg",
+
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/camaelastica/CAMAELÁSTICAREDONDADE2.70MTSDEDIAMETRO.jpg"
+			}
+		],
+		"info":[
+			{
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Estructura confeccionada en tubo negro de 1¼” x 2mm con anclajes para instalación."
+					},
+					{
+						"texto": "Pintado en pintura al horno color aluminio."
+					},
+					{
+						"texto": "Incluye 60 resortes de 14cmts de largo."
+					},
+					{
+						"texto": "Lona importada americana."
+					},
+					{
+						"texto": "Protector de resortes confeccionado en lona concord con sócalo de 18cmts."
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "CAMAELÁSTICAREDONDADE2MTSDEDIÁMETRO",
+		"titulo": "CAMA ELÁSTICA REDONDA DE 2MTS DE DIÁMETRO",
+		"assets": "assets/img/juegossksb/camaelastica/CAMAELÁSTICAREDONDADE2MTSDEDIÁMETRO.jpg",
+
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/camaelastica/CAMAELÁSTICAREDONDADE2MTSDEDIÁMETRO.jpg"
+			}
+		],
+		"info":[
+			{
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Medida: 2mts de diámetro."
+					},
+					{
+						"texto": "Estructura confeccionada en tubo negro de ¾” y 1¼” x 2mm de espesor."
+					},
+					{
+						"texto": "Estructura pintada en esmalte al horno color aluminio."
+					},
+					{
+						"texto": "Estructura desarmable."
+					},
+					{
+						"texto": "Lona importada."
+					},
+					{
+						"texto": "40 resortes de 14cmts de largo."
+					},
+					{
+						"texto": "Protector de resortes confeccionado en lona concord en 4 colores (rojo, verde, amarillo y azul) y acolchado con espuma de 1” de espesor."
+					},
+					{
+						"texto": "Parantes forrados con lona concord y acolchados con espuma de 2” de espesor."
+					},
+					{
+						"texto": "La sombrilla y falda están confeccionados en lona concord de 4 colores."
+					},
+					{
+						"texto": "Cercado con malla nylon de color verde. "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "CAMAELÁSTICAREDONDADE3.60MTS",
+		"titulo":"CAMA ELÁSTICA REDONDA DE 3.60MTS",
+		"assets": "assets/img/juegossksb/camaelastica/CAMAELASTICAREDONDADE3.60MTS.png",
+
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/camaelastica/CAMAELASTICAREDONDADE3.60MTS.png"
+			}
+		],
+		"info":[
+			{
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Estructura confeccionada en tubo negro de ¾, 1¼” y 1½“ x 2mm."
+					},
+					{
+						"texto": "Estructura pintada en esmalte al horno color aluminio."
+					},
+					{
+						"texto": "Estructura desarmable."
+					},
+					{
+						"texto": "72 resortes de 21cmts de largo."
+					},
+					{
+						"texto": "Protector de resortes confeccionado en lona concord en 4 colores y acolchado con espuma de 1” de espesor y cocido con hilo nylon."
+					},
+					{
+						"texto": "Parantes forrados en lona concord en 4 colores y acolchado con espuma de 2” de espesor."
+					},
+					{
+						"texto": "Carpa y falda confeccionada en lona concord en 4 colores."
+					},
+					{
+						"texto": "Falda decorada con figuras geométricas."
+					},
+					{
+						"texto": "Cercado con malla nylon de colores."
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "CAMAELÁSTICAREDONDADE3MTSDEDIÁMETRO",
+		"titulo": "CAMA ELÁSTICA REDONDA DE 3MTS DE DIÁMETRO",
+		"assets": "assets/img/juegossksb/camaelastica/CAMAELÁSTICAREDONDADE3MTSDEDIÁMETRO.jpg",
+
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/camaelastica/CAMAELÁSTICAREDONDADE3MTSDEDIÁMETRO.jpg"
+			}
+		],
+		"info":[
+			{
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Medida: 3mts de diámetro."
+					},
+					{
+						"texto": "Estructura confeccionada en tubo negro de ¾, 1¼” y 1½“ x 2mm."
+					},
+					{
+						"texto": "Estructura pintada en esmalte al horno color aluminio."
+					},
+					{
+						"texto": "Estructura desarmable."
+					},
+					{
+						"texto": "64 resortes de 21cmts de largo."
+					},
+					{
+						"texto": "Protector de resortes confeccionado en lona concord en 4 colores y acolchado con espuma de 1” de espesor y cocido con hilo nylon."
+					},
+					{
+						"texto": "Parantes forrados en lona concord en 4 colores y acolchado con espuma de 2” de espesor."
+					},
+					{
+						"texto": "Carpa y falda confeccionada en lona concord en 4 colores."
+					},
+					{
+						"texto": "Falda decorada con figuras geométricas."
+					},
+					{
+						"texto": "Cercado con malla nylon de colores."
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "CAMAELÁSTICAREDONDADE4.27MTS",
+		"titulo":"CAMA ELÁSTICA REDONDA DE 4.27MTS",
+		"assets": "assets/img/juegossksb/camaelastica/CAMAELÁSTICAREDONDADE4.27MTS.jpg",
+
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/camaelastica/CAMAELÁSTICAREDONDADE4.27MTS.jpg"
+			}
+		],
+		"info":[
+			{
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Medida: 4.27mts de diámetro."
+					},
+					{
+						"texto": "Estructura confeccionada en tubo negro de ¾, 1¼” y 1½“ x 2mm."
+					},
+					{
+						"texto": "Estructura pintada en esmalte al horno color aluminio."
+					},
+					{
+						"texto": "Estructura desarmable."
+					},
+					{
+						"texto": "96 resortes de 21cmts de largo."
+					},
+					{
+						"texto": "Protector de resortes confeccionado en lona concord en 4 colores y acolchado con espuma de 1” de espesor y cocido con hilo nylon."
+					},
+					{
+						"texto": "Parantes forrados en lona concord en 4 colores y acolchado con espuma de 2” de espesor."
+					},
+					{
+						"texto": "Carpa y falda confeccionada en lona concord en 4 colores."
+					},
+					{
+						"texto": "Falda decorada con figuras geométricas."
+					},
+					{
+						"texto": "Cercado con malla nylon de colores."
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "CAMAELÁSTICAREDONDADE5MTSDEDIÁMETRO",
+		"titulo": "CAMA ELÁSTICA REDONDA DE 5MTS DE DIÁMETRO",
+		"assets": "assets/img/juegossksb/camaelastica/CAMAELÁSTICAREDONDADE5MTSDEDIÁMETRO.jpg",
+
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/camaelastica/CAMAELÁSTICAREDONDADE5MTSDEDIÁMETRO.jpg"
+			}
+		],
+		"info":[
+			{
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Medida: 5mts de diámetro."
+					},
+					{
+						"texto": "Estructura confeccionada en tubo negro de ¾, 1¼” y 1½“ x 2mm."
+					},
+					{
+						"texto": "Estructura pintada en esmalte al horno color aluminio."
+					},
+					{
+						"texto": "Estructura desarmable."
+					},
+					{
+						"texto": "120 resortes de 21cmts de largo."
+					},
+					{
+						"texto": "Protector de resortes confeccionado en lona concord en 4 colores y acolchado con espuma de 1” de espesor y cocido con hilo nylon."
+					},
+					{
+						"texto": "Protector de resortes confeccionado en lona concord en 4 colores y acolchado con espuma de 1” de espesor y cocido con hilo nylon."
+					},
+					{
+						"texto": "Carpa y falda confeccionada en lona concord en 4 colores."
+					},
+					{
+						"texto": "Falda decorada con figuras geométricas."
+					},
+					{
+						"texto": "Cercado con malla nylon de colores"
 					}
 				]
 			}
