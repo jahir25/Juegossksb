@@ -167,52 +167,6 @@
     "id": "TobogánInflableModeloEspecial",
     "titulo": "Tobogán Inflable Modelo Especial",
     "category":"Toboganes Inflables",
-    "assets": "assets/img/juegossksb/Inflables/TOBOGÁN INFLABLE MODELO ESPECIAL.jpg",
-    "imgs": [
-        {
-            "idImage": "Inflable1",
-            "src": "assets/img/juegossksb/Inflables/TOBOGÁN INFLABLE MODELO ESPECIAL.jpg"
-        }
-    ],
-    "info":[
-        {
-            "title":"Medidas",
-            "text":[
-                {
-                    "texto": "Altura: 10mts."
-                },
-                {
-                    "texto": "Largo: 12mts."
-                },
-                {
-                    "texto": "Ancho: 6mts."
-                }
-            ]
-        },
-        {
-            "title":"Descripciones",
-            "text":[
-                {
-                    "texto": "Confeccionado en tela importada de colores al escoger."
-                },
-                {
-                    "texto": "Dos escaleras laterales."
-                },
-                {
-                    "texto": "Una resbaladera intermedia."
-                },
-                {
-                    "texto": "Un motor soplador de dos caballos de fuerza de alta velocidad."
-                }
-            ]
-        }
-    ]
-},
-{
-        
-    "id": "TobogánInflableModeloEspecial",
-    "titulo": "Tobogán Inflable Modelo Especial",
-    "category":"Toboganes Inflables",
     "assets": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOESPECIAL.jpg",
     "imgs": [
         {
@@ -415,66 +369,6 @@
                 },
                 {
                     "texto": "En las barandas del tobogán está diseñado en forma de olas y adornado peces."
-                },
-                {
-                    "texto": "Un motor soplador de dos caballos de fuerza de alta velocidad."
-                }
-            ]
-        }
-    ]
-},
-{
-        
-    "id": "TobogánInflableModeloPalmares",
-    "titulo": "Tobogán Inflable Modelo Palmares",
-    "category":"Toboganes Inflables",
-    "assets": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOPALMARES-1.jpg",
-    "imgs": [
-        {
-            "idImage": "Inflable1",
-            "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOPALMARES-1.jpg"
-        },
-        {
-            "idImage": "Inflable2",
-            "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOPALMARES-2.jpg"
-        },
-        {
-            "idImage": "Inflable3",
-            "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOPALMARES-3.jpg"
-        }
-    ],
-    "info":[
-        {
-            "title":"Medidas",
-            "text":[
-                {
-                    "texto": "Altura: 7mts."
-                },
-                {
-                    "texto": "Largo: 8mts."
-                },
-                {
-                    "texto": "Ancho: 3.80mts."
-                }
-            ]
-        },
-        {
-            "title":"Descripciones",
-            "text":[
-                {
-                    "texto": "Confeccionado en tela importada de colores al escoger."
-                },
-                {
-                    "texto": "Una escalera intermedia."
-                },
-                {
-                    "texto": "Dos resbalones laterales."
-                },
-                {
-                    "texto": "Entrada modelo palmeras"
-                },
-                {
-                    "texto": "Un techo parcial en la parte superior de la escalera y resbalones."
                 },
                 {
                     "texto": "Un motor soplador de dos caballos de fuerza de alta velocidad."
