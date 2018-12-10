@@ -58,15 +58,15 @@
     {
         "ca_id": "C09",
         "ca_name": "Giratorios",
-        "ca_img": "assets/img/juegossksb/category/giratorios.jpg",
-        "ca_json": "./json/tobojan.json",
+        "ca_img": "assets/img/juegossksb/Giratorios/animales-vidrio1.jpg",
+        "ca_json": "./json/Giratorios.json",
         "ca_flag_cate": false
     },
     {
         "ca_id": "C010",
         "ca_name": "Columpios",
-        "ca_img": "assets/img/juegossksb/category/columpios.jpg",
-        "ca_json": "./json/tobojan.json",
+        "ca_img": "assets/img/juegossksb/Columpios/ASIENTOBUTACA.jpg",
+        "ca_json": "./json/Columpios.json",
         "ca_flag_cate": false
     },
     {
@@ -88,6 +88,34 @@
         "ca_name": "Cabezas de papeleras",
         "ca_img": "assets/img/juegossksb/CabezasdePapeleras/DSCN0552.jpg",
         "ca_json": "./json/CabezasdePapeleras.json",
+        "ca_flag_cate": false
+    },
+    {
+        "ca_id": "C014",
+        "ca_name": "Deslizadores y Trepadores",
+        "ca_img": "assets/img/juegossksb/Deslizadoresytrepadores/deslizador-aereo1.jpg",
+        "ca_json": "./json/Deslizadoresytrepadores.json",
+        "ca_flag_cate": false
+    },
+    {
+        "ca_id": "C015",
+        "ca_name": "Juegos Acuáticos",
+        "ca_img": "assets/img/juegossksb/JuegosAcuáticos/bote-2-pedal1.jpg",
+        "ca_json": "./json/JuegosAcuáticos.json",
+        "ca_flag_cate": false
+    },
+    {
+        "ca_id": "C016",
+        "ca_name": "Juegos Resortes",
+        "ca_img": "assets/img/juegossksb/JuegosdeResortes/balancindoble.JPG",
+        "ca_json": "./json/JuegosdeResortes.json",
+        "ca_flag_cate": false
+    },
+    {
+        "ca_id": "C017",
+        "ca_name": "Laberintos Remolque",
+        "ca_img": "assets/img/juegossksb/LaberintoRemolque/laberinto-remolque-LR01-2.JPG",
+        "ca_json": "./json/LaberintoRemolque.json",
         "ca_flag_cate": false
     }
 ]

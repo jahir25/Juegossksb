@@ -1,0 +1,677 @@
+[
+	{
+		"id": "BOTEPEDALÓNDE02PASAJEROS",
+		"titulo": "BOTE PEDALÓN DE 02 PASAJEROS",
+		"assets": "assets/img/juegossksb/JuegosAcuáticos/bote-2-pedal1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/bote-2-pedal1.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/bote-2-pedal2.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "BOTEPEDALÓNDE04PASAJEROS",
+		"titulo": "BOTE PEDALÓN DE 04 PASAJEROS",
+		"assets": "assets/img/juegossksb/JuegosAcuáticos/bote-4-pedal1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/bote-4-pedal1.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/bote-4-pedal2.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "BOTEPEDALÓNMODELOCISNE",
+		"titulo": "BOTE PEDALÓN MODELO CISNE",
+		"assets": "assets/img/juegossksb/JuegosAcuáticos/bote-cisne1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/bote-cisne1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/bote-cisne2.jpg"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/bote-cisne3.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "CIRCUITODETOBOGANES",
+		"titulo": "CIRCUITO DE TOBOGANES",
+		"assets": "assets/img/juegossksb/JuegosAcuáticos/circuito-tobogan1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/circuito-tobogan1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/circuito-tobogan2.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/circuito-tobogan3.jpg"
+			},
+			{
+				"idImage": "img04",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/circuito-tobogan4.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "INYECTORESAUXILIARESDEJUEGOSACUATICOS",
+		"titulo": "INYECTORES AUXILIARES DE JUEGOS ACUATICOS",
+		"assets": "assets/img/juegossksb/JuegosAcuáticos/inyectores1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/inyectores1.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/Inyectores2.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "JuegoAcuaticoHerradura",
+		"titulo": "Juego Acuatico Herradura",
+		"assets": "assets/img/juegossksb/JuegosAcuáticos/herradura-acuatica.jpg",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/herradura-acuatica.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "JuegoAcuaticotipoArco",
+		"titulo": "Juego Acuatico tipo Arco",
+		"assets": "assets/img/juegossksb/JuegosAcuáticos/arco-acuatico.jpg",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/arco-acuatico.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "JUEGOACUATICOTIPOBALANCIN",
+		"titulo": "JUEGO ACUATICO TIPO BALANCIN",
+		"assets": "assets/img/juegossksb/JuegosAcuáticos/balancin.jpg",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/balancin.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "JuegoAcuaticotipoballena",
+		"titulo": "Juego Acuatico tipo ballena",
+		"assets": "assets/img/juegossksb/JuegosAcuáticos/ballena-acuatico.jpg",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/ballena-acuatico.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "JuegoAcuaticotipocampana",
+		"titulo": "Juego Acuatico tipo campana",
+		"assets": "assets/img/juegossksb/JuegosAcuáticos/campana-acuatico.jpg",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/campana-acuatico.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "JuegoAcuaticoTipoGirasol",
+		"titulo": "Juego Acuatico Tipo Girasol",
+		"assets": "assets/img/juegossksb/JuegosAcuáticos/fuente-acuatica.JPG",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/fuente-acuatica.JPG"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/fuente-acuatico.jpg"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/fuente-acuatico2.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "JuegoAcuaticotipoHongo",
+		"titulo": "Juego Acuatico tipo Hongo",
+		"assets": "assets/img/juegossksb/JuegosAcuáticos/acuatico-hongo2.JPG",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/acuatico-hongo2.JPG"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/hongo-acuatico.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "JuegoAcuaticoTipoT",
+		"titulo": "Juego Acuatico Tipo T",
+		"assets": "assets/img/juegossksb/JuegosAcuáticos/t-acuatico.jpg",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/t-acuatico.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "JuegoAcuatitoTipoSerpiente",
+		"titulo": "Juego Acuatito Tipo Serpiente",
+		"assets": "assets/img/juegossksb/JuegosAcuáticos/serpienteacuatica2.JPG",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/serpienteacuatica2.JPG"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/serpiente-acuatico.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MóduloAcuático",
+		"titulo": "Módulo Acuático",
+		"assets": "assets/img/juegossksb/JuegosAcuáticos/modulo-acuatico.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/modulo-acuatico.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/modulo-acuatico2.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/modulo-acuatico3.jpg"
+			},
+			{
+				"idImage": "img04",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/modulo-acuatico5.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "TOBOGANCARACOLABIERTO360°DE2.75MTSDEALTURA",
+		"titulo": "TOBOGAN CARACOL ABIERTO 360° DE 2.75MTS DE ALTURA",
+		"assets": "assets/img/juegossksb/JuegosAcuáticos/caracol2.75-1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/caracol2.75-1.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/caracol2.75-2.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "TOBOGÁNCARACOLABIERTO360°DE3.20MTSDEALTURA",
+		"titulo": "TOBOGÁN CARACOL ABIERTO 360° DE 3.20MTS DE ALTURA",
+		"assets": "assets/img/juegossksb/JuegosAcuáticos/caracol3.20-1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/caracol3.20-1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/caracol3.20-2.jpg"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/caracol3.20-3.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "TOBOGÁNDEPISCINAMODELOPELÍCANO",
+		"titulo": "TOBOGÁN DE PISCINA MODELO PELÍCANO",
+		"assets": "assets/img/juegossksb/JuegosAcuáticos/tobogan-pelicano1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/tobogan-pelicano1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/tobogan-pelicano2.jpg"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/tobogan-pelicano3.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "TOBOGÁNMIXTOKAMILAZEYCARACOL720°-MODELO“A”",
+		"titulo": "TOBOGÁN MIXTO KAMILAZE Y CARACOL 720° - MODELO “A”",
+		"assets": "assets/img/juegossksb/JuegosAcuáticos/tobogan-mixto-A-1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/tobogan-mixto-A-1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/tobogan-mixto-A-2.jpg"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/tobogan-mixto-A-3.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "TOBOGÁNMIXTOKAMILAZEYCARACOL720°-MODELO“B”",
+		"titulo": "TOBOGÁN MIXTO KAMILAZE Y CARACOL 720° - MODELO “B”",
+		"assets": "assets/img/juegossksb/JuegosAcuáticos/tobogan-mixto-B-1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/tobogan-mixto-B-1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/tobogan-mixto-B-2.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/tobogan-mixto-B-3.jpg"
+			},
+			{
+				"idImage": "img04",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/tobogan-mixto-B-4.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "TOBOGÁNPARAPISCINAMODELOSAPO",
+		"titulo": "TOBOGÁN PARA PISCINA MODELO SAPO",
+		"assets": "assets/img/juegossksb/JuegosAcuáticos/tobogan-sapo1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/tobogan-sapo1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/tobogan-sapo2.jpg"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/JuegosAcuáticos/tobogan-sapo3.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	}
+]

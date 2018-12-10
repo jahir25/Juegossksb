@@ -1,0 +1,342 @@
+[
+	{
+		"id": "ANIMALITOSENFIBRADEVIDRIO",
+		"titulo": "ANIMALITOS EN FIBRA DE VIDRIO",
+		"assets": "assets/img/juegossksb/Giratorios/animales-vidrio1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Giratorios/animales-vidrio1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Giratorios/animales-vidrio2.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Giratorios/animales-vidrio3.jpg"
+			},
+			{
+				"idImage": "img04",
+				"src": "assets/img/juegossksb/Giratorios/animales-vidrio4.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "CARRUSEL",
+		"titulo": "CARRUSEL",
+		"assets": "assets/img/juegossksb/Giratorios/CARRUSEL.jpg",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Giratorios/CARRUSEL.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "CARRUSELDEANIMALITOS",
+		"titulo": "CARRUSEL DE ANIMALITOS",
+		"assets": "assets/img/juegossksb/Giratorios/carrusel-animalitos.jpg",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Giratorios/carrusel-animalitos.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "CARRUSELGIRATORIO",
+		"titulo": "CARRUSEL GIRATORIO",
+		"assets": "assets/img/juegossksb/Giratorios/carrusel-giratorio.jpg",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Giratorios/carrusel-giratorio.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "JUEGOGIRATORIOPARADISCAPACITADOS",
+		"titulo": "JUEGO GIRATORIO PARA DISCAPACITADOS",
+		"assets": "assets/img/juegossksb/Giratorios/juegos-giratorio-discapacitados.jpg",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Giratorios/juegos-giratorio-discapacitados.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MUNDOINFANTIL",
+		"titulo": "MUNDO INFANTIL",
+		"assets": "assets/img/juegossksb/Giratorios/mundo-infantil.jpg",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Giratorios/mundo-infantil.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MUNDOINFANTILPARQUE",
+		"titulo": "MUNDO INFANTIL PARQUE",
+		"assets": "assets/img/juegossksb/Giratorios/mundo-infantil-parque.jpg",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Giratorios/mundo-infantil-parque.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "RUEDADECHICAGODE05CABINAS",
+		"titulo": "RUEDA DE CHICAGO DE 05 CABINAS",
+		"assets": "assets/img/juegossksb/Giratorios/rueda-5-cabinas.jpg",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Giratorios/rueda-5-cabinas.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "RUEDADECHICAGODE06CABINAS",
+		"titulo": "RUEDA DE CHICAGO DE 06 CABINAS",
+		"assets": "assets/img/juegossksb/Giratorios/rueda-6-cabinas.jpg",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Giratorios/rueda-6-cabinas.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "RUEDADECHICAGODE16CABINAS",
+		"titulo": "RUEDA DE CHICAGO DE 16 CABINAS",
+		"assets": "assets/img/juegossksb/Giratorios/rueda-16-cabinas-1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Giratorios/rueda-16-cabinas-1.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Giratorios/rueda-16-cabinas-2.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "TROMPOGIRATORIOCONSOMBRILLA",
+		"titulo": "TROMPO GIRATORIO CON SOMBRILLA",
+		"assets": "assets/img/juegossksb/Giratorios/trompo-giratorio.jpg",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Giratorios/trompo-giratorio.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "TROMPOGIRATORIOPARQUE",
+		"titulo": "TROMPO GIRATORIO PARQUE",
+		"assets": "assets/img/juegossksb/Giratorios/trompo-goiratorio-parque.jpg",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Giratorios/trompo-goiratorio-parque.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	}
+]

@@ -1,78 +1,61 @@
 [
 	{
-		"id": "subeybajamadera",
-		"titulo": "Sube y Baja de Madera",
-		"assets": "assets/img/juegossksb/subeybaja/subeybajamadera.jpg",
-		"info":[
+		"id": "SUBEYBAJADEMADERA",
+		"titulo": "SUBE Y BAJA DE MADERA",
+		"assets": "assets/img/juegossksb/SubeyBaja/SUBEYBAJADEMADERA-1.jpg",
+		"imgs": [
 			{
-				"title":"Medidas",
-				"text":[
-					{
-						"texto": "Cantidad: 6 niños - 8 niños"
-					},
-					{
-						"texto": "Altura: 0.50mts - 0.50mts"
-					},
-					{
-						"texto": "Ancho: 3.20mts - 3.20mts"
-					},
-					{
-						"texto": "Largo: 2.20mts - 3mts"
-					}
-				]
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/SubeyBaja/SUBEYBAJADEMADERA-1.jpg"
 			},
 			{
-				"title":"Descripciones",
-				"text":[
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/SubeyBaja/SUBEYBAJADEMADERA-2.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
 					{
-						"texto": "- Estructura confeccionada en madera huairuro de 4” x 4” de espesor."
+						"texto": " "
 					},
 					{
-						"texto": "- Estructura barnizada con barniz marino."
+						"texto": " "
 					},
 					{
-						"texto": "- Asientos de pera de fibra de vidrio pintado en esmalte al horno."
-					},
-					{
-						"texto": "- Manijas confeccionadas en tubo negro estructural de ¾” y pintado en esmalte al horno."
+						"texto": " "
 					}
 				]
 			}
 		]
 	},
 	{
-		"id": "subeybajaninios",
-		"titulo": "Sube y Baja Para Niños",
-		"assets": "assets/img/juegossksb/subeybaja/subeybajaninios.jpg",
-		"info":[
+		"id": "SUBEYBAJAPARANIÑOS",
+		"titulo": "SUBE Y BAJA PARA NIÑOS",
+		"assets": "assets/img/juegossksb/SubeyBaja/SUBEYBAJAPARANIÑOS-1.jpg",
+		"imgs": [
 			{
-				"title":"Medidas",
-				"text":[
-					{
-						"texto": "Cantidad niños:   4 - 6 - 8 - 12"
-					},
-					{
-						"texto": "Altura mts:       0.5 - 0.5 - 0.5 - 0.5"
-					},
-					{
-						"texto": "Ancho mts:        3.2 - 3.2 - 3.2 - 3.2"
-					},
-					{
-						"texto": "Largo mts:        1.4 - 2.2 - 3 - 4.6"
-					}
-				]
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/SubeyBaja/SUBEYBAJAPARANIÑOS-1.jpg"
 			},
 			{
-				"title":"Descripciones",
-				"text":[
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/SubeyBaja/SUBEYBAJAPARANIÑOS-2.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
 					{
-						"texto": "- Estructura confeccionada en tubo negro de 2½” x 3mm y 2” x 2mm."
+						"texto": " "
 					},
 					{
-						"texto": "- Estructura pintada en esmalte al horno de diferentes colores."
+						"texto": " "
 					},
 					{
-						"texto": "- Asientos de fibra de vidrio pintado en esmalte al horno."
+						"texto": " "
 					}
 				]
 			}
