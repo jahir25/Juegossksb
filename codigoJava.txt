@@ -1,0 +1,115 @@
+import java.io.*;
+import java.nio.file.Files;
+
+public static void main(String[] args) throws IOException {
+        getNombre("C:\\Users\\jordan\\Downloads\\Casitas de Madera");
+    }
+    
+    public static void getNombre(String url) throws IOException{
+        File dir = new File(url);
+        String rutaInicial = dir.getName().replace(" ", "");
+        dir.getName();
+        File[] list = dir.listFiles();
+        File destinationFolder = new File("C:\\xampp\\htdocs\\juegossksb\\assets\\img\\juegossksb"+"/"+rutaInicial);
+        destinationFolder.mkdir();
+        File newJson = new File ("C:\\xampp\\htdocs\\juegossksb\\json"+"/"+rutaInicial+".json");
+        newJson.createNewFile();
+        FileWriter writer = new FileWriter(newJson, true);        
+        writer.write("[ \n");
+        writer.flush();
+        for(File file : list){
+            if (file.isDirectory()){
+                String json = "";
+                String urlD = (url+"/"+file.getName());
+                json = json + "{\n\t\"id\":"+"\""+ file.getName().replace(" ", "") + "\",\n";
+                json = json + "\t\"titulo\":"+"\""+file.getName()+"\",\n" ;
+//                System.out.println("*************************************************");
+//                System.out.println(file.getName().toUpperCase());
+//                System.out.println("*************************************************");
+                getFiles(json, urlD, rutaInicial, writer);
+            }
+        }
+        writer.write("\n ]");
+        writer.flush();
+    }
+    
+    public static void getFiles (String json, String url, String ruta, FileWriter writer) throws IOException{
+        File dir = new File(url);
+        File[] list = dir.listFiles();
+        int cont = 0;
+        String nameNew = "", nameOld = "";
+        for(File file : list){
+            if (!file.isDirectory()){  
+                //System.out.println(getFileExtension(file));
+                if(!getFileExtension(file).equals("docx")){
+                    
+                    File nameFile = new File(file.getName().replace(" ", ""));
+                    file.renameTo(nameFile);
+                    File destinationFile = new File("C:\\xampp\\htdocs\\juegossksb\\assets\\img\\juegossksb"+"/"+ruta+"/"+nameFile.getName());
+                    try {
+                        Files.copy(file.toPath(), destinationFile.toPath());                        
+                    } catch (Exception e) {
+                        System.out.println("Error " + e.toString());
+                    }
+                    
+                    nameNew = nameFile.getName();
+                    if(!nameOld.equals(nameNew)){
+                        if(cont == 0 && list.length > 2){
+                            json = json + "\t\"assets\":"+"\"assets/img/juegossksb/"+ruta+"/"+nameFile.getName()+"\", \n" ;
+                            json = json + "\t\"imgs\":"+"[\n" ;
+                            json = json + "\t\t{\n";
+                            json = json + "\t\t\t\"idImage\":\"img0"+cont+"\",\n";
+                            json = json + "\t\t\t\"src\":\"assets/img/juegossksb/"+ruta+"/"+nameFile.getName()+"\"\n" ;
+                            json = json + "\t\t},\n";
+                        }else if(cont < list.length-2){
+                            json = json + "\t\t{\n";
+                            json = json + "\t\t\t\"idImage\":\"img0"+cont+"\",\n";
+                            json = json + "\t\t\t\"src\":\"assets/img/juegossksb/"+ruta+"/"+nameFile.getName()+"\"\n" ;
+                            json = json + "\t\t},\n";
+                        }
+                        cont++;
+                        if(cont == list.length-1){
+                            if(list.length <= 2){
+                                json = json + "\t\"assets\":"+"\"assets/img/juegossksb/"+ruta+"/"+nameFile.getName()+"\", \n" ;
+                                json = json + "\t\"imgs\":"+"[\n" ;
+                            }                            
+                            json = json + "\t\t{\n";
+                            json = json + "\t\t\t\"idImage\":\"img0"+cont+"\",\n";
+                            json = json + "\t\t\t\"src\":\"assets/img/juegossksb/"+ruta+"/"+nameFile.getName()+"\"\n" ;
+                            json = json + "\t\t}\n";
+                            json = json + "\t],\n" ;
+                            json = json + "\t\"info\":[\n" ;
+                            json = json + "\t\t{\n" ;
+                            json = json + "\t\t\t\"title\": \" \",\n" ;
+                            json = json + "\t\t\t\"text\": [\n" ;
+                            json = json + "\t\t\t\t{\n" ;
+                            json = json + "\t\t\t\t\t\"texto\": \" \"\n" ;
+                            json = json + "\t\t\t\t},\n" ;
+                            json = json + "\t\t\t\t{\n" ;
+                            json = json + "\t\t\t\t\t\"texto\": \" \"\n" ;
+                            json = json + "\t\t\t\t},\n" ;
+                            json = json + "\t\t\t\t{\n" ;
+                            json = json + "\t\t\t\t\t\"texto\": \" \"\n" ;
+                            json = json + "\t\t\t\t}\n" ;
+                            json = json + "\t\t\t]\n" ;
+                            json = json + "\t\t}\n" ;
+                            json = json + "\t]\n" ;
+                            json = json + "}," ;
+                            System.out.println(json);
+                            writer.write(json);
+                            writer.flush();
+                        }
+                        nameOld = nameNew;
+                        
+                    }   
+                }
+            }
+        }
+    }
+    
+    public static String getFileExtension(File file) {
+        String fileName = file.getName();
+        if(fileName.lastIndexOf(".") != -1 && fileName.lastIndexOf(".") != 0)
+        return fileName.substring(fileName.lastIndexOf(".")+1);
+        else return "";
+    }
