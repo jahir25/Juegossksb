@@ -1,0 +1,311 @@
+[
+	{
+		"id": "BarrasParalelas",
+		"titulo": "Barras Paralelas",
+		"assets": "assets/img/juegossksb/MiniGimnasio/barras-paralelas.JPG",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/MiniGimnasio/barras-paralelas.JPG"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "Caminadora",
+		"titulo": "Caminadora",
+		"assets": "assets/img/juegossksb/MiniGimnasio/caminadora.JPG",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/MiniGimnasio/caminadora.JPG"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/MiniGimnasio/caminadora2.JPG"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "EMPUJADOR",
+		"titulo": "EMPUJADOR",
+		"assets": "assets/img/juegossksb/MiniGimnasio/empujador.jpg",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/MiniGimnasio/empujador.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "HEALTHWALKER",
+		"titulo": "HEALTH WALKER",
+		"assets": "assets/img/juegossksb/MiniGimnasio/health-walker.jpg",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/MiniGimnasio/health-walker.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "JINETE",
+		"titulo": "JINETE",
+		"assets": "assets/img/juegossksb/MiniGimnasio/jinete.jpg",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/MiniGimnasio/jinete.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MINISKI",
+		"titulo": "MINI SKI",
+		"assets": "assets/img/juegossksb/MiniGimnasio/mini-ski.jpg",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/MiniGimnasio/mini-ski.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "Montura",
+		"titulo": "Montura",
+		"assets": "assets/img/juegossksb/MiniGimnasio/montura1.JPG",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/MiniGimnasio/montura1.JPG"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/MiniGimnasio/montura2.JPG"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "PRESIONADORDEPIERNAS",
+		"titulo": "PRESIONADOR DE PIERNAS",
+		"assets": "assets/img/juegossksb/MiniGimnasio/presionador-piernas.jpg",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/MiniGimnasio/presionador-piernas.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "REVOLVINGHANDS",
+		"titulo": "REVOLVING HANDS",
+		"assets": "assets/img/juegossksb/MiniGimnasio/revolving-hands.jpg",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/MiniGimnasio/revolving-hands.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "Taburete",
+		"titulo": "Taburete",
+		"assets": "assets/img/juegossksb/MiniGimnasio/taburete.JPG",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/MiniGimnasio/taburete.JPG"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "Twister",
+		"titulo": "Twister",
+		"assets": "assets/img/juegossksb/MiniGimnasio/twister.JPG",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/MiniGimnasio/twister.JPG"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/MiniGimnasio/twister2.JPG"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	}
+]

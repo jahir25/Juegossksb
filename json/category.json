@@ -21,13 +21,6 @@
         "ca_flag_cate": false
     },
     {
-        "ca_id": "C04",
-        "ca_name": "Módulos de Madera",
-        "ca_img": "assets/img/juegossksb/category/moduloMadera.jpg",
-        "ca_json": "./json/modulosmadera.json",
-        "ca_flag_cate": false
-    },
-    {
         "ca_id": "C05",
         "ca_name": "Casita de Madera",
         "ca_img": "assets/img/juegossksb/CasitasdeMadera/CASITACONBANCASEXTERNAS.jpg",
@@ -121,8 +114,43 @@
     {
         "ca_id": "C018",
         "ca_name": "Laberinto",
-        "ca_img": "assets/img/juegossksb/LaberintoRemolque/laberinto-remolque-LR01-2.JPG",
-        "ca_json": "./json/LaberintoRemolque.json",
+        "ca_img": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L01-2.JPG",
+        "ca_json": "./json/Laberinto.json",
+        "ca_flag_cate": false
+    },
+    {
+        "ca_id": "C019",
+        "ca_name": "Mini Gimnasio",
+        "ca_img": "assets/img/juegossksb/MiniGimnasio/barras-paralelas.JPG",
+        "ca_json": "./json/MiniGimnasio.json",
+        "ca_flag_cate": false
+    },
+    {
+        "ca_id": "C020",
+        "ca_name": "Mobiliario escolar",
+        "ca_img": "assets/img/juegossksb/Mobiliarioescolar/carpeta-doble-b.jpg",
+        "ca_json": "./json/Mobiliarioescolar.json",
+        "ca_flag_cate": false
+    },
+    {
+        "ca_id": "C021",
+        "ca_name": "Modulos Madera",
+        "ca_img": "assets/img/juegossksb/Modulosdemadera/modulo-alcazar1.jpg",
+        "ca_json": "./json/Modulosdemadera.json",
+        "ca_flag_cate": false
+    },
+    {
+        "ca_id": "C022",
+        "ca_name": "Piscina de Pelota",
+        "ca_img": "assets/img/juegossksb/Piscinadepelotas/piscina-pelota-baby.jpg",
+        "ca_json": "./json/Piscinadepelotas.json",
+        "ca_flag_cate": false
+    },
+    {
+        "ca_id": "C023",
+        "ca_name": "Psicomotriz",
+        "ca_img": "assets/img/juegossksb/Psicomotriz/barra-equilibrio.jpg",
+        "ca_json": "./json/Psicomotriz.json",
         "ca_flag_cate": false
     }
 ]

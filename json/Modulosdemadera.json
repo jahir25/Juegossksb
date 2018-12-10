@@ -1,0 +1,1877 @@
+[
+	{
+		"id": "MODULOALCÁZAR",
+		"titulo": "MODULO ALCÁZAR",
+		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-alcazar1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-alcazar1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-alcazar2.jpg"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-alcazar3.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULOAMANCAESRIMAC",
+		"titulo": "MODULO AMANCAES RIMAC",
+		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-amancaes1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-amancaes1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-amancaes2.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-amancaes3.jpg"
+			},
+			{
+				"idImage": "img04",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-amancaes4.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULOBERTOLTBRECHT",
+		"titulo": "MODULO BERTOLT BRECHT",
+		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-bertolt1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-bertolt1.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-bertolt2.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULOCARMENDELALEGUA",
+		"titulo": "MODULO CARMEN DE LA LEGUA",
+		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-carmen1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-carmen1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-carmen2.jpg"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-carmen3.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULOCASTILLACALLAOMODELOECONOMICO1",
+		"titulo": "MODULO CASTILLA CALLAO MODELO ECONOMICO 1",
+		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-castilla-eco1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-castilla-eco1.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-castilla-eco2.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULOCASTILLACALLAOMODELOECONOMICO2",
+		"titulo": "MODULO CASTILLA CALLAO MODELO ECONOMICO 2",
+		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-eco1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-eco1.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-eco2.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULOCESARVALLEJO",
+		"titulo": "MODULO CESAR VALLEJO",
+		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-vallejo1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-vallejo1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-vallejo2.jpg"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-vallejo3.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULOCIENEGUILLADETRESCOLUMNAS",
+		"titulo": "MODULO CIENEGUILLA DE TRES COLUMNAS",
+		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-3-columnas1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-3-columnas1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-3-columnas2.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-3-columnas3.jpg"
+			},
+			{
+				"idImage": "img04",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-3-columnas4.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULOCIUDADNUEVA03TORRESEXAGONALES",
+		"titulo": "MODULO CIUDAD NUEVA 03 TORRES EXAGONALES",
+		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-torre-exagonal1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-torre-exagonal1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-torre-exagonal2.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-torre-exagonal3.jpg"
+			},
+			{
+				"idImage": "img04",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-torre-exagonal4.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULOCONTADORES",
+		"titulo": "MODULO CONTADORES",
+		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-contadores1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-contadores1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-contadores2.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-contadores3.jpg"
+			},
+			{
+				"idImage": "img04",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-contadores4.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULOCUBO",
+		"titulo": "MODULO CUBO",
+		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-cubo1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-cubo1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-cubo2.jpg"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-cubo3.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULODANGELO",
+		"titulo": "MODULO DANGELO",
+		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-dangelo1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-dangelo1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-dangelo2.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-dangelo3.jpg"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-dangelo4.jpg"
+			},
+			{
+				"idImage": "img05",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-dangelo5.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULODEDOSCOLUMNASCONTECHODECASITA",
+		"titulo": "MODULO DE DOS COLUMNAS CON TECHO DE CASITA",
+		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-2-columnas1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-2-columnas1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-2-columnas2.jpg"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-2-columnas3.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULODEMADERACUBOINICIALBABY",
+		"titulo": "MODULO DE MADERA CUBO INICIAL BABY",
+		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-cubo.jpg",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-cubo.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULODEMADERADE5COLUMNAS",
+		"titulo": "MODULO DE MADERA DE 5 COLUMNAS",
+		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-5-columnas1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-5-columnas1.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-5-columnas2.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULODEMADERAINICIALDEDOSCOLUMNAS",
+		"titulo": "MODULO DE MADERA INICIAL DE DOS COLUMNAS",
+		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-inicial-2-columnas1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-inicial-2-columnas1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-inicial-2-columnas2.jpg"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-inicial-2-columnas3.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULODEMADERAMARIAMILAGROSA",
+		"titulo": "MODULO DE MADERA MARIA MILAGROSA",
+		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-milagrosa1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-milagrosa1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-milagrosa10.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-milagrosa11.jpg"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-milagrosa12.jpg"
+			},
+			{
+				"idImage": "img04",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-milagrosa2.jpg"
+			},
+			{
+				"idImage": "img05",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-milagrosa3.jpg"
+			},
+			{
+				"idImage": "img06",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-milagrosa4.jpg"
+			},
+			{
+				"idImage": "img07",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-milagrosa5.jpg"
+			},
+			{
+				"idImage": "img08",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-milagrosa6.jpg"
+			},
+			{
+				"idImage": "img09",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-milagrosa7.jpg"
+			},
+			{
+				"idImage": "img010",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-milagrosa8.jpg"
+			},
+			{
+				"idImage": "img012",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-milagrosa9.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULODEMADERAMETALDEUNACOLUMNADEDOSPISOS",
+		"titulo": "MODULO DE MADERA METAL DE UNA COLUMNA DE DOS PISOS",
+		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-2-pisos1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-2-pisos1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-2-pisos2.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-2-pisos3.jpg"
+			},
+			{
+				"idImage": "img04",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-2-pisos4.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULODEMADERASANISIDROBABY",
+		"titulo": "MODULO DE MADERA SAN ISIDRO BABY",
+		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-san-isidro-baby1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-san-isidro-baby1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-san-isidro-baby2.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-san-isidro-baby3.jpg"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-san-isidro-baby4.jpg"
+			},
+			{
+				"idImage": "img05",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-san-isidro-baby5.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULODEMADERASANISIDROPRIMARIA",
+		"titulo": "MODULO DE MADERA SAN ISIDRO PRIMARIA",
+		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-san-isidro-primaria1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-san-isidro-primaria1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-san-isidro-primaria2.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-san-isidro-primaria3.jpg"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-san-isidro-primaria4.jpg"
+			},
+			{
+				"idImage": "img05",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-san-isidro-primaria5.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULODEMADERASIERRAMORENA",
+		"titulo": "MODULO DE MADERA SIERRA MORENA",
+		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-sierra1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-sierra1.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-sierra2.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULODEMADERATRUJILLO",
+		"titulo": "MODULO DE MADERA TRUJILLO",
+		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-trujillo1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-trujillo1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-trujillo2.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-trujillo3.jpg"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-trujillo4.jpg"
+			},
+			{
+				"idImage": "img04",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-trujillo5.jpg"
+			},
+			{
+				"idImage": "img05",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-trujillo6.jpg"
+			},
+			{
+				"idImage": "img06",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-trujillo7.jpg"
+			},
+			{
+				"idImage": "img08",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-trujillo8.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULODEMADERAVILLAMARÍA",
+		"titulo": "MODULO DE MADERA VILLA MARÍA",
+		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-villa-maria1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-villa-maria1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-villa-maria2.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-villa-maria3.jpg"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-villa-maria4.jpg"
+			},
+			{
+				"idImage": "img04",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-villa-maria5.jpg"
+			},
+			{
+				"idImage": "img05",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-villa-maria6.jpg"
+			},
+			{
+				"idImage": "img07",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-villa-maria7.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULODEMETALCONESCALERAS",
+		"titulo": "MODULO DE METAL CON ESCALERAS",
+		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-metal.jpg",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-metal.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULODEUNACOLUMNA",
+		"titulo": "MODULO DE UNA COLUMNA",
+		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-1-columna1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-1-columna1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-1-columna2.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-1-columna3.jpg"
+			},
+			{
+				"idImage": "img04",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-1-columna4.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULOLOSMANZANOS",
+		"titulo": "MODULO LOS MANZANOS",
+		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-manzanos1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-manzanos1.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-manzanos2.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULOMADERACALLAO",
+		"titulo": "MODULO MADERA CALLAO",
+		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-callao1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-callao1.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-callao2.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULOMADERAMETALANGAMOS",
+		"titulo": "MODULO MADERA METAL ANGAMOS",
+		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-angamos1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-angamos1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-angamos2.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-angamos3.jpg"
+			},
+			{
+				"idImage": "img04",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-angamos4.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULOMADERAMETALAYAVIRI",
+		"titulo": "MODULO MADERA METAL AYAVIRI",
+		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-ayaviri1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-ayaviri1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-ayaviri2.jpg"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-ayaviri3.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULOMADERAMETALDE2CODOS",
+		"titulo": "MODULO MADERA METAL DE 2 CODOS",
+		"assets": "assets/img/juegossksb/Modulosdemadera/2codos-1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/2codos-1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/2codos-2.jpg"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/Modulosdemadera/2codos-3.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULOMADERAMETALDECUATROCOLUMNASBEATAIMELDA",
+		"titulo": "MODULO MADERA METAL DE CUATRO COLUMNAS BEATA IMELDA",
+		"assets": "assets/img/juegossksb/Modulosdemadera/4columnas-1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/4columnas-1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/4columnas-2.jpg"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/Modulosdemadera/4columnas-3.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULOMADERAMETALECONÓMICO",
+		"titulo": "MODULO MADERA METAL ECONÓMICO",
+		"assets": "assets/img/juegossksb/Modulosdemadera/metal-eco1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/metal-eco1.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Modulosdemadera/metal-eco2.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULOMADERAMETALELPORVENIR",
+		"titulo": "MODULO MADERA METAL EL PORVENIR",
+		"assets": "assets/img/juegossksb/Modulosdemadera/el-porvenir1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/el-porvenir1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/el-porvenir2.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Modulosdemadera/el-porvenir3.jpg"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/Modulosdemadera/el-porvenir4.jpg"
+			},
+			{
+				"idImage": "img04",
+				"src": "assets/img/juegossksb/Modulosdemadera/el-porvenir5.jpg"
+			},
+			{
+				"idImage": "img05",
+				"src": "assets/img/juegossksb/Modulosdemadera/el-porvenir6.jpg"
+			},
+			{
+				"idImage": "img07",
+				"src": "assets/img/juegossksb/Modulosdemadera/el-porvenir7.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULOMADERAMETALLACATOLICA",
+		"titulo": "MODULO MADERA METAL LA CATOLICA",
+		"assets": "assets/img/juegossksb/Modulosdemadera/catolica1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/catolica1.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Modulosdemadera/catolica2.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULOMADERAMETALSANJUAN",
+		"titulo": "MODULO MADERA METAL SAN JUAN",
+		"assets": "assets/img/juegossksb/Modulosdemadera/san-juan1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/san-juan1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/san-juan2.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Modulosdemadera/san-juan3.jpg"
+			},
+			{
+				"idImage": "img04",
+				"src": "assets/img/juegossksb/Modulosdemadera/san-juan4.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULOMADERAMETALSANMARTIN",
+		"titulo": "MODULO MADERA METAL SAN MARTIN",
+		"assets": "assets/img/juegossksb/Modulosdemadera/san-martin1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/san-martin1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/san-martin2.jpg"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/Modulosdemadera/san-martin3.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULOMADREDEDIOS",
+		"titulo": "MODULO MADRE DE DIOS",
+		"assets": "assets/img/juegossksb/Modulosdemadera/madre-de-dios1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/madre-de-dios1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/madre-de-dios2.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Modulosdemadera/madre-de-dios3.jpg"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/Modulosdemadera/madre-de-dios4.jpg"
+			},
+			{
+				"idImage": "img05",
+				"src": "assets/img/juegossksb/Modulosdemadera/madre-de-dios5.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULOMAGDALENA",
+		"titulo": "MODULO MAGDALENA",
+		"assets": "assets/img/juegossksb/Modulosdemadera/magdalena1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/magdalena1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/magdalena2.jpg"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/Modulosdemadera/magdalena3.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULOMOCHE",
+		"titulo": "MODULO MOCHE",
+		"assets": "assets/img/juegossksb/Modulosdemadera/moche1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/moche1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/moche2.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Modulosdemadera/moche3.jpg"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/Modulosdemadera/moche4.jpg"
+			},
+			{
+				"idImage": "img04",
+				"src": "assets/img/juegossksb/Modulosdemadera/moche5.jpg"
+			},
+			{
+				"idImage": "img05",
+				"src": "assets/img/juegossksb/Modulosdemadera/moche6.jpg"
+			},
+			{
+				"idImage": "img07",
+				"src": "assets/img/juegossksb/Modulosdemadera/moche7.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULOMONTERRICO",
+		"titulo": "MODULO MONTERRICO",
+		"assets": "assets/img/juegossksb/Modulosdemadera/monterrico1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/monterrico1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/monterrico2.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Modulosdemadera/monterrico3.jpg"
+			},
+			{
+				"idImage": "img04",
+				"src": "assets/img/juegossksb/Modulosdemadera/monterrico4.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULOMULTIJUEGOCIUDADNUEVADE6COLUMNAS",
+		"titulo": "MODULO MULTIJUEGO CIUDAD NUEVA DE 6 COLUMNAS",
+		"assets": "assets/img/juegossksb/Modulosdemadera/6columnas1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/6columnas1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/6columnas2.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Modulosdemadera/6columnas3.jpg"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/Modulosdemadera/6columnas4.jpg"
+			},
+			{
+				"idImage": "img04",
+				"src": "assets/img/juegossksb/Modulosdemadera/6columnas5.jpg"
+			},
+			{
+				"idImage": "img05",
+				"src": "assets/img/juegossksb/Modulosdemadera/6columnas6.jpg"
+			},
+			{
+				"idImage": "img06",
+				"src": "assets/img/juegossksb/Modulosdemadera/6columnas7.jpg"
+			},
+			{
+				"idImage": "img08",
+				"src": "assets/img/juegossksb/Modulosdemadera/6columnas8.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULOMULTIJUEGOPOSEIDONDE6COLUMNAS",
+		"titulo": "MODULO MULTIJUEGO POSEIDON DE 6 COLUMNAS",
+		"assets": "assets/img/juegossksb/Modulosdemadera/poseidon1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/poseidon1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/poseidon2.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Modulosdemadera/poseidon3.jpg"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/Modulosdemadera/poseidon4.jpg"
+			},
+			{
+				"idImage": "img05",
+				"src": "assets/img/juegossksb/Modulosdemadera/poseidon5.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULOSANTACLARADETRESCOLUMNAS",
+		"titulo": "MODULO SANTA CLARA DE TRES COLUMNAS",
+		"assets": "assets/img/juegossksb/Modulosdemadera/santa-clara1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/santa-clara1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/santa-clara2.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Modulosdemadera/santa-clara3.jpg"
+			},
+			{
+				"idImage": "img04",
+				"src": "assets/img/juegossksb/Modulosdemadera/santa-clara4.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULOSANTAEULALIA",
+		"titulo": "MODULO SANTA EULALIA",
+		"assets": "assets/img/juegossksb/Modulosdemadera/santa-eulalia1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/santa-eulalia1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/santa-eulalia2.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Modulosdemadera/santa-eulalia3.jpg"
+			},
+			{
+				"idImage": "img04",
+				"src": "assets/img/juegossksb/Modulosdemadera/santa-eulalia4.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULOTACNADE03COLUMNAS",
+		"titulo": "MODULO TACNA DE 03 COLUMNAS",
+		"assets": "assets/img/juegossksb/Modulosdemadera/tacna-3columnas.jpg",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/tacna-3columnas.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULOTACNADE04COLUMNAS",
+		"titulo": "MODULO TACNA DE 04 COLUMNAS",
+		"assets": "assets/img/juegossksb/Modulosdemadera/tacna-4-columnas1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/tacna-4-columnas1.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Modulosdemadera/tacna-4-columnas2.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULOTRENBABY-LOSALAMITOS",
+		"titulo": "MODULO TREN BABY - LOS ALAMITOS",
+		"assets": "assets/img/juegossksb/Modulosdemadera/los-alamitos1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/los-alamitos1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/los-alamitos2.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Modulosdemadera/los-alamitos3.jpg"
+			},
+			{
+				"idImage": "img04",
+				"src": "assets/img/juegossksb/Modulosdemadera/los-alamitos4.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MODULOVILLASOL",
+		"titulo": "MODULO VILLASOL",
+		"assets": "assets/img/juegossksb/Modulosdemadera/villasol1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/villasol1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/villasol2.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Modulosdemadera/villasol3.jpg"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/Modulosdemadera/villasol4.jpg"
+			},
+			{
+				"idImage": "img05",
+				"src": "assets/img/juegossksb/Modulosdemadera/villasol5.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MÓDULODEUNACOLUMNAMODELOMARTE",
+		"titulo": "MÓDULO DE UNA COLUMNA MODELO MARTE",
+		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-marte1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-marte1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-marte2.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-marte3.jpg"
+			},
+			{
+				"idImage": "img04",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-marte4.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	}
+]
