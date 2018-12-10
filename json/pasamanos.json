@@ -11,16 +11,24 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Largo: 7mts."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 5mts."
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": " Estructura confeccionada en tubo negro estructural de 1½”, 1¾“ x 2mm de espesor."
 					},
 					{
-						"texto": " "
+						"texto": " Estructura pintada con base anticorrosivo y acabado con esmalte al horno en colores variados."
 					}
 				]
 			}
@@ -42,16 +50,24 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Largo: 8mts."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 7mts. "
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Estructura confeccionada en madera huayruro y tubo negro de metal de ¾”, 1”, 1½”, 2” x 2mm de espesor. "
 					},
 					{
-						"texto": " "
+						"texto": "Pintado con base anticorrosivo y acabado con esmalte al horno en colores variados."
 					}
 				]
 			}
@@ -69,16 +85,16 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripcion",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Medida: 2mts de diámetro x 2mts de alto."
 					},
 					{
-						"texto": " "
+						"texto": "Estructura confeccionada en tubo negro estructural de ¾” x 2mm de espesor."
 					},
 					{
-						"texto": " "
+						"texto": "Estructura pintada con base anticorrosivo y acabado con esmalte al horno en colores variados. "
 					}
 				]
 			}
@@ -100,16 +116,27 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": " Altura: 2mts."
 					},
 					{
-						"texto": " "
+						"texto": "Diámetro: 2mts. "
 					},
 					{
-						"texto": " "
+						"texto": "Largo: 3.20mts "
+					}
+				]
+			},
+			{
+				"title": "Descripcion ",
+				"text": [
+					{
+						"texto": "Estructura confeccionada en tubo negro de 2”, 1½”, ¾” x 2mm de espesor."
+					},
+					{
+						"texto": "Estructura pintada en esmalte gloss de colores."
 					}
 				]
 			}
@@ -127,16 +154,27 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Largo: 2mts."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 2mts. "
 					},
 					{
-						"texto": " "
+						"texto": "Altura: 2mts."
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Estructura confeccionada en tubo negro estructural de ¾”, 1½”, 2” x 2mm."
+					},
+					{
+						"texto": "Estructura pintada en esmalte gloss de colores variados."
 					}
 				]
 			}
@@ -154,16 +192,27 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "­Alto: 2mts."
 					},
 					{
-						"texto": " "
+						"texto": "­Largo: 2.75mts. "
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 1mt."
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Estructura confeccionada en tubo negro estructural de ¾”, 2” x 2mm de espesor. "
+					},
+					{
+						"texto": "Estructura pintada en esmalte gloss de colores."
 					}
 				]
 			}
@@ -181,16 +230,24 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Altura: 2mts."
 					},
 					{
-						"texto": " "
+						"texto": "Largo: 2mts."
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Estructura confeccionada en tubo negro estructural de ¾”, 1½”, 2” x 2mm de espesor."
 					},
 					{
-						"texto": " "
+						"texto": "Estructura pintada en esmalte gloss en colores variados. "
 					}
 				]
 			}
@@ -208,16 +265,27 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": " Alto: 2mts."
 					},
 					{
-						"texto": " "
+						"texto": " Largo: 6mts."
 					},
 					{
-						"texto": " "
+						"texto": " Ancho: 2mts"
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Estructura confeccionada en tubo negro estructural de ¾”, 1½”, 2” x 2mm de espesor. "
+					},
+					{
+						"texto": "Estructura pintada en esmalte gloss en colores variados. "
 					}
 				]
 			}
@@ -235,16 +303,44 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "­Alto: 1.80mt. "
 					},
 					{
-						"texto": " "
+						"texto": "­Largo: 2.70mts. "
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 0.60mt."
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Estructura confeccionada en madera huayruro con parantes e 3” x 3”. "
+					},
+					{
+						"texto": "Estructura laqueado y barnizado con barniz marino. "
+					},
+					{
+						"texto": "Pasamanos de tubo negro estructural de ¾” x 2mm de espesor. "
+					},
+					{
+						"texto": " Pasamanos de tubo negro estructural de ¾” x 2mm de espesor."
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "Trepado de sogas."
+					},
+					{
+						"texto": "Pasamanos de metal. "
 					}
 				]
 			}
@@ -266,16 +362,27 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "­Altura: 2.10mts. "
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 0.60mt."
 					},
 					{
-						"texto": " "
+						"texto": "Largo: 4mts."
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Estructura confeccionada en tubo negro de ¾”, 1½“ x 2mm de espesor. "
+					},
+					{
+						"texto": "Estructura pintada en esmalte gloss de colores.  "
 					}
 				]
 			}
@@ -293,16 +400,27 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": " Altura: 1.80mt."
 					},
 					{
-						"texto": " "
+						"texto": "­Ancho: 0.45mt. "
 					},
 					{
-						"texto": " "
+						"texto": "­Largo: 2mts. "
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Estructura confeccionada en tubo de metal de 1” x 2mm."
+					},
+					{
+						"texto": "Estructura pintada en esmalte al horno de diferentes colores."
 					}
 				]
 			}
@@ -320,16 +438,27 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "­Altura: 2mts. "
 					},
 					{
-						"texto": " "
+						"texto": "­Largo: 2.75mts. "
 					},
 					{
-						"texto": " "
+						"texto": "­Ancho: 2mts. "
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Estructura confeccionada en tubo negro estructural de ¾“, 1½”, 2” x 2mm. "
+					},
+					{
+						"texto": " Estructura pintada en esmalte gloss de colores variados."
 					}
 				]
 			}
