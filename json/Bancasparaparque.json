@@ -19,16 +19,24 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas  ",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Longitud: 1.50mt. "
+					}
+				]
+			},
+			{
+				"title": "Descripcion  ",
+				"text": [
+					{
+						"texto": " Elaborado en fierro fundido, pintado en esmalte al horno de color aluminio o verde."
 					},
 					{
-						"texto": " "
+						"texto": "Asiento de madera tornillo y/o huayruro de 1½” x 4”. "
 					},
 					{
-						"texto": " "
+						"texto": "Laqueado y barnizado con barniz marino color natural. "
 					}
 				]
 			}
@@ -58,16 +66,30 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas ",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Longitud: 1.50mt. "
 					},
 					{
-						"texto": " "
+						"texto": "Altura: 0.69mt. "
 					},
 					{
-						"texto": " "
+						"texto": " Ancho: 0.51mt."
+					}
+				]
+			},
+			{
+				"title": "Descripcion ",
+				"text": [
+					{
+						"texto": " Elaborado en fierro fundido, pintado en esmalte al horno de color aluminio o verde."
+					},
+					{
+						"texto": "Asiento de madera tornillo y/o huayruro de 1½” x 2”. "
+					},
+					{
+						"texto": "Laqueado y barnizado con barniz marino color natural. "
 					}
 				]
 			}
@@ -97,16 +119,50 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas Mesa",
 				"text": [
 					{
-						"texto": " "
+						"texto": " Ancho: 0.75mt."
 					},
 					{
-						"texto": " "
+						"texto": " Largo: 1.80mt."
 					},
 					{
-						"texto": " "
+						"texto": " Altura: 0.80mt."
+					}
+				]
+			},
+			{
+				"title": "Medidas Asiento",
+				"text": [
+					{
+						"texto": " Altura: 0.40mt."
+					},
+					{
+						"texto": "Largo: 1.80mt. "
+					},
+					{
+						"texto": "Ancho: 0.25mt. "
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": " Confeccionado en madera huayruro, tornillo o capirona."
+					},
+					{
+						"texto": " Elaborada con tablas de 1” y listones de 2” x 3”."
+					},
+					{
+						"texto": "Estructura de la sombrilla tiene un eje de tubo de 1½” de diámetro y con listones de madera de ¾” x 1¼”. "
+					},
+					{
+						"texto": " Laqueado y barnizado en color natural."
+					},
+					{
+						"texto": "Carpa elaborada en tela lino pesado en colores al escoger. "
 					}
 				]
 			}
@@ -124,16 +180,44 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas Mesa",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Ancho: 0.75mt. "
 					},
 					{
-						"texto": " "
+						"texto": "Largo: 1.80mt. "
 					},
 					{
-						"texto": " "
+						"texto": " Altura: 0.80mt."
+					}
+				]
+			},
+			{
+				"title": "Medidas Asientos",
+				"text": [
+					{
+						"texto": "Altura: 0.40mt. "
+					},
+					{
+						"texto": " Largo: 1.80mt."
+					},
+					{
+						"texto": "Ancho: 0.25mt. "
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Confeccionado en madera huayruro, tornillo o capirona. "
+					},
+					{
+						"texto": "Elaborada con tablas de 1” y listones de 2” x 3”."
+					},
+					{
+						"texto": "Laqueado y barnizado en color natural."
 					}
 				]
 			}
