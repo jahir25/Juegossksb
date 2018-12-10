@@ -62,7 +62,7 @@ function verifiedUniq(array, item) {
 }
 
 function onCreateElement(data, result) {
-	var cont = true, arraySub = [];
+	var cont = true, arraySub = [], divRow, cont;
 
 	if (data.ca_flag_cate) {
 
@@ -81,11 +81,14 @@ function onCreateElement(data, result) {
 			divtitle.appendChild(h2);
 			document.getElementById("idRow").appendChild(divtitle);
 
+			divRow = document.createElement("div")
+			divRow.classList.add("col-md-12");
+			cont = 0;
+
 			$.each(result, function (k, v) {
 
 				if (va == v.category) {
 					/*ITEM SUB CATALOGO*/
-
 					random = Math.floor(Math.random() * 6) + 1;
 					bgcolor = "bg-color-" + random;
 					borcolor = "border-color-" + random;
@@ -114,8 +117,6 @@ function onCreateElement(data, result) {
 					img.setAttribute("src", v.assets);
 
 					var aclick = document.createElement("a");
-					// aclick.setAttribute("onclick", "onModal(this,titu)");
-					// aclick.addEventListener("click", onModal(this));
 					aclick.setAttribute("href", "details.html?" + encrypted);
 					aclick.setAttribute("data-toggle", "modal");
 					aclick.setAttribute("id", v.id);
@@ -128,7 +129,7 @@ function onCreateElement(data, result) {
 					var div3$1 = document.createElement("div");
 					div3$1.classList.add("box-info");
 					var h4 = document.createElement("h4");
-					h4.innerHTML = v.titulo;
+					h4.innerHTML = v.titulo.toLowerCase();
 
 					div3$1.appendChild(h4);
 
@@ -142,11 +143,28 @@ function onCreateElement(data, result) {
 					div2.appendChild(div3$1);
 					div.appendChild(div2);
 
-					document.getElementById("idRow").appendChild(div);
+					divRow.appendChild(div);
+					cont++;
+
+					if(cont >= 4){
+						document.getElementById("idRow").appendChild(divRow);
+						divRow = document.createElement("div")
+						divRow.classList.add("col-md-12");
+						cont = 0;
+					}
 				}
 			});
+
+			if(cont < 4) {
+				document.getElementById("idRow").appendChild(divRow);
+			}
 		});
 	} else {
+
+		divRow = document.createElement("div")
+		divRow.classList.add("col-md-12");
+		cont = 0;
+
 		$.each(result, function (k, v) {
 
 			random = Math.floor(Math.random() * 6) + 1;
@@ -177,8 +195,6 @@ function onCreateElement(data, result) {
 			img.setAttribute("src", v.assets);
 
 			var aclick = document.createElement("a");
-			// aclick.setAttribute("onclick", "onModal(this,titu)");
-			// aclick.addEventListener("click", onModal(this));
 			aclick.setAttribute("href", "details.html?" + encrypted);
 			aclick.setAttribute("data-toggle", "modal");
 			aclick.setAttribute("id", v.id);
@@ -191,7 +207,7 @@ function onCreateElement(data, result) {
 			var div3$1 = document.createElement("div");
 			div3$1.classList.add("box-info");
 			var h4 = document.createElement("h4");
-			h4.innerHTML = v.titulo;
+			h4.innerHTML = v.titulo.toLowerCase();
 
 			div3$1.appendChild(h4);
 
@@ -205,9 +221,21 @@ function onCreateElement(data, result) {
 			div2.appendChild(div3$1);
 			div.appendChild(div2);
 
-			document.getElementById("idRow").appendChild(div);
+			divRow.appendChild(div);
+			cont++;
+
+			if(cont >= 4){
+				document.getElementById("idRow").appendChild(divRow);
+				divRow = document.createElement("div")
+				divRow.classList.add("col-md-12");
+				cont = 0;
+			}
 
 		});
+
+		if(cont < 4) {
+			document.getElementById("idRow").appendChild(divRow);
+		}
 	}
 }
 

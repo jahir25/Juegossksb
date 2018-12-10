@@ -1,0 +1,119 @@
+[
+	{
+		"id": "Cabezadepapeleras",
+		"titulo": "Cabeza de papeleras",
+		"assets": "assets/img/juegossksb/CabezasdePapeleras/DSCN0552.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/CabezasdePapeleras/DSCN0552.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/CabezasdePapeleras/DSCN0553.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/CabezasdePapeleras/DSCN0555.jpg"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/CabezasdePapeleras/DSCN0556.jpg"
+			},
+			{
+				"idImage": "img04",
+				"src": "assets/img/juegossksb/CabezasdePapeleras/DSCN0637.jpg"
+			},
+			{
+				"idImage": "img05",
+				"src": "assets/img/juegossksb/CabezasdePapeleras/DSCN0639.jpg"
+			},
+			{
+				"idImage": "img06",
+				"src": "assets/img/juegossksb/CabezasdePapeleras/DSCN0751.jpg"
+			},
+			{
+				"idImage": "img07",
+				"src": "assets/img/juegossksb/CabezasdePapeleras/DSCN0753.jpg"
+			},
+			{
+				"idImage": "img09",
+				"src": "assets/img/juegossksb/CabezasdePapeleras/DSCN0758.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "Pabeperamodelodeflin",
+		"titulo": "Pabepera modelo deflin",
+		"assets": "assets/img/juegossksb/CabezasdePapeleras/DSCN0760.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/CabezasdePapeleras/DSCN0760.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/CabezasdePapeleras/DSCN0761.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "TachodebasuraModeloCapsula(arturito)",
+		"titulo": "Tacho de basura Modelo Capsula (arturito)",
+		"assets": "assets/img/juegossksb/CabezasdePapeleras/tacho-capsula.jpg",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/CabezasdePapeleras/tacho-capsula.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	}
+]

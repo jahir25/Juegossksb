@@ -61,39 +61,45 @@ function createElementsProduc(data){
                             VIEW OPTIONS IMAGES
                 ===================================================
                 */
-                if(ki == 0){
-                    li = document.createElement("li");
-                    // li.setAttribute("id", "");
-                    img = document.createElement("img");
-                    img.setAttribute("src", vi.src);
-                    img.setAttribute("id", "idLeftView");
-                    img.setAttribute("alt", "Product");
-                    img.classList.add("img-responsive");                                               
-                    li.appendChild(img);             
-                    ulView.appendChild(li);    
-                }                
-                /*
-                ===================================================
-                            LEFH OPTIONS IMAGES
-                ===================================================
-                */
-                lilist = document.createElement("li");
-                lilist.onclick = function(){
-                    onClickElement(this, ulList);
+                if(ki < 5){
+
+                    if(ki == 0){
+                        li = document.createElement("li");
+                        // li.setAttribute("id", "");
+                        img = document.createElement("img");
+                        img.setAttribute("src", vi.src);
+                        img.setAttribute("id", "idLeftView");
+                        img.setAttribute("alt", "Product");
+                        img.classList.add("img-responsive");                                               
+                        li.appendChild(img);             
+                        ulView.appendChild(li);    
+                    }                
+                    /*
+                    ===================================================
+                                LEFH OPTIONS IMAGES
+                    ===================================================
+                    */
+                    lilist = document.createElement("li");
+                    lilist.onclick = function(){
+                        onClickElement(this, ulList);
+                    }
+                    if(ki == 0){
+                        lilist.classList.add("active");
+                        li.classList.add("current");
+                    }
+                    a = document.createElement("a");
+                    imglist = document.createElement("img");
+                    imglist.setAttribute("src", vi.src);
+                    imglist.setAttribute("href", "");
+                    imglist.setAttribute("alt", "Product");
+                    imglist.classList.add("img-responsive");                             
+                    a.appendChild(imglist);                
+                    lilist.appendChild(a);
+                    ulList.appendChild(lilist);
+
                 }
-                if(ki == 0){
-                    lilist.classList.add("active");
-                    li.classList.add("current");
-                }
-                a = document.createElement("a");
-                imglist = document.createElement("img");
-                imglist.setAttribute("src", vi.src);
-                imglist.setAttribute("href", "");
-                imglist.setAttribute("alt", "Product");
-                imglist.classList.add("img-responsive");                             
-                a.appendChild(imglist);                
-                lilist.appendChild(a);
-                ulList.appendChild(lilist);
+
+                
                                
             });
 

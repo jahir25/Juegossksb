@@ -30,8 +30,8 @@
     {
         "ca_id": "C05",
         "ca_name": "Casita de Madera",
-        "ca_img": "assets/img/juegossksb/category/casitaMadera.jpg",
-        "ca_json": "./json/tobojan.json",
+        "ca_img": "assets/img/juegossksb/CasitasdeMadera/CASITACONBANCASEXTERNAS.jpg",
+        "ca_json": "./json/CasitasdeMadera.json",
         "ca_flag_cate": false
     },
     {
@@ -74,6 +74,20 @@
         "ca_name": "Arcos",
         "ca_img": "assets/img/juegossksb/category/columpios.jpg",
         "ca_json": "./json/arcofulbito.json",
+        "ca_flag_cate": false
+    },
+    {
+        "ca_id": "C012",
+        "ca_name": "Bancas para parque",
+        "ca_img": "assets/img/juegossksb/Bancasparaparque/banca-brasera1.jpg",
+        "ca_json": "./json/Bancasparaparque.json",
+        "ca_flag_cate": false
+    },
+    {
+        "ca_id": "C013",
+        "ca_name": "Cabezas de papeleras",
+        "ca_img": "assets/img/juegossksb/CabezasdePapeleras/DSCN0552.jpg",
+        "ca_json": "./json/CabezasdePapeleras.json",
         "ca_flag_cate": false
     }
 ]
