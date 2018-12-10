@@ -1,7 +1,7 @@
 [
 	{
-		"id": "Cabezadepapeleras",
-		"titulo": "Cabeza de papeleras",
+		"id": "Cabezadepapeleras1",
+		"titulo": "Cabeza de papeleras 1",
 		"assets": "assets/img/juegossksb/CabezasdePapeleras/DSCN0552.jpg",
 		"imgs": [
 			{
@@ -23,7 +23,35 @@
 			{
 				"idImage": "img04",
 				"src": "assets/img/juegossksb/CabezasdePapeleras/DSCN0637.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": "Medidas",
+				"text": [
+					{
+						"texto": "Diámetro: 0.60mt. "
+					}
+				]
 			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Confeccionado en fibra de vidrio de 4mm de espesor. "
+					},
+					{
+						"texto": "Pintado en esmalte al horno. "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "Cabezadepapeleras2",
+		"titulo": "Cabeza de papeleras 2",
+		"assets": "assets/img/juegossksb/CabezasdePapeleras/DSCN0639.jpg",
+		"imgs": [
 			{
 				"idImage": "img05",
 				"src": "assets/img/juegossksb/CabezasdePapeleras/DSCN0639.jpg"
@@ -43,16 +71,21 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Diámetro: 0.60mt. "
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Confeccionado en fibra de vidrio de 4mm de espesor. "
 					},
 					{
-						"texto": " "
-					},
-					{
-						"texto": " "
+						"texto": "Pintado en esmalte al horno. "
 					}
 				]
 			}
@@ -74,16 +107,13 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripcion",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Confeccionado en fibra de vidrio de 4mm de espesor. "
 					},
 					{
-						"texto": " "
-					},
-					{
-						"texto": " "
+						"texto": "Pintado con esmalte al horno. "
 					}
 				]
 			}
@@ -101,16 +131,30 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": " Altura: 0.77mt."
 					},
 					{
-						"texto": " "
+						"texto": " Diámetro: 0.45mt."
 					},
 					{
-						"texto": " "
+						"texto": " Boca de ingreso: 0.21mt."
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Fabricado en fibra de vidrio de 4mm de espesor. "
+					},
+					{
+						"texto": "Pintado al horno. "
+					},
+					{
+						"texto": "Dos parantes de tubo negro redondo de 2” x 1.5mm de espesor."
 					}
 				]
 			}
