@@ -117,5 +117,12 @@
         "ca_img": "assets/img/juegossksb/LaberintoRemolque/laberinto-remolque-LR01-2.JPG",
         "ca_json": "./json/LaberintoRemolque.json",
         "ca_flag_cate": false
+    },
+    {
+        "ca_id": "C018",
+        "ca_name": "Laberinto",
+        "ca_img": "assets/img/juegossksb/LaberintoRemolque/laberinto-remolque-LR01-2.JPG",
+        "ca_json": "./json/LaberintoRemolque.json",
+        "ca_flag_cate": false
     }
 ]
