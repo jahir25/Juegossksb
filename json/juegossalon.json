@@ -333,7 +333,7 @@
 				"src": "assets/img/juegossksb/juegossalon/accesorios-hockey1.jpg"
 			},
 			{
-				"idImage": "arco01",
+				"idImage": "arco02",
 				"src": "assets/img/juegossksb/juegossalon/accesorios-hockey2.jpg"
 			}
 		]
@@ -350,15 +350,15 @@
 				"src": "assets/img/juegossksb/juegossalon/hockey-americano1.jpg"
 			},
 			{
-				"idImage": "arco01",
+				"idImage": "arco02",
 				"src": "assets/img/juegossksb/juegossalon/hockey-americano2.jpg"
 			},
 			{
-				"idImage": "arco01",
+				"idImage": "arco03",
 				"src": "assets/img/juegossksb/juegossalon/hockey-americano3.jpg"
 			},
 			{
-				"idImage": "arco01",
+				"idImage": "arco04",
 				"src": "assets/img/juegossksb/juegossalon/hockey-americano4.jpg"
 			}
 		],
@@ -490,15 +490,15 @@
 				"src": "assets/img/juegossksb/juegossalon/mesa-ping-pong-exp-1.jpg"
 			},
 			{
-				"idImage": "arco01",
+				"idImage": "arco02",
 				"src": "assets/img/juegossksb/juegossalon/mesa-ping-pong-exp-2.jpg"
 			},
 			{
-				"idImage": "arco01",
+				"idImage": "arco03",
 				"src": "assets/img/juegossksb/juegossalon/mesa-ping-pong-exp-3.jpg"
 			},
 			{
-				"idImage": "arco01",
+				"idImage": "arco04",
 				"src": "assets/img/juegossksb/juegossalon/mesa-ping-pong-exp-4.jpg"
 			}
 		],
@@ -543,15 +543,15 @@
 		]
 	},
 	{
-		"id": "",
-		"titulo": "",
+		"id": "MESADEBILLARMADERATORNILLO",
+		"titulo": "MESA DE BILLAR MADERA TORNILLO",
 		"category":"Mesas de Billar",
-		"assets": "assets/img/juegossksb/juegossalon/.jpg",
+		"assets": "assets/img/juegossksb/juegossalon/mesa-billar-tornillo.jpg",
 	
 		"imgs": [
 			{
 				"idImage": "arco01",
-				"src": "assets/img/juegossksb/juegossalon/.jpg"
+				"src": "assets/img/juegossksb/juegossalon/mesa-billar-tornillo.jpg"
 			}
 		],
 		"info":[
@@ -559,7 +559,13 @@
 				"title":"Medidas",
 				"text":[
 					{
-						"texto": ""
+						"texto": "Largo: 2.60mts."
+					},
+					{
+						"texto": "Ancho: 1.45mt."
+					},
+					{
+						"texto": "Altura: 0.80mt."
 					}
 				]
 			},
@@ -567,22 +573,48 @@
 				"title":"Descripciones",
 				"text":[
 					{
-						"texto": ""
+						"texto": "Confeccionado en madera tornillo selecto y laqueado al color natural."
+					},
+					{
+						"texto": "Pizarra de cemento (composición nacional)."
+					},
+					{
+						"texto": "Barandas con jebe nacional. "
+					},
+					{
+						"texto": "Tela polystel color verde o al escoger."
+					}
+				]
+			},
+			{
+				"title":"Incluye",
+				"text":[
+					{
+						"texto": "Un juego de bolas importadas (03)"
+					},
+					{
+						"texto": "Seis tacos fijos."
+					},
+					{
+						"texto": "Una taquera – bolera."
+					},
+					{
+						"texto": "Dos docenas de tizas fénix."
 					}
 				]
 			}
 		]
 	},
 	{
-		"id": "",
-		"titulo": "",
+		"id": "MESADEBILLASDECAOBA",
+		"titulo": "MESA DE BILLAS DE CAOBA",
 		"category":"Mesas de Billar",
-		"assets": "assets/img/juegossksb/juegossalon/.jpg",
+		"assets": "assets/img/juegossksb/juegossalon/mesa-billar-caoba.jpg",
 	
 		"imgs": [
 			{
 				"idImage": "arco01",
-				"src": "assets/img/juegossksb/juegossalon/.jpg"
+				"src": "assets/img/juegossksb/juegossalon/mesa-billar-caoba.jpg"
 			}
 		],
 		"info":[
@@ -590,7 +622,13 @@
 				"title":"Medidas",
 				"text":[
 					{
-						"texto": ""
+						"texto": "Largo: 2.80mts."
+					},
+					{
+						"texto": "Ancho: 1.55mt."
+					},
+					{
+						"texto": "Altura: 0.80mt."
 					}
 				]
 			},
@@ -598,22 +636,51 @@
 				"title":"Descripciones",
 				"text":[
 					{
-						"texto": ""
+						"texto": "Confeccionado en madera caoba selecto y laqueado al color natural."
+					},
+					{
+						"texto": "Pizarra de cemento (composición nacional)."
+					},
+					{
+						"texto": "Barandas con jebe nacional. "
+					},
+					{
+						"texto": "Tela polyestel color verde o al escoger."
+					},
+					{
+						"texto": "Seis troneras de bronce pulido con canastillas de cuero vira."
+					}
+				]
+			},
+			{
+				"title":"Incluye",
+				"text":[
+					{
+						"texto": "Un juego de bolas importadas (16 bolas)"
+					},
+					{
+						"texto": "Seis tacos fijos."
+					},
+					{
+						"texto": "Una taquera – bolera."
+					},
+					{
+						"texto": "Dos docenas de tizas fénix."
 					}
 				]
 			}
 		]
 	},
 	{
-		"id": "",
-		"titulo": "",
+		"id": "MESADEBILLASENCHAPADAENFORMICA",
+		"titulo": "MESA DE BILLAS ENCHAPADA EN FORMICA",
 		"category":"Mesas de Billar",
-		"assets": "assets/img/juegossksb/juegossalon/.jpg",
+		"assets": "assets/img/juegossksb/juegossalon/mesa-billas-formica.jpg",
 	
 		"imgs": [
 			{
 				"idImage": "arco01",
-				"src": "assets/img/juegossksb/juegossalon/.jpg"
+				"src": "assets/img/juegossksb/juegossalon/mesa-billas-formica.jpg"
 			}
 		],
 		"info":[
@@ -621,7 +688,13 @@
 				"title":"Medidas",
 				"text":[
 					{
-						"texto": ""
+						"texto": "Largo: 2.80mts."
+					},
+					{
+						"texto": "Ancho: 1.55mt."
+					},
+					{
+						"texto": "Altura: 0.80mt."
 					}
 				]
 			},
@@ -629,22 +702,58 @@
 				"title":"Descripciones",
 				"text":[
 					{
-						"texto": ""
+						"texto": "Confeccionado en madera tornillo selecto y aglomerado de pino (placa maciza)."
+					},
+					{
+						"texto": "Enchapado en formica post-formable."
+					},
+					{
+						"texto": "Pizarra de cemento (composición nacional)."
+					},
+					{
+						"texto": "Barandas con jebe nacional. "
+					},
+					{
+						"texto": "Tela polyestel color verde o al escoger."
+					},
+					{
+						"texto": "Seis troneras de bronce pulido con canastillas de cuero vira."
+					}
+				]
+			},
+			{
+				"title":"Incluye",
+				"text":[
+					{
+						"texto": "Un juego de bolas importadas (16 bolas)"
+					},
+					{
+						"texto": "Seis tacos fijos."
+					},
+					{
+						"texto": "Una taquera – bolera."
+					},
+					{
+						"texto": "Dos docenas de tizas fénix."
 					}
 				]
 			}
 		]
 	},
 	{
-		"id": "",
-		"titulo": "",
+		"id": "MESADEBILLASMODELOMT-01",
+		"titulo": "MESA DE BILLAS MODELO MT - 01",
 		"category":"Mesas de Billar",
-		"assets": "assets/img/juegossksb/juegossalon/.jpg",
+		"assets": "assets/img/juegossksb/juegossalon/mesa-billas-mt01-1.jpg",
 	
 		"imgs": [
 			{
 				"idImage": "arco01",
-				"src": "assets/img/juegossksb/juegossalon/.jpg"
+				"src": "assets/img/juegossksb/juegossalon/mesa-billas-mt01-1.jpg"
+			},
+			{
+				"idImage": "arco02",
+				"src": "assets/img/juegossksb/juegossalon/mesa-billas-mt01-2.jpg"
 			}
 		],
 		"info":[
@@ -652,7 +761,13 @@
 				"title":"Medidas",
 				"text":[
 					{
-						"texto": ""
+						"texto": "Largo: 2.80mts."
+					},
+					{
+						"texto": "Ancho: 1.55mt."
+					},
+					{
+						"texto": "Altura: 0.80mt."
 					}
 				]
 			},
@@ -660,22 +775,51 @@
 				"title":"Descripciones",
 				"text":[
 					{
-						"texto": ""
+						"texto": "Confeccionado en madera tornillo selecto y laqueado al color natural."
+					},
+					{
+						"texto": "Pizarra de cemento (composición nacional)."
+					},
+					{
+						"texto": "Barandas con jebe nacional. "
+					},
+					{
+						"texto": "Tela polyestel color verde o al escoger."
+					},
+					{
+						"texto": "Seis troneras de bronce pulido con canastillas de cuero vira."
+					}
+				]
+			},
+			{
+				"title":"Incluye",
+				"text":[
+					{
+						"texto": "Un juego de bolas importadas (16 bolas)"
+					},
+					{
+						"texto": "Seis tacos fijos."
+					},
+					{
+						"texto": "Una taquera – bolera."
+					},
+					{
+						"texto": "Dos docenas de tizas fénix."
 					}
 				]
 			}
 		]
 	},
 	{
-		"id": "",
-		"titulo": "",
+		"id": "MESADEBILLARMODELOMT–02",
+		"titulo": "MESA DE BILLAR MODELO MT – 02",
 		"category":"Mesas de Billar",
-		"assets": "assets/img/juegossksb/juegossalon/.jpg",
+		"assets": "assets/img/juegossksb/juegossalon/mesa-billas-mt02.jpg",
 	
 		"imgs": [
 			{
 				"idImage": "arco01",
-				"src": "assets/img/juegossksb/juegossalon/.jpg"
+				"src": "assets/img/juegossksb/juegossalon/mesa-billas-mt02.jpg"
 			}
 		],
 		"info":[
@@ -683,7 +827,13 @@
 				"title":"Medidas",
 				"text":[
 					{
-						"texto": ""
+						"texto": "Largo: 2.80mts."
+					},
+					{
+						"texto": "Ancho: 1.55mt."
+					},
+					{
+						"texto": "Altura: 0.80mt."
 					}
 				]
 			},
@@ -691,22 +841,59 @@
 				"title":"Descripciones",
 				"text":[
 					{
-						"texto": ""
+						"texto": "Confeccionado en madera tornillo selecto y laqueado al color natural."
+					},
+					{
+						"texto": "Pizarra de cemento (composición nacional)."
+					},
+					{
+						"texto": "Barandas con jebe nacional. "
+					},
+					{
+						"texto": "Tela polyestel color verde o al escoger."
+					},
+					{
+						"texto": "Seis troneras de bronce pulido con canastillas de cuero vira."
+					}
+				]
+			},
+			{
+				"title":"Incluye",
+				"text":[
+					{
+						"texto": "Un juego de bolas importadas (16 bolas)"
+					},
+					{
+						"texto": "Seis tacos fijos."
+					},
+					{
+						"texto": "Una taquera – bolera."
+					},
+					{
+						"texto": "Dos docenas de tizas fénix."
 					}
 				]
 			}
 		]
 	},
 	{
-		"id": "",
-		"titulo": "",
+		"id": "MESADEBILLASMODELOMT–03(TRADICIONAL)",
+		"titulo": "MESA DE BILLAS MODELO MT – 03 (TRADICIONAL)",
 		"category":"Mesas de Billar",
-		"assets": "assets/img/juegossksb/juegossalon/.jpg",
+		"assets": "assets/img/juegossksb/juegossalon/mesa-billas-mt03-1.jpg",
 	
 		"imgs": [
 			{
 				"idImage": "arco01",
-				"src": "assets/img/juegossksb/juegossalon/.jpg"
+				"src": "assets/img/juegossksb/juegossalon/mesa-billas-mt03-1.jpg"
+			},
+			{
+				"idImage": "arco02",
+				"src": "assets/img/juegossksb/juegossalon/mesa-billas-mt03-2.jpg"
+			},
+			{
+				"idImage": "arco03",
+				"src": "assets/img/juegossksb/juegossalon/mesa-billas-mt03-3.jpg"
 			}
 		],
 		"info":[
@@ -714,7 +901,13 @@
 				"title":"Medidas",
 				"text":[
 					{
-						"texto": ""
+						"texto": "Largo: 2.80mts."
+					},
+					{
+						"texto": "Ancho: 1.55mt."
+					},
+					{
+						"texto": "Altura: 0.80mt."
 					}
 				]
 			},
@@ -722,22 +915,63 @@
 				"title":"Descripciones",
 				"text":[
 					{
-						"texto": ""
+						"texto": "Confeccionado en madera tornillo selecto y laqueado al color natural."
+					},
+					{
+						"texto": "Pizarra de cemento (composición nacional)."
+					},
+					{
+						"texto": "Barandas con jebe nacional. "
+					},
+					{
+						"texto": "Tela polyestel color verde o al escoger."
+					},
+					{
+						"texto": "Seis troneras de bronce pulido con canastillas de cuero vira."
+					}
+				]
+			},
+			{
+				"title":"Incluye",
+				"text":[
+					{
+						"texto": "Un juego de bolas importadas (16 bolas)"
+					},
+					{
+						"texto": "Seis tacos fijos."
+					},
+					{
+						"texto": "Una taquera – bolera."
+					},
+					{
+						"texto": "Dos docenas de tizas fénix."
 					}
 				]
 			}
 		]
 	},
 	{
-		"id": "",
-		"titulo": "",
-		"category":"Mesas de Billar",
-		"assets": "assets/img/juegossksb/juegossalon/.jpg",
+		"id": "FULBITOCOMERCIALDEMADERA",
+		"titulo":"FULBITO COMERCIAL DE MADERA",
+		"category":"Mesas de Fulbito",
+		"assets": "assets/img/juegossksb/juegossalon/fulbito-comercial1.jpg",
 	
 		"imgs": [
 			{
 				"idImage": "arco01",
-				"src": "assets/img/juegossksb/juegossalon/.jpg"
+				"src": "assets/img/juegossksb/juegossalon/fulbito-comercial1.jpg"
+			},
+			{
+				"idImage": "arco02",
+				"src": "assets/img/juegossksb/juegossalon/fulbito-comercial2.jpg"
+			},
+			{
+				"idImage": "arco03",
+				"src": "assets/img/juegossksb/juegossalon/fulbito-comercial3.jpg"
+			},
+			{
+				"idImage": "arco04",
+				"src": "assets/img/juegossksb/juegossalon/fulbito-comercial4.jpg"
 			}
 		],
 		"info":[
@@ -745,7 +979,13 @@
 				"title":"Medidas",
 				"text":[
 					{
-						"texto": ""
+						"texto": "Largo: 1.40mt."
+					},
+					{
+						"texto": "Ancho: 0.73mt."
+					},
+					{
+						"texto": "Alto: 0.92mt."
 					}
 				]
 			},
@@ -753,7 +993,549 @@
 				"title":"Descripciones",
 				"text":[
 					{
-						"texto": ""
+						"texto": "Confeccionado en madera tornillo y base contraplacado en triplay de 4mm de espesor."
+					},
+					{
+						"texto": "Acabado en laca brillante a la piroxilina color natural."
+					},
+					{
+						"texto": "Cancha de vidrio triple de 6mm de espesor pintado de color verde."
+					},
+					{
+						"texto": "Varillas de fierro zincados de 5/8” x 1.5mm de pared."
+					},
+					{
+						"texto": "Jugadores pintados con uniforme de su respectivo equipo."
+					},
+					{
+						"texto": "Accionado por un fichero."
+					}
+				]
+			},
+			{
+				"title":"Incluye",
+				"text":[
+					{
+						"texto": " 12 bolas de fulbito."
+					},
+					{
+						"texto": "50 fichas."
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "FULBITOCOMERCIALDEMADERACONBASEDEMETAL",
+		"titulo": "FULBITO COMERCIAL DE MADERA CON BASE DE METAL",
+		"category":"Mesas de Fulbito",
+		"assets": "assets/img/juegossksb/juegossalon/fulbito-base-metal.jpg",
+	
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/fulbito-base-metal.jpg"
+			}
+		],
+		"info":[
+			{
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": "Largo: 1.50mt."
+					},
+					{
+						"texto": "Ancho: 0.75mt."
+					},
+					{
+						"texto": "Altura: 0.92mt."
+					}
+				]
+			},
+			{
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Confeccionado en madera tornillo."
+					},
+					{
+						"texto": "Acabado en laca brillante a la piroxilina color natural."
+					},
+					{
+						"texto": "Base de metal confeccionado en tubo negro de ¾” x 2mm de espesor."
+					},
+					{
+						"texto": "Estructura de la base pintado al horno y cubierto con planchas de triplay de 4mm de espesor."
+					},
+					{
+						"texto": "Cancha de vidrio cristal de 6mm de espesor, pintado de color verde (diseño de gras)."
+					},
+					{
+						"texto": "Varillas de fierro zincado de 5/8” x 1.5mm de espesor."
+					},
+					{
+						"texto": "Jugadores pintados con su uniforme respectivo."
+					},
+					{
+						"texto": "Accionado por un fichero."
+					}
+				]
+			},
+			{
+				"title":"Incluye",
+				"text":[
+					{
+						"texto": "12 bolas de fulbito."
+					},
+					{
+						"texto": "50 fichas."
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "FULBITOCOMERCIALENCHAPADOENFORMICA",
+		"titulo": "FULBITO COMERCIAL ENCHAPADO EN FORMICA",
+		"category":"Mesas de Fulbito",
+		"assets": "assets/img/juegossksb/juegossalon/fulbito-enchapado1.jpg",
+	
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/fulbito-enchapado2.jpg"
+			},
+			{
+				"idImage": "arco02",
+				"src": "assets/img/juegossksb/juegossalon/fulbito-enchapado2.jpg"
+			},
+			{
+				"idImage": "arco03",
+				"src": "assets/img/juegossksb/juegossalon/fulbito-enchapado3.jpg"
+			},
+			{
+				"idImage": "arco04",
+				"src": "assets/img/juegossksb/juegossalon/fulbito-enchapado4.jpg"
+			}
+		],
+		"info":[
+			{
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": "Largo: 1.50mt."
+					},
+					{
+						"texto": "Ancho: 0.75mt."
+					},
+					{
+						"texto": "Altura: 0.92mt."
+					}
+				]
+			},
+			{
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Confeccionado en aglomerado de pino (placa maciza) enchapado en formica post-formable de color al escoger."
+					},
+					{
+						"texto": "Base de metal confeccionado en tubo negro de ¾” x 2mm de espesor."
+					},
+					{
+						"texto": "Estructura de base pintado al horno y cubierto con planchas de nordex de 4mm de espesor. "
+					},
+					{
+						"texto": "Cancha de vidrio cristal de 6mm pintado de color verde (diseño de gras)"
+					},
+					{
+						"texto": "Varillas de fierro zincados de 5/8” x 1.5mm de espesor."
+					},
+					{
+						"texto": "Jugadores pintados con uniforme de su respectivo equipo."
+					},
+					{
+						"texto": "Accionado por un fichero en forma de pelota."
+					}
+				]
+			},
+			{
+				"title":"Incluye",
+				"text":[
+					{
+						"texto": "12 bolas de fulbito."
+					},
+					{
+						"texto": "50 fichas."
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "FULBITOCOMERCIALMODELOBOMBÉ",
+		"titulo": "FULBITO COMERCIAL MODELO BOMBÉ",
+		"category":"Mesas de Fulbito",
+		"assets": "assets/img/juegossksb/juegossalon/fulbito-bombe1.jpg",
+	
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/fulbito-bombe1.jpg"
+			},
+			{
+				"idImage": "arco02",
+				"src": "assets/img/juegossksb/juegossalon/fulbito-bombe2.jpg"
+			}
+		],
+		"info":[
+			{
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": "Largo: 1.40mt."
+					},
+					{
+						"texto": "Ancho: 0.73mt."
+					},
+					{
+						"texto": "Altura: 0.92mt."
+					}
+				]
+			},
+			{
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Confeccionado en madera tornillo y aglomerado de pino enchapado formica post formable."
+					},
+					{
+						"texto": "Base contraplacado en triplay de 4mm de espesor."
+					},
+					{
+						"texto": "Acabado en laca brillante a la piroxilina color natural."
+					},
+					{
+						"texto": "Cancha de vidrio cristal triple de 6mm de espesor pintado de color verde (diseño de gras)."
+					},
+					{
+						"texto": "Varillas de fierro zincados de 5/8” x 1.5mm de espesor."
+					},
+					{
+						"texto": "Jugadores pintados con uniforme de su respectivo equipo."
+					},
+					{
+						"texto": "Accionado por un fichero."
+					}
+				]
+			},
+			{
+				"title":"Incluye",
+				"text":[
+					{
+						"texto": "12 bolas de Fulbito."
+					},
+					{
+						"texto": "50 fichas."
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "FULBITOFAMILIARDEMADERA",
+		"titulo": "FULBITO FAMILIAR DE MADERA",
+		"category":"Mesas de Fulbito",
+		"assets": "assets/img/juegossksb/juegossalon/fulbito-familiar1.jpg",
+	
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/fulbito-familiar1.jpg"
+			},
+			{
+				"idImage": "arco02",
+				"src": "assets/img/juegossksb/juegossalon/fulbito-familiar2.jpg"
+			},
+			{
+				"idImage": "arco03",
+				"src": "assets/img/juegossksb/juegossalon/fulbito-familiar3.jpg"
+			}
+		],
+		"info":[
+			{
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": "Largo: 1.40mt."
+					},
+					{
+						"texto": "Ancho: 0.73mt."
+					},
+					{
+						"texto": "Alto: 0.92mt."
+					}
+				]
+			},
+			{
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Confeccionado en madera tornillo y base contraplacado en triplay de 4mm de espesor."
+					},
+					{
+						"texto": "Acabado en laca brillante a la piroxilina color natural."
+					},
+					{
+						"texto": "Cancha de vidrio triple de 6mm de espesor pintado de color verde."
+					},
+					{
+						"texto": "Varillas de fierro zincados de 5/8” x 1.5mm de pared."
+					},
+					{
+						"texto": "Jugadores pintados con uniforme de su respectivo equipo."
+					},
+					{
+						"texto": "Incluye 12 bolas de fulbito."
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "FULBITOFAMILIARENCHAPADOENFORMICA",
+		"titulo": "FULBITO FAMILIAR ENCHAPADO EN FORMICA",
+		"category":"Mesas de Fulbito",
+		"assets": "assets/img/juegossksb/juegossalon/fulbito-familiar-formica1.jpg",
+	
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/fulbito-familiar-formica1.jpg"
+			},
+			{
+				"idImage": "arco02",
+				"src": "assets/img/juegossksb/juegossalon/fulbito-familiar-formica2.jpg"
+			}
+		],
+		"info":[
+			{
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": "Largo: 1.40mt."
+					},
+					{
+						"texto": "Ancho: 0.73mt."
+					},
+					{
+						"texto": "Alto: 0.92mt."
+					}
+				]
+			},
+			{
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Confeccionado en aglomerado de pino de 19mm de espesor (placa maciza)."
+					},
+					{
+						"texto": "Enchapado en formica post-formable."
+					},
+					{
+						"texto": "Base de metal confeccionada en tubo negro de ¾” x 2mm de espesor."
+					},
+					{
+						"texto": "Estructura de base pintado al horno y cubierto con planchas de nordex de 4mm de espesor. "
+					},
+					{
+						"texto": "Cancha de vidrio triple de 6mm de espesor pintado de color verde (diseño de gras)."
+					},
+					{
+						"texto": "Varillas de fierro zincados de 5/8” x 1.5mm de pared."
+					},
+					{
+						"texto": "Jugadores pintados con uniforme de su respectivo equipo."
+					},
+					{
+						"texto": "Incluye 12 bolas de fulbito."
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "SAPODESARMABLE",
+		"titulo": "SAPO DESARMABLE",
+		"category":"Sapo",
+		"assets": "assets/img/juegossksb/juegossalon/sapo-desarmable1.jpg",
+	
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/sapo-desarmable1.jpg"
+			},
+			{
+				"idImage": "arco02",
+				"src": "assets/img/juegossksb/juegossalon/sapo-desarmable2.jpg"
+			},
+			{
+				"idImage": "arco03",
+				"src": "assets/img/juegossksb/juegossalon/sapo-desarmable3.jpg"
+			},
+			{
+				"idImage": "arco04",
+				"src": "assets/img/juegossksb/juegossalon/sapo-desarmable4.jpg"
+			}
+		],
+		"info":[
+			{
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": "Largo: 0.60mt."
+					},
+					{
+						"texto": "Ancho: 0.60mt."
+					},
+					{
+						"texto": "Altura: 0.90mt."
+					},
+					{
+						"texto": "Peso: 28 kilos aprox."
+					}
+				]
+			},
+			{
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Confeccionado en madera tornillo."
+					},
+					{
+						"texto": "Laqueado de color natural."
+					},
+					{
+						"texto": "Totalmente desarmable y codificados para mayor facilidad en el armado."
+					},
+					{
+						"texto": "El cabezal y la numeración del sapo están forrados con cuero carnaza selecta (para la protección de la madera del golpe de la ficha de bronce)."
+					},
+					{
+						"texto": "Accesorios de bronce pulidos (Sapo, mariposa, balancines, seguros y 12 fichas)."
+					}
+				]
+			},
+			{
+				"title":"Incluye",
+				"text":[
+					{
+						"texto": "Una pizarrita."
+					},
+					{
+						"texto": "Un maletín (elaborado de lona)."
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "SAPOELECTRICO",
+		"titulo": "SAPO ELECTRICO",
+		"category":"Sapo",
+		"assets": "assets/img/juegossksb/juegossalon/sapo-electrico1.jpg",
+	
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/sapo-electrico1.jpg"
+			},
+			{
+				"idImage": "arco02",
+				"src": "assets/img/juegossksb/juegossalon/sapo-electrico2.jpg"
+			}
+		],
+		"info":[
+			{
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": "Largo: 0.60mt."
+					},
+					{
+						"texto": "Ancho: 0.60mt."
+					},
+					{
+						"texto": "Altura: 0.90mt."
+					}
+				]
+			},
+			{
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Elaborado de madera tornillo y placa maciza de 19mm de espesor."
+					},
+					{
+						"texto": "El cabezal forrado totalmente con cuero carnaza."
+					},
+					{
+						"texto": "Sistema eléctrico empotrado en mueble."
+					},
+					{
+						"texto": "Panel luminoso de acrílico blanco con 20 focos."
+					},
+					{
+						"texto": "Accesorios de bronce pulido (sapo, mariposa, balancines y fichas)."
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "SAPOTÍPÍCO",
+		"titulo": "SAPO TÍPÍCO",
+		"category":"Sapo",
+		"assets": "assets/img/juegossksb/juegossalon/sapo-tipico.jpg",
+	
+		"imgs": [
+			{
+				"idImage": "arco01",
+				"src": "assets/img/juegossksb/juegossalon/sapo-tipico.jpg"
+			}
+		],
+		"info":[
+			{
+				"title":"Medidas",
+				"text":[
+					{
+						"texto": "Ancho: 0.60mt."
+					},
+					{
+						"texto": "Largo: 0.60mt."
+					},
+					{
+						"texto": "Alto: 0.90mt."
+					}
+				]
+			},
+			{
+				"title":"Descripciones",
+				"text":[
+					{
+						"texto": "Confeccionado en madera tornillo."
+					},
+					{
+						"texto": "Pintado con pintura sintética de color verde o de color natural acabado en laca."
+					},
+					{
+						"texto": "El cabezal y la numeración del sapo están forrados con cuero carnaza selecta (para la protección de la madera del golpe de la ficha de bronce)."
+					},
+					{
+						"texto": "Accesorios de bronce pulidos (Sapo, mariposa, balancines, seguros y 12 fichas)."
+					},
+					{
+						"texto": "Incluye una pizarrita."
 					}
 				]
 			}
