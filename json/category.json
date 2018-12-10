@@ -5,66 +5,75 @@
         "ca_img": "assets/img/juegossksb/category/toboganes.jpg",
         "ca_json": "./json/tobogan.json",
         "ca_flag_cate": false
-    },{
+    },
+    {
         "ca_id": "C02",
         "ca_name": "Sube y Baja",
         "ca_img": "assets/img/juegossksb/category/subeybaja.jpg",
         "ca_json": "./json/subeybaja.json",
         "ca_flag_cate": false
-    },{
+    },
+    {
         "ca_id": "C03",
         "ca_name": "Pasamanos",
         "ca_img": "assets/img/juegossksb/category/pasamanos.jpg",
         "ca_json": "./json/pasamanos.json",
         "ca_flag_cate": false
-    },{
+    },
+    {
         "ca_id": "C04",
         "ca_name": "Módulos de Madera",
         "ca_img": "assets/img/juegossksb/category/moduloMadera.jpg",
         "ca_json": "./json/modulosmadera.json",
         "ca_flag_cate": false
-    },{
+    },
+    {
         "ca_id": "C05",
         "ca_name": "Casita de Madera",
         "ca_img": "assets/img/juegossksb/category/casitaMadera.jpg",
         "ca_json": "./json/tobojan.json",
         "ca_flag_cate": false
-    },{
+    },
+    {
         "ca_id": "C06",
         "ca_name": "Cama Elástica",
         "ca_img": "assets/img/juegossksb/category/camaelastica.jpg",
         "ca_json": "./json/CamaElastica.json",
         "ca_flag_cate": false
-    },{
+    },
+    {
         "ca_id": "C07",
         "ca_name": "Juegos de Salón",
         "ca_img": "assets/img/juegossksb/category/JuegosSalon.jpg",
         "ca_json": "./json/juegossalon.json",
         "ca_flag_cate": true
-    },{
+    },
+    {
         "ca_id": "C08",
         "ca_name": "Inflables",
         "ca_img": "assets/img/juegossksb/category/inflables.jpg",
         "ca_json": "./json/inflables.json",
         "ca_flag_cate": true
-    },{
+    },
+    {
         "ca_id": "C09",
         "ca_name": "Giratorios",
         "ca_img": "assets/img/juegossksb/category/giratorios.jpg",
         "ca_json": "./json/tobojan.json",
         "ca_flag_cate": false
-    },{
+    },
+    {
         "ca_id": "C010",
         "ca_name": "Columpios",
         "ca_img": "assets/img/juegossksb/category/columpios.jpg",
         "ca_json": "./json/tobojan.json",
         "ca_flag_cate": false
-    },{
+    },
+    {
         "ca_id": "C011",
         "ca_name": "Arcos",
         "ca_img": "assets/img/juegossksb/category/columpios.jpg",
         "ca_json": "./json/arcofulbito.json",
         "ca_flag_cate": false
     }
-    
 ]

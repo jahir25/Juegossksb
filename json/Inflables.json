@@ -1,55 +1,51 @@
 [
     {
-        
-            "id": "ArcoInflablePublicitario",
-            "titulo": "Arco Inflable Publicitario",
-            "category":"Inflables Publicitarios",
-            "assets": "assets/img/juegossksb/Inflables/ARCOINFLABLEPUBLICITARIO-1.jpg",
-            "imgs": [
-                {
-                    "idImage": "Inflable1",
-                    "src": "assets/img/juegossksb/Inflables/ARCOINFLABLEPUBLICITARIO-1.jpg"
-                },
-                {
-                    "idImage": "Inflable2",
-                    "src": "assets/img/juegossksb/Inflables/ARCOINFLABLEPUBLICITARIO-2.jpg"
-                }
-    
-            ],
-            "info": [
-                {
-                    "title": "Medidas",
-                    "text": [
-                        {
-                            "texto": "Diámetro: 1mt."
-                        },
-                        {
-                            "texto": "Altura: 3mts."
-                        },
-                        {
-                            "texto": "Largo: 8mts."
-                        }
-                    ]
-                },
-                {
-                    "title": "Descripción",
-                    "text": [
-                        {
-                            "texto": "Confeccionado en tela importada de colores (al escoger)."
-                        },
-                        {
-                            "texto": "Motor soplador de 1½” caballos de fuerza de alta velocidad."
-                        }
-                    ]
-                }
-            ]
+        "id": "ArcoInflablePublicitario",
+        "titulo": "Arco Inflable Publicitario",
+        "category": "Inflables Publicitarios",
+        "assets": "assets/img/juegossksb/Inflables/ARCOINFLABLEPUBLICITARIO-1.jpg",
+        "imgs": [
+            {
+                "idImage": "Inflable1",
+                "src": "assets/img/juegossksb/Inflables/ARCOINFLABLEPUBLICITARIO-1.jpg"
+            },
+            {
+                "idImage": "Inflable2",
+                "src": "assets/img/juegossksb/Inflables/ARCOINFLABLEPUBLICITARIO-2.jpg"
+            }
+        ],
+        "info": [
+            {
+                "title": "Medidas",
+                "text": [
+                    {
+                        "texto": "Diámetro: 1mt."
+                    },
+                    {
+                        "texto": "Altura: 3mts."
+                    },
+                    {
+                        "texto": "Largo: 8mts."
+                    }
+                ]
+            },
+            {
+                "title": "Descripción",
+                "text": [
+                    {
+                        "texto": "Confeccionado en tela importada de colores (al escoger)."
+                    },
+                    {
+                        "texto": "Motor soplador de 1½” caballos de fuerza de alta velocidad."
+                    }
+                ]
+            }
+        ]
     },
-
     {
-        
         "id": "GloboPublicitario",
         "titulo": "Globo Publicitario",
-        "category":"Inflables Publicitarios",
+        "category": "Inflables Publicitarios",
         "assets": "assets/img/juegossksb/Inflables/GLOBOPUBLICITARIO-1.jpg",
         "imgs": [
             {
@@ -60,12 +56,11 @@
                 "idImage": "Inflable2",
                 "src": "assets/img/juegossksb/Inflables/GLOBOPUBLICITARIO-2.jpg"
             }
-
         ],
-        "info":[
+        "info": [
             {
                 "title": "Medidas",
-                "text":[
+                "text": [
                     {
                         "texto": "Altura 1: 7 metros"
                     },
@@ -81,8 +76,8 @@
                 ]
             },
             {
-                "title":"Descripciones",
-                "text":[
+                "title": "Descripciones",
+                "text": [
                     {
                         "texto": "Confeccionado con lona importada de colores a escoger."
                     },
@@ -94,517 +89,505 @@
                     }
                 ]
             }
-        
         ]
-},
-{
-        
-    "id": "TobogánInflableModeloCastillo",
-    "titulo": "Tobogán Inflable Modelo Castillo",
-    "category":"Toboganes Inflables",
-    "assets": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOCASTILLO-1.jpg",
-    "imgs": [
-        {
-            "idImage": "Inflable1",
-            "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOCASTILLO-1.jpg"
-        },
-        {
-            "idImage": "Inflable2",
-            "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOCASTILLO-2.jpg"
-        },
-        {
-            "idImage": "Inflable3",
-            "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOCASTILLO-3.jpg"
-        },
-        {
-            "idImage": "Inflable4",
-            "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOCASTILLO-4.jpg"
-        }
-    ],
-
-    "info":[
-        {
-            "title":"Medidas",
-            "text":[
-                {
-                    "texto": "Altura: 6.50mts."
-                },
-                {
-                    "texto": "Largo: 9mts."
-                },
-                {
-                    "texto": "Ancho: 4mts"
-                }
-            ]
-        },
-        {
-            "title":"Descripciones",
-            "text":[
-                {
-                    "texto": "Confeccionado en tela importada de colores al escoger."
-                },
-                {
-                    "texto": "Una escalera intermedia."
-                },
-                {
-                    "texto": "Dos resbalones laterales."
-                },
-                {
-                    "texto": "Entrada modelo castillo."
-                },
-                {
-                    "texto": "Un techo parcial en la parte superior de la escalera y resbalones."
-                },
-                {
-                    "texto": "Un motor soplador de dos caballos de fuerza de alta velocidad."
-                }
-            ]
-        }
-    ]
-},
-{
-        
-    "id": "TobogánInflableModeloEspecial",
-    "titulo": "Tobogán Inflable Modelo Especial",
-    "category":"Toboganes Inflables",
-    "assets": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOESPECIAL.jpg",
-    "imgs": [
-        {
-            "idImage": "Inflable1",
-            "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOESPECIAL.jpg"
-        },
-        {
-            "idImage": "Inflable2",
-            "src": "assets/img/juegossksb/Inflables/TOBOGANINFLABLEMODELOESPECIAL-2.jpg"
-        },
-        {
-            "idImage": "Inflable3",
-            "src": "assets/img/juegossksb/Inflables/TOBOGANINFLABLEMODELOESPECIAL-3.jpg"
-        }
-    ],
-    "info":[
-        {
-            "title":"Medidas",
-            "text":[
-                {
-                    "texto": "Altura: 10mts."
-                },
-                {
-                    "texto": "Largo: 12mts."
-                },
-                {
-                    "texto": "Ancho: 6mts."
-                }
-            ]
-        },
-        {
-            "title":"Descripciones",
-            "text":[
-                {
-                    "texto": "Confeccionado en tela importada de colores al escoger."
-                },
-                {
-                    "texto": "Dos escaleras laterales."
-                },
-                {
-                    "texto": "Una resbaladera intermedia."
-                },
-                {
-                    "texto": "Un motor soplador de dos caballos de fuerza de alta velocidad."
-                }
-            ]
-        }
-    ]
-},
-{
-        
-    "id": "TobogánInflableModeloMuñecos",
-    "titulo": "Tobogán Inflable Modelo Muñecos",
-    "category":"Toboganes Inflables",
-    "assets": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOMUÑECOS-1.jpg",
-    "imgs": [
-        {
-            "idImage": "Inflable1",
-            "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOMUÑECOS-1.jpg"
-        },
-        {
-            "idImage": "Inflable2",
-            "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOMUÑECOS-2.jpg"
-        }
-    ],
-    "info":[
-        {
-            "title":"Medidas",
-            "text":[
-                {
-                    "texto": "Altura: 8mts."
-                },
-                {
-                    "texto": "Largo: 10mts."
-                },
-                {
-                    "texto": "Ancho: 4.40mts."
-                }
-            ]
-        },
-        {
-            "title":"Descripciones",
-            "text":[
-                {
-                    "texto": "Confeccionado en tela importada de colores al escoger."
-                },
-                {
-                    "texto": "Una escalera intermedia."
-                },
-                {
-                    "texto": "Dos resbalones laterales."
-                },
-                {
-                    "texto": "Un techo parcial adornado con caricaturas infantiles."
-                },
-                {
-                    "texto": "Entrada adornada con muñecos de caricaturas infantiles."
-                },
-                {
-                    "texto": "Un motor soplador de dos caballos de fuerza de alta velocidad."
-                }
-            ]
-        }
-    ]
-},
-{
-        
-    "id": "TobogánInflableModeloMuñecosBaby",
-    "titulo": "Tobogán Inflable Modelo Muñecos Baby",
-    "category":"Toboganes Inflables",
-    "assets": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOMUÑECOSBABY.jpg",
-    "imgs": [
-        {
-            "idImage": "Inflable1",
-            "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOMUÑECOSBABY.jpg"
-        }
-    ],
-    "info":[
-        {
-            "title":"Medidas",
-            "text":[
-                {
-                    "texto": "Altura: 8mts."
-                },
-                {
-                    "texto": "Largo: 10mts."
-                },
-                {
-                    "texto": "Ancho: 4.40mts."
-                }
-            ]
-        },
-        {
-            "title":"Descripciones",
-            "text":[
-                {
-                    "texto": "Confeccionado en tela importada de colores al escoger."
-                },
-                {
-                    "texto": "Una escalera intermedia."
-                },
-                {
-                    "texto": "Dos resbalones laterales con arcos intermedios."
-                },
-                {
-                    "texto": "Entrada adornada con muñecos en forma de bebés."
-                },
-                {
-                    "texto": "Un motor soplador de dos caballos de fuerza de alta velocidad."
-                }
-            ]
-        }
-    ]
-},
-{
-        
-    "id": "TobogánInflableModeloOlasy",
-    "titulo": "Tobogán Inflable Modelo Olas",
-    "category":"Toboganes Inflables",
-    "assets": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOOLAS-1.jpg",
-    "imgs": [
-        {
-            "idImage": "Inflable1",
-            "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOOLAS-1.jpg"
-        },
-        {
-            "idImage": "Inflable1",
-            "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOOLAS-2.jpg"
-        }
-    ],
-    "info":[
-        {
-            "title":"Medidas",
-            "text":[
-                {
-                    "texto": "Altura: 7mts."
-                },
-                {
-                    "texto": "Largo: 8mts."
-                },
-                {
-                    "texto": "Ancho: 3.80mts."
-                }
-            ]
-        },
-        {
-            "title":"Descripciones",
-            "text":[
-                {
-                    "texto": "Confeccionado en tela importada de colores al escoger."
-                },
-                {
-                    "texto": "Una escalera intermedia."
-                },
-                {
-                    "texto": "Dos resbalones laterales."
-                },
-                {
-                    "texto": "Un techo parcial con adorno de delfines en la parte superior de la escalera y resbalones laterales."
-                },
-                {
-                    "texto": "En las barandas del tobogán está diseñado en forma de olas y adornado peces."
-                },
-                {
-                    "texto": "Un motor soplador de dos caballos de fuerza de alta velocidad."
-                }
-            ]
-        }
-    ]
-},
-{
-        
-    "id": "TobogánInflableModeloPalmares",
-    "titulo": "Tobogán Inflable Modelo Palmares",
-    "category":"Toboganes Inflables",
-    "assets": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOPALMARES-1.jpg",
-    "imgs": [
-        {
-            "idImage": "Inflable1",
-            "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOPALMARES-1.jpg"
-        },
-        {
-            "idImage": "Inflable2",
-            "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOPALMARES-2.jpg"
-        },
-        {
-            "idImage": "Inflable3",
-            "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOPALMARES-3.jpg"
-        }
-    ],
-    "info":[
-        {
-            "title":"Medidas",
-            "text":[
-                {
-                    "texto": "Altura: 7mts."
-                },
-                {
-                    "texto": "Largo: 8mts."
-                },
-                {
-                    "texto": "Ancho: 3.80mts."
-                }
-            ]
-        },
-        {
-            "title":"Descripciones",
-            "text":[
-                {
-                    "texto": "Confeccionado en tela importada de colores al escoger."
-                },
-                {
-                    "texto": "Una escalera intermedia."
-                },
-                {
-                    "texto": "Dos resbalones laterales."
-                },
-                {
-                    "texto": "Entrada modelo palmeras"
-                },
-                {
-                    "texto": "Un techo parcial en la parte superior de la escalera y resbalones."
-                },
-                {
-                    "texto": "Un motor soplador de dos caballos de fuerza de alta velocidad."
-                }
-            ]
-        }
-    ]
-},
-{
-        
-    "id": "TobogánInflableModeloPayaso",
-    "titulo": "Tobogán Inflable Modelo Payaso",
-    "category":"Toboganes Inflables",
-    "assets": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOPAYASO-1.jpg",
-    "imgs": [
-        {
-            "idImage": "Inflable1",
-            "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOPAYASO-1.jpg"
-        },
-        {
-            "idImage": "Inflable2",
-            "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOPAYASO-2.jpg"
-        },
-        {
-            "idImage": "Inflable3",
-            "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOPAYASO-3.jpg"
-        }
-    ],
-    "info":[
-        {
-            "title":"Medidas",
-            "text":[
-                {
-                    "texto": "Altura: 7mts."
-                },
-                {
-                    "texto": "Largo: 8mts."
-                },
-                {
-                    "texto": "Ancho: 3.80mts."
-                }
-            ]
-        },
-        {
-            "title":"Descripciones",
-            "text":[
-                {
-                    "texto": "Confeccionado en tela importada de colores al escoger."
-                },
-                {
-                    "texto": "Una escalera intermedia."
-                },
-                {
-                    "texto": "Dos resbalones laterales."
-                },
-                {
-                    "texto": "Un techo parcial con adorno de payaso en la parte superior de la escalera y resbalones."
-                },
-                {
-                    "texto": "Un motor soplador de dos caballos de fuerza de alta velocidad."
-                }
-            ]
-        }
-    ]
-
-},
-{
-        
-    "id": "TobogánInflableModeloRobot",
-    "titulo": "Tobogán Inflable Modelo Robot",
-    "category":"Toboganes Inflables",
-    "assets": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOROBOT-1.jpg",
-    "imgs": [
-        {
-            "idImage": "Inflable1",
-            "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOROBOT-1.jpg"
-        },
-        {
-            "idImage": "Inflable2",
-            "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOROBOT-2.jpg"
-        },
-        {
-            "idImage": "Inflable3",
-            "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOROBOT-3.jpg"
-        }
-    ],
-    "info":[
-        {
-            "title":"Medidas",
-            "text":[
-                {
-                    "texto": "Altura: 7mts."
-                },
-                {
-                    "texto": "Largo: 8.20mts."
-                },
-                {
-                    "texto": "Ancho: 5mts."
-                }
-            ]
-        },
-        {
-            "title":"Descripciones",
-            "text":[
-                {
-                    "texto": "Confeccionado en tela importada de colores al escoger."
-                },
-                {
-                    "texto": "Una escalera intermedia."
-                },
-                {
-                    "texto": "Dos resbalones laterales."
-                },
-                {
-                    "texto": "Un motor soplador de dos caballos de fuerza de alta velocidad."
-                }
-            ]
-        }
-    ]
-},
-{
-        
-    "id": "TobogánInflableModeloTradicional",
-    "titulo": "Tobogán Inflable Modelo Tradicional",
-    "category":"Toboganes Inflables",
-    "assets": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOTRADICIONAL-1.jpg",
-    "imgs": [
-        {
-            "idImage": "Inflable1",
-            "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOTRADICIONAL-1.jpg"
-        },
-        {
-            "idImage": "Inflable2",
-            "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOTRADICIONAL-2.jpg"
-        },
-        {
-            "idImage": "Inflable3",
-            "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOTRADICIONAL-3.jpg"
-        },
-        {
-            "idImage": "Inflable4",
-            "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOTRADICIONAL-4.jpg"
-        }
-    ],
-    "info":[
-        {
-            "title":"Medidas",
-            "text":[
-                {
-                    "texto": "Altura: 7mts."
-                },
-                {
-                    "texto": "Largo: 8mts."
-                },
-                {
-                    "texto": "Ancho: 3.80mts."
-                }
-            ]
-        },
-        {
-            "title":"Descripciones",
-            "text":[
-                {
-                    "texto": "Confeccionado en tela importada de colores al escoger."
-                },
-                {
-                    "texto": "Una escalera intermedia."
-                },
-                {
-                    "texto": "Dos resbalones laterales."
-                },
-                {
-                    "texto": "Un motor soplador de dos caballos de fuerza de alta velocidad."
-                }
-            ]
-        }
-    ]
-}
+    },
+    {
+        "id": "TobogánInflableModeloCastillo",
+        "titulo": "Tobogán Inflable Modelo Castillo",
+        "category": "Toboganes Inflables",
+        "assets": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOCASTILLO-1.jpg",
+        "imgs": [
+            {
+                "idImage": "Inflable1",
+                "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOCASTILLO-1.jpg"
+            },
+            {
+                "idImage": "Inflable2",
+                "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOCASTILLO-2.jpg"
+            },
+            {
+                "idImage": "Inflable3",
+                "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOCASTILLO-3.jpg"
+            },
+            {
+                "idImage": "Inflable4",
+                "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOCASTILLO-4.jpg"
+            }
+        ],
+        "info": [
+            {
+                "title": "Medidas",
+                "text": [
+                    {
+                        "texto": "Altura: 6.50mts."
+                    },
+                    {
+                        "texto": "Largo: 9mts."
+                    },
+                    {
+                        "texto": "Ancho: 4mts"
+                    }
+                ]
+            },
+            {
+                "title": "Descripciones",
+                "text": [
+                    {
+                        "texto": "Confeccionado en tela importada de colores al escoger."
+                    },
+                    {
+                        "texto": "Una escalera intermedia."
+                    },
+                    {
+                        "texto": "Dos resbalones laterales."
+                    },
+                    {
+                        "texto": "Entrada modelo castillo."
+                    },
+                    {
+                        "texto": "Un techo parcial en la parte superior de la escalera y resbalones."
+                    },
+                    {
+                        "texto": "Un motor soplador de dos caballos de fuerza de alta velocidad."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "TobogánInflableModeloEspecial",
+        "titulo": "Tobogán Inflable Modelo Especial",
+        "category": "Toboganes Inflables",
+        "assets": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOESPECIAL.jpg",
+        "imgs": [
+            {
+                "idImage": "Inflable1",
+                "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOESPECIAL.jpg"
+            },
+            {
+                "idImage": "Inflable2",
+                "src": "assets/img/juegossksb/Inflables/TOBOGANINFLABLEMODELOESPECIAL-2.jpg"
+            },
+            {
+                "idImage": "Inflable3",
+                "src": "assets/img/juegossksb/Inflables/TOBOGANINFLABLEMODELOESPECIAL-3.jpg"
+            }
+        ],
+        "info": [
+            {
+                "title": "Medidas",
+                "text": [
+                    {
+                        "texto": "Altura: 10mts."
+                    },
+                    {
+                        "texto": "Largo: 12mts."
+                    },
+                    {
+                        "texto": "Ancho: 6mts."
+                    }
+                ]
+            },
+            {
+                "title": "Descripciones",
+                "text": [
+                    {
+                        "texto": "Confeccionado en tela importada de colores al escoger."
+                    },
+                    {
+                        "texto": "Dos escaleras laterales."
+                    },
+                    {
+                        "texto": "Una resbaladera intermedia."
+                    },
+                    {
+                        "texto": "Un motor soplador de dos caballos de fuerza de alta velocidad."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "TobogánInflableModeloMuñecos",
+        "titulo": "Tobogán Inflable Modelo Muñecos",
+        "category": "Toboganes Inflables",
+        "assets": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOMUÑECOS-1.jpg",
+        "imgs": [
+            {
+                "idImage": "Inflable1",
+                "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOMUÑECOS-1.jpg"
+            },
+            {
+                "idImage": "Inflable2",
+                "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOMUÑECOS-2.jpg"
+            }
+        ],
+        "info": [
+            {
+                "title": "Medidas",
+                "text": [
+                    {
+                        "texto": "Altura: 8mts."
+                    },
+                    {
+                        "texto": "Largo: 10mts."
+                    },
+                    {
+                        "texto": "Ancho: 4.40mts."
+                    }
+                ]
+            },
+            {
+                "title": "Descripciones",
+                "text": [
+                    {
+                        "texto": "Confeccionado en tela importada de colores al escoger."
+                    },
+                    {
+                        "texto": "Una escalera intermedia."
+                    },
+                    {
+                        "texto": "Dos resbalones laterales."
+                    },
+                    {
+                        "texto": "Un techo parcial adornado con caricaturas infantiles."
+                    },
+                    {
+                        "texto": "Entrada adornada con muñecos de caricaturas infantiles."
+                    },
+                    {
+                        "texto": "Un motor soplador de dos caballos de fuerza de alta velocidad."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "TobogánInflableModeloMuñecosBaby",
+        "titulo": "Tobogán Inflable Modelo Muñecos Baby",
+        "category": "Toboganes Inflables",
+        "assets": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOMUÑECOSBABY.jpg",
+        "imgs": [
+            {
+                "idImage": "Inflable1",
+                "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOMUÑECOSBABY.jpg"
+            }
+        ],
+        "info": [
+            {
+                "title": "Medidas",
+                "text": [
+                    {
+                        "texto": "Altura: 8mts."
+                    },
+                    {
+                        "texto": "Largo: 10mts."
+                    },
+                    {
+                        "texto": "Ancho: 4.40mts."
+                    }
+                ]
+            },
+            {
+                "title": "Descripciones",
+                "text": [
+                    {
+                        "texto": "Confeccionado en tela importada de colores al escoger."
+                    },
+                    {
+                        "texto": "Una escalera intermedia."
+                    },
+                    {
+                        "texto": "Dos resbalones laterales con arcos intermedios."
+                    },
+                    {
+                        "texto": "Entrada adornada con muñecos en forma de bebés."
+                    },
+                    {
+                        "texto": "Un motor soplador de dos caballos de fuerza de alta velocidad."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "TobogánInflableModeloOlasy",
+        "titulo": "Tobogán Inflable Modelo Olas",
+        "category": "Toboganes Inflables",
+        "assets": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOOLAS-1.jpg",
+        "imgs": [
+            {
+                "idImage": "Inflable1",
+                "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOOLAS-1.jpg"
+            },
+            {
+                "idImage": "Inflable1",
+                "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOOLAS-2.jpg"
+            }
+        ],
+        "info": [
+            {
+                "title": "Medidas",
+                "text": [
+                    {
+                        "texto": "Altura: 7mts."
+                    },
+                    {
+                        "texto": "Largo: 8mts."
+                    },
+                    {
+                        "texto": "Ancho: 3.80mts."
+                    }
+                ]
+            },
+            {
+                "title": "Descripciones",
+                "text": [
+                    {
+                        "texto": "Confeccionado en tela importada de colores al escoger."
+                    },
+                    {
+                        "texto": "Una escalera intermedia."
+                    },
+                    {
+                        "texto": "Dos resbalones laterales."
+                    },
+                    {
+                        "texto": "Un techo parcial con adorno de delfines en la parte superior de la escalera y resbalones laterales."
+                    },
+                    {
+                        "texto": "En las barandas del tobogán está diseñado en forma de olas y adornado peces."
+                    },
+                    {
+                        "texto": "Un motor soplador de dos caballos de fuerza de alta velocidad."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "TobogánInflableModeloPalmares",
+        "titulo": "Tobogán Inflable Modelo Palmares",
+        "category": "Toboganes Inflables",
+        "assets": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOPALMARES-1.jpg",
+        "imgs": [
+            {
+                "idImage": "Inflable1",
+                "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOPALMARES-1.jpg"
+            },
+            {
+                "idImage": "Inflable2",
+                "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOPALMARES-2.jpg"
+            },
+            {
+                "idImage": "Inflable3",
+                "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOPALMARES-3.jpg"
+            }
+        ],
+        "info": [
+            {
+                "title": "Medidas",
+                "text": [
+                    {
+                        "texto": "Altura: 7mts."
+                    },
+                    {
+                        "texto": "Largo: 8mts."
+                    },
+                    {
+                        "texto": "Ancho: 3.80mts."
+                    }
+                ]
+            },
+            {
+                "title": "Descripciones",
+                "text": [
+                    {
+                        "texto": "Confeccionado en tela importada de colores al escoger."
+                    },
+                    {
+                        "texto": "Una escalera intermedia."
+                    },
+                    {
+                        "texto": "Dos resbalones laterales."
+                    },
+                    {
+                        "texto": "Entrada modelo palmeras"
+                    },
+                    {
+                        "texto": "Un techo parcial en la parte superior de la escalera y resbalones."
+                    },
+                    {
+                        "texto": "Un motor soplador de dos caballos de fuerza de alta velocidad."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "TobogánInflableModeloPayaso",
+        "titulo": "Tobogán Inflable Modelo Payaso",
+        "category": "Toboganes Inflables",
+        "assets": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOPAYASO-1.jpg",
+        "imgs": [
+            {
+                "idImage": "Inflable1",
+                "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOPAYASO-1.jpg"
+            },
+            {
+                "idImage": "Inflable2",
+                "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOPAYASO-2.jpg"
+            },
+            {
+                "idImage": "Inflable3",
+                "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOPAYASO-3.jpg"
+            }
+        ],
+        "info": [
+            {
+                "title": "Medidas",
+                "text": [
+                    {
+                        "texto": "Altura: 7mts."
+                    },
+                    {
+                        "texto": "Largo: 8mts."
+                    },
+                    {
+                        "texto": "Ancho: 3.80mts."
+                    }
+                ]
+            },
+            {
+                "title": "Descripciones",
+                "text": [
+                    {
+                        "texto": "Confeccionado en tela importada de colores al escoger."
+                    },
+                    {
+                        "texto": "Una escalera intermedia."
+                    },
+                    {
+                        "texto": "Dos resbalones laterales."
+                    },
+                    {
+                        "texto": "Un techo parcial con adorno de payaso en la parte superior de la escalera y resbalones."
+                    },
+                    {
+                        "texto": "Un motor soplador de dos caballos de fuerza de alta velocidad."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "TobogánInflableModeloRobot",
+        "titulo": "Tobogán Inflable Modelo Robot",
+        "category": "Toboganes Inflables",
+        "assets": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOROBOT-1.jpg",
+        "imgs": [
+            {
+                "idImage": "Inflable1",
+                "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOROBOT-1.jpg"
+            },
+            {
+                "idImage": "Inflable2",
+                "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOROBOT-2.jpg"
+            },
+            {
+                "idImage": "Inflable3",
+                "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOROBOT-3.jpg"
+            }
+        ],
+        "info": [
+            {
+                "title": "Medidas",
+                "text": [
+                    {
+                        "texto": "Altura: 7mts."
+                    },
+                    {
+                        "texto": "Largo: 8.20mts."
+                    },
+                    {
+                        "texto": "Ancho: 5mts."
+                    }
+                ]
+            },
+            {
+                "title": "Descripciones",
+                "text": [
+                    {
+                        "texto": "Confeccionado en tela importada de colores al escoger."
+                    },
+                    {
+                        "texto": "Una escalera intermedia."
+                    },
+                    {
+                        "texto": "Dos resbalones laterales."
+                    },
+                    {
+                        "texto": "Un motor soplador de dos caballos de fuerza de alta velocidad."
+                    }
+                ]
+            }
+        ]
+    },
+    {
+        "id": "TobogánInflableModeloTradicional",
+        "titulo": "Tobogán Inflable Modelo Tradicional",
+        "category": "Toboganes Inflables",
+        "assets": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOTRADICIONAL-1.jpg",
+        "imgs": [
+            {
+                "idImage": "Inflable1",
+                "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOTRADICIONAL-1.jpg"
+            },
+            {
+                "idImage": "Inflable2",
+                "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOTRADICIONAL-2.jpg"
+            },
+            {
+                "idImage": "Inflable3",
+                "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOTRADICIONAL-3.jpg"
+            },
+            {
+                "idImage": "Inflable4",
+                "src": "assets/img/juegossksb/Inflables/TOBOGÁNINFLABLEMODELOTRADICIONAL-4.jpg"
+            }
+        ],
+        "info": [
+            {
+                "title": "Medidas",
+                "text": [
+                    {
+                        "texto": "Altura: 7mts."
+                    },
+                    {
+                        "texto": "Largo: 8mts."
+                    },
+                    {
+                        "texto": "Ancho: 3.80mts."
+                    }
+                ]
+            },
+            {
+                "title": "Descripciones",
+                "text": [
+                    {
+                        "texto": "Confeccionado en tela importada de colores al escoger."
+                    },
+                    {
+                        "texto": "Una escalera intermedia."
+                    },
+                    {
+                        "texto": "Dos resbalones laterales."
+                    },
+                    {
+                        "texto": "Un motor soplador de dos caballos de fuerza de alta velocidad."
+                    }
+                ]
+            }
+        ]
+    }
 ]
