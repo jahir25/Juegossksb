@@ -1,0 +1,134 @@
+[
+	{
+		"id": "LABERINTOREMOLQUELR-01",
+		"titulo": "LABERINTO REMOLQUE LR-01",
+		"assets": "assets/img/juegossksb/LaberintoRemolque/laberinto-remolque-LR01-2.JPG",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/LaberintoRemolque/laberinto-remolque-LR01-2.JPG"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/LaberintoRemolque/laberinto-remolque-LR01.JPG"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "LABERINTOREMOLQUELR-02",
+		"titulo": "LABERINTO REMOLQUE LR-02",
+		"assets": "assets/img/juegossksb/LaberintoRemolque/laberinto-remolque-LR02-2.JPG",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/LaberintoRemolque/laberinto-remolque-LR02-2.JPG"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/LaberintoRemolque/laberinto-remolque-LR02.JPG"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "LABERINTOREMOLQUELR-03",
+		"titulo": "LABERINTO REMOLQUE LR-03",
+		"assets": "assets/img/juegossksb/LaberintoRemolque/laberinto-remolque-LR03-2.JPG",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/LaberintoRemolque/laberinto-remolque-LR03-2.JPG"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/LaberintoRemolque/laberinto-remolque-LR03-3.JPG"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/LaberintoRemolque/laberinto-remolque-LR03.JPG"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "LABERINTOREMOLQUELR-04",
+		"titulo": "LABERINTO REMOLQUE LR-04",
+		"assets": "assets/img/juegossksb/LaberintoRemolque/laberinto-remolque-LR04-2.JPG",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/LaberintoRemolque/laberinto-remolque-LR04-2.JPG"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/LaberintoRemolque/laberinto-remolque-LR04-3.JPG"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/LaberintoRemolque/laberinto-remolque-LR04.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	}
+]

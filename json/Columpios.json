@@ -1,0 +1,434 @@
+[
+	{
+		"id": "ASIENTOBUTACA",
+		"titulo": "ASIENTO BUTACA",
+		"assets": "assets/img/juegossksb/Columpios/ASIENTOBUTACA.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Columpios/ASIENTOBUTACA.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "ASIENTODEFIBRADEVIDRIOCONCADENA",
+		"titulo": "ASIENTO DE FIBRA DE VIDRIO CON CADENA",
+		"assets": "assets/img/juegossksb/Columpios/ASIENTODEFIBRADEVIDRIOCONCADENA.jpg",
+		"imgs": [
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Columpios/ASIENTODEFIBRADEVIDRIOCONCADENA.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "ASIENTODEFIBRADEVIDRIOCONDRIZA",
+		"titulo": "ASIENTO DE FIBRA DE VIDRIO CON DRIZA",
+		"assets": "assets/img/juegossksb/Columpios/ASIENTODEFIBRADEVIDRIOCONDRIZA.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Columpios/ASIENTODEFIBRADEVIDRIOCONDRIZA.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "ASIENTOSDEMADERACONCADENA",
+		"titulo": "ASIENTOS DE MADERA CON CADENA",
+		"assets": "assets/img/juegossksb/Columpios/ASIENTOSDEMADERACONCADENA.jpg",
+		"imgs": [
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Columpios/ASIENTOSDEMADERACONCADENA.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "COLUMPIOBABY",
+		"titulo": "COLUMPIO BABY",
+		"assets": "assets/img/juegossksb/Columpios/COLUMPIOBABY.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Columpios/COLUMPIOBABY.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "COLUMPIOCON02ASIENTOSDEMADERA",
+		"titulo": "COLUMPIO CON 02 ASIENTOS DE MADERA",
+		"assets": "assets/img/juegossksb/Columpios/COLUMPIOCON02ASIENTOSDEMADERA.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Columpios/COLUMPIOCON02ASIENTOSDEMADERA.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "COLUMPIOCON03ASIENTOSDEMADERA",
+		"titulo": "COLUMPIO CON 03 ASIENTOS DE MADERA",
+		"assets": "assets/img/juegossksb/Columpios/COLUMPIOCON03ASIENTOSDEMADERA.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Columpios/COLUMPIOCON03ASIENTOSDEMADERA.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "COLUMPIOCON04ASIENTOSDEMADERA",
+		"titulo": "COLUMPIO CON 04 ASIENTOS DE MADERA",
+		"assets": "assets/img/juegossksb/Columpios/COLUMPIOCON04ASIENTOSDEMADERA.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Columpios/COLUMPIOCON04ASIENTOSDEMADERA.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "COLUMPIOCUADRUPLECON2ASIENTOSY2BALANCINES",
+		"titulo": "COLUMPIO CUADRUPLE CON 2 ASIENTOS Y 2 BALANCINES",
+		"assets": "assets/img/juegossksb/Columpios/COLUMPIOCUADRUPLECON2ASIENTOSY2BALANCINES.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Columpios/COLUMPIOCUADRUPLECON2ASIENTOSY2BALANCINES.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "COLUMPIOCUADRUPLECON2ASIENTOSY2CALESAS",
+		"titulo": "COLUMPIO CUADRUPLE CON 2 ASIENTOS Y 2 CALESAS",
+		"assets": "assets/img/juegossksb/Columpios/COLUMPIOCUADRUPLECON2ASIENTOSY2CALESAS.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Columpios/COLUMPIOCUADRUPLECON2ASIENTOSY2CALESAS.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "COLUMPIODEMADERACON03ASIENTOSDEBUTACADEFIBRADEVIDRIO",
+		"titulo": "COLUMPIO DE MADERA CON 03 ASIENTOS DE BUTACA DE FIBRA DE VIDRIO",
+		"assets": "assets/img/juegossksb/Columpios/COLUMPIODEMADERACON03ASIENTOSDEBUTACADEFIBRADEVIDRIO.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Columpios/COLUMPIODEMADERACON03ASIENTOSDEBUTACADEFIBRADEVIDRIO.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "COLUMPIODOBLEMIXTO",
+		"titulo": "COLUMPIO DOBLE MIXTO",
+		"assets": "assets/img/juegossksb/Columpios/COLUMPIODOBLEMIXTO.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Columpios/COLUMPIODOBLEMIXTO.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "COLUMPIODOBLEMIXTOB",
+		"titulo": "COLUMPIO DOBLE MIXTO B",
+		"assets": "assets/img/juegossksb/Columpios/COLUMPIODOBLEMIXTOB.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Columpios/COLUMPIODOBLEMIXTOB.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "COLUMPIOTRIPLEMIXTO",
+		"titulo": "COLUMPIO TRIPLE MIXTO",
+		"assets": "assets/img/juegossksb/Columpios/COLUMPIOTRIPLEMIXTO.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Columpios/COLUMPIOTRIPLEMIXTO.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "COLUMPIOTRIPLEPARADISCAPACITADOS",
+		"titulo": "COLUMPIO TRIPLE PARA DISCAPACITADOS",
+		"assets": "assets/img/juegossksb/Columpios/COLUMPIOTRIPLEPARADISCAPACITADOS.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Columpios/COLUMPIOTRIPLEPARADISCAPACITADOS.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "SILLITACONESPALDARYASIENTOACOLCHADO",
+		"titulo": "SILLITA CON ESPALDAR Y ASIENTO ACOLCHADO",
+		"assets": "assets/img/juegossksb/Columpios/SILLITACONESPALDARYASIENTOACOLCHADO.jpg",
+		"imgs": [
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Columpios/SILLITACONESPALDARYASIENTOACOLCHADO.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	}
+]

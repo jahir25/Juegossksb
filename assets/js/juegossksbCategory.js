@@ -4,7 +4,6 @@ function onInit(){
         url: "./json/category.json",
         datatype: "json",
         success: function(result){
-            // console.log(result);
             createTabs(result);
         },
         error: function (xhr, ajaxOptions, thrownError) {

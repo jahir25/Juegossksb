@@ -1,0 +1,270 @@
+[
+	{
+		"id": "DESLIZADORAEREO15METROSDECABLEADO",
+		"titulo": "DESLIZADOR AEREO 15 METROS DE CABLEADO",
+		"assets": "assets/img/juegossksb/Deslizadoresytrepadores/deslizador-aereo1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Deslizadoresytrepadores/deslizador-aereo1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Deslizadoresytrepadores/deslizador-aereo2.jpg"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/Deslizadoresytrepadores/deslizador-aereo3.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "DESLIZADORDEMETAL",
+		"titulo": "DESLIZADOR DE METAL",
+		"assets": "assets/img/juegossksb/Deslizadoresytrepadores/deslizador-metal.jpg",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Deslizadoresytrepadores/deslizador-metal.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "JUEGOMULTILLANTA",
+		"titulo": "JUEGO MULTILLANTA",
+		"assets": "assets/img/juegossksb/Deslizadoresytrepadores/juego-multillanta1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Deslizadoresytrepadores/juego-multillanta1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Deslizadoresytrepadores/juego-multillanta2.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Deslizadoresytrepadores/juego-multillanta3.jpg"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/Deslizadoresytrepadores/juego-multillanta4.jpg"
+			},
+			{
+				"idImage": "img05",
+				"src": "assets/img/juegossksb/Deslizadoresytrepadores/juego-multillanta5.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "RAMPADESOGAS",
+		"titulo": "RAMPA DE SOGAS",
+		"assets": "assets/img/juegossksb/Deslizadoresytrepadores/rampa-soga.jpg",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Deslizadoresytrepadores/rampa-soga.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "SETDECLIMBINGEXAGONAL",
+		"titulo": "SET DE CLIMBING EXAGONAL",
+		"assets": "assets/img/juegossksb/Deslizadoresytrepadores/climbing-exagonal1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Deslizadoresytrepadores/climbing-exagonal1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Deslizadoresytrepadores/climbing-exagonal2.jpg"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/Deslizadoresytrepadores/climbing-exagonal3.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "TREPADORAMODELOESTRELLA",
+		"titulo": "TREPADORA MODELO ESTRELLA",
+		"assets": "assets/img/juegossksb/Deslizadoresytrepadores/trepadora-estrella1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Deslizadoresytrepadores/trepadora-estrella1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Deslizadoresytrepadores/trepadora-estrella2.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Deslizadoresytrepadores/trepadora-estrella3.jpg"
+			},
+			{
+				"idImage": "img04",
+				"src": "assets/img/juegossksb/Deslizadoresytrepadores/trepadora-estrella4.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "TREPADORAMODELOROMBO",
+		"titulo": "TREPADORA MODELO ROMBO",
+		"assets": "assets/img/juegossksb/Deslizadoresytrepadores/trapadora-rombo.jpg",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Deslizadoresytrepadores/trapadora-rombo.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "TREPADORAPIRAMIDAL",
+		"titulo": "TREPADORA PIRAMIDAL",
+		"assets": "assets/img/juegossksb/Deslizadoresytrepadores/trepadora-piramidal1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Deslizadoresytrepadores/trepadora-piramidal1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Deslizadoresytrepadores/trepadora-piramidal2.jpg"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/Deslizadoresytrepadores/trepadora-piramidal3.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	}
+]
