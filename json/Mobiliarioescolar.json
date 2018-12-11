@@ -1,0 +1,342 @@
+[
+	{
+		"id": "CARPETADOBLE-B",
+		"titulo": "CARPETA DOBLE - B",
+		"assets": "assets/img/juegossksb/Mobiliarioescolar/carpeta-doble-b.jpg",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Mobiliarioescolar/carpeta-doble-b.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "CARPETADOBLEA",
+		"titulo": "CARPETA DOBLE A",
+		"assets": "assets/img/juegossksb/Mobiliarioescolar/carpeta-doble-a.jpg",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Mobiliarioescolar/carpeta-doble-a.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "CARPETAPERSONAL-A",
+		"titulo": "CARPETA PERSONAL - A",
+		"assets": "assets/img/juegossksb/Mobiliarioescolar/carpeta-personal-a.jpg",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Mobiliarioescolar/carpeta-personal-a.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "CARPETAPERSONAL-B",
+		"titulo": "CARPETA PERSONAL - B",
+		"assets": "assets/img/juegossksb/Mobiliarioescolar/carpeta-personal-b.jpg",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Mobiliarioescolar/carpeta-personal-b.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "CARPETAPERSONAL-C",
+		"titulo": "CARPETA PERSONAL - C",
+		"assets": "assets/img/juegossksb/Mobiliarioescolar/carpeta-personal-c.jpg",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Mobiliarioescolar/carpeta-personal-c.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "CARPETAUNIPERSONALMODELO1",
+		"titulo": "CARPETA UNIPERSONAL MODELO 1",
+		"assets": "assets/img/juegossksb/Mobiliarioescolar/unipersonal-modelo1.jpg",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Mobiliarioescolar/unipersonal-modelo1.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "CARPETAUNIPERSONALMODELO2",
+		"titulo": "CARPETA UNIPERSONAL MODELO 2",
+		"assets": "assets/img/juegossksb/Mobiliarioescolar/unipersonal-modelo2.jpg",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Mobiliarioescolar/unipersonal-modelo2.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MESACUADRADA",
+		"titulo": "MESA CUADRADA",
+		"assets": "assets/img/juegossksb/Mobiliarioescolar/mesacuadrada1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Mobiliarioescolar/mesacuadrada1.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Mobiliarioescolar/mesacuadrada2.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MESARECTANGULAR",
+		"titulo": "MESA RECTANGULAR",
+		"assets": "assets/img/juegossksb/Mobiliarioescolar/mesa-rectangular.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Mobiliarioescolar/mesa-rectangular.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Mobiliarioescolar/mesa-rectangular2.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MESAREDONDA",
+		"titulo": "MESA REDONDA",
+		"assets": "assets/img/juegossksb/Mobiliarioescolar/mesa-redonda.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Mobiliarioescolar/mesa-redonda.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Mobiliarioescolar/mesa-redonda2.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "MESARIÑON",
+		"titulo": "MESA RIÑON",
+		"assets": "assets/img/juegossksb/Mobiliarioescolar/mesariñon.jpg",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Mobiliarioescolar/mesariñon.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "SILLITA",
+		"titulo": "SILLITA",
+		"assets": "assets/img/juegossksb/Mobiliarioescolar/sillita.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Mobiliarioescolar/sillita.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Mobiliarioescolar/sillita2.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	}
+]

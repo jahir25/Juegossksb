@@ -16,9 +16,13 @@ function onInit(){
 
 function createTabs(data){
 
-    var divGet, divContainer, random, bgcolor, borcolor;
+    var divGet, divContainer, random, bgcolor, borcolor, divRow, cont;
 
     divGet = document.getElementById("idRowDiv");
+
+    divRow = document.createElement("div")
+    divRow.classList.add("col-md-12");
+    cont = 0;
 
     /*=========================================
     CREACION DE LOS CATEGORIAS
@@ -69,9 +73,22 @@ function createTabs(data){
         div2.appendChild(div4);
 
         divContainer.appendChild(div2);
-        divGet.appendChild(divContainer);
 
-    });  
+        divRow.appendChild(divContainer);
+        cont++;
+
+        if(cont >= 4){
+            divGet.appendChild(divRow);
+            divRow = document.createElement("div")
+            divRow.classList.add("col-md-12");
+            cont = 0;
+        }
+
+    });
+
+    if(cont < 4) {
+        divGet.appendChild(divRow);
+    }
     
 }
 

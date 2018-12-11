@@ -1,0 +1,220 @@
+[
+	{
+		"id": "PiscinadePelotasBaby",
+		"titulo": "Piscina de Pelotas Baby",
+		"assets": "assets/img/juegossksb/Piscinadepelotas/piscina-pelota-baby.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Piscinadepelotas/piscina-pelota-baby.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Piscinadepelotas/piscina-pelota-baby2.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "PiscinadePelotasMixtoA",
+		"titulo": "Piscina de Pelotas Mixto A",
+		"assets": "assets/img/juegossksb/Piscinadepelotas/mixto-a.JPG",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Piscinadepelotas/mixto-a.JPG"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Piscinadepelotas/mixto-a2.JPG"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "PiscinadePelotasMixtoB",
+		"titulo": "Piscina de Pelotas Mixto B",
+		"assets": "assets/img/juegossksb/Piscinadepelotas/mixto-b1.JPG",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Piscinadepelotas/mixto-b1.JPG"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Piscinadepelotas/mixto-b2.JPG"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Piscinadepelotas/mixto-b3.JPG"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/Piscinadepelotas/mixto-b4.JPG"
+			},
+			{
+				"idImage": "img04",
+				"src": "assets/img/juegossksb/Piscinadepelotas/mixto-b5.JPG"
+			},
+			{
+				"idImage": "img06",
+				"src": "assets/img/juegossksb/Piscinadepelotas/mixto-b6.JPG"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "PiscinadePelotasMixtoC",
+		"titulo": "Piscina de Pelotas Mixto C",
+		"assets": "assets/img/juegossksb/Piscinadepelotas/mixto-c1.JPG",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Piscinadepelotas/mixto-c1.JPG"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Piscinadepelotas/mixto-c2.JPG"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Piscinadepelotas/mixto-c3.JPG"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/Piscinadepelotas/mixto-c4.JPG"
+			},
+			{
+				"idImage": "img05",
+				"src": "assets/img/juegossksb/Piscinadepelotas/mixto-c5.JPG"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "PiscinadePelotasMixtoD",
+		"titulo": "Piscina de Pelotas Mixto D",
+		"assets": "assets/img/juegossksb/Piscinadepelotas/mixto-d2.JPG",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Piscinadepelotas/mixto-d2.JPG"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Piscinadepelotas/mixto-d4.JPG"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/Piscinadepelotas/mixto-d5.JPG"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "PiscinadePelotasPrimaria",
+		"titulo": "Piscina de Pelotas Primaria",
+		"assets": "assets/img/juegossksb/Piscinadepelotas/piscina-pelota-primaria.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Piscinadepelotas/piscina-pelota-primaria.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Piscinadepelotas/piscina-pelota-primaria2.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	}
+]

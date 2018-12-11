@@ -1,0 +1,500 @@
+[
+	{
+		"id": "LABERINTODESARMABLEL-01",
+		"titulo": "LABERINTO DESARMABLE L-01",
+		"assets": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L01-2.JPG",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L01-2.JPG"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L01-3.JPG"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L01-4.JPG"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L01-5.JPG"
+			},
+			{
+				"idImage": "img04",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L01-6.JPG"
+			},
+			{
+				"idImage": "img06",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L01.JPG"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "LABERINTODESARMABLEL-02",
+		"titulo": "LABERINTO DESARMABLE L-02",
+		"assets": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L02-2.JPG",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L02-2.JPG"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L02-3.JPG"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L02-4.JPG"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L02-5.JPG"
+			},
+			{
+				"idImage": "img05",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L02.JPG"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "LABERINTODESARMABLEL-03",
+		"titulo": "LABERINTO DESARMABLE L-03",
+		"assets": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L03.JPG",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L03.JPG"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "LABERINTODESARMABLEL-04",
+		"titulo": "LABERINTO DESARMABLE L-04",
+		"assets": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L04.JPG",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L04.JPG"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "LABERINTODESARMABLEL-05",
+		"titulo": "LABERINTO DESARMABLE L-05",
+		"assets": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L05.JPG",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L05.JPG"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "LABERINTODESARMABLEL-06",
+		"titulo": "LABERINTO DESARMABLE L-06",
+		"assets": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L06.JPG",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L06.JPG"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "LABERINTODESARMABLEL-07",
+		"titulo": "LABERINTO DESARMABLE L-07",
+		"assets": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L07.JPG",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L07.JPG"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "LABERINTODESARMABLEL-08",
+		"titulo": "LABERINTO DESARMABLE L-08",
+		"assets": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L08.JPG",
+		"imgs": [
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L08.JPG"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "LABERINTODESARMABLEL-09",
+		"titulo": "LABERINTO DESARMABLE L-09",
+		"assets": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L09-2.JPG",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L09-2.JPG"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L09.JPG"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "LABERINTODESARMABLEL-10",
+		"titulo": "LABERINTO DESARMABLE L-10",
+		"assets": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L10-2.JPG",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L10-2.JPG"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L10-3.JPG"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L10-4.JPG"
+			},
+			{
+				"idImage": "img04",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L10.JPG"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "LABERINTODESARMABLEL-11",
+		"titulo": "LABERINTO DESARMABLE L-11",
+		"assets": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L11-2.JPG",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L11-2.JPG"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L11-3.JPG"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L11-4.JPG"
+			},
+			{
+				"idImage": "img04",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L11.JPG"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "LABERINTODESARMABLEL-12",
+		"titulo": "LABERINTO DESARMABLE L-12",
+		"assets": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L12-1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L12-1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L12-2.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L12-3.jpg"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L12-4.jpg"
+			},
+			{
+				"idImage": "img05",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L12.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "LABERINTODESARMABLEL-13",
+		"titulo": "LABERINTO DESARMABLE L-13",
+		"assets": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L13-2.JPG",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L13-2.JPG"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L13-3.JPG"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L13-4.JPG"
+			},
+			{
+				"idImage": "img04",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L13.JPG"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	},
+	{
+		"id": "LABERINTODESARMABLEL-14",
+		"titulo": "LABERINTO DESARMABLE L-14",
+		"assets": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L14-2.JPG",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L14-2.JPG"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L14-3.JPG"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L14-4.JPG"
+			},
+			{
+				"idImage": "img03",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L14-5.JPG"
+			},
+			{
+				"idImage": "img04",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L14-6.JPG"
+			},
+			{
+				"idImage": "img05",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L14-7.JPG"
+			},
+			{
+				"idImage": "img06",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L14-8.JPG"
+			},
+			{
+				"idImage": "img08",
+				"src": "assets/img/juegossksb/Laberinto/laberinto-desarmable-L14.JPG"
+			}
+		],
+		"info": [
+			{
+				"title": " ",
+				"text": [
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					},
+					{
+						"texto": " "
+					}
+				]
+			}
+		]
+	}
+]
