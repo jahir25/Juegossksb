@@ -15,16 +15,36 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Marco de base: 1mt. X 1mt."
 					},
 					{
-						"texto": " "
+						"texto": "Marco de agarraderas: 0.65mt x 0.55mt."
+					}
+				]
+			},
+			{
+				"title": "descripcion",
+				"text": [
+					{
+						"texto": "Confeccionado en madera huayruro y laqueado en color natural."
 					},
 					{
-						"texto": " "
+						"texto": "Base y agarraderas confeccionados en tubo negro estructural de ¾” x 2mm de espesor."
+					},
+					{
+						"texto": "Base y agarraderas pintados en esmalte al horno en colores."
+					},
+					{
+						"texto": "Resortes de 5/8” de espesor pintados en esmalte al horno en colores."
+					},
+					{
+						"texto": "La base de los resortes está elaborada con ángulos de 1½” y pintados con esmalte al horno."
+					},
+					{
+						"texto": "Canales “U” de 2” x 3” x 1/8” y pintados en esmalte al horno en colores."
 					}
 				]
 			}
@@ -46,16 +66,13 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripcion",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Confeccionado en fibra de vidrio de 4mm de espesor."
 					},
 					{
-						"texto": " "
-					},
-					{
-						"texto": " "
+						"texto": "Pintado en esmalte al horno de colores"
 					}
 				]
 			}
@@ -77,16 +94,24 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Largo: 1.50mt."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 1.50mt."
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Confeccionado en fibra de vidrio de alta resistencia."
 					},
 					{
-						"texto": " "
+						"texto": "Base de resorte de suspensión con anclaje de tubo negro de ¾” x 2mm."
 					}
 				]
 			}
@@ -104,16 +129,33 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Largo: 1.20mt."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 0.50mt."
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Confeccionado en fibra de vidrio."
 					},
 					{
-						"texto": " "
+						"texto": "Pintado en esmalte al horno en colores variados."
+					},
+					{
+						"texto": "La estructura de metal es de tubo cuadrado de 1” x 1.5”."
+					},
+					{
+						"texto": "Estructura pintada en esmalte al horno en colores variados."
+					},
+					{
+						"texto": "Accionado en cuatro resortes de alta tensión."
 					}
 				]
 			}
@@ -179,16 +221,27 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medida",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Altura del piso al asiento: 0.40mt."
+					}
+				]
+			},
+			{
+				"title": "descripcion",
+				"text": [
+					{
+						"texto": "Figuras confeccionado en madera huayruro de 1¼” de espesor."
 					},
 					{
-						"texto": " "
+						"texto": "Acabado en laca brillante y estructura pintados con esmalte al horno."
 					},
 					{
-						"texto": " "
+						"texto": "Resorte de 5/8” de espesor y pintados en esmalte al horno en colores."
+					},
+					{
+						"texto": "Base de resorte de suspensión con anclaje de tubo negro de ¾” x 2mm de espesor."
 					}
 				]
 			}
@@ -206,16 +259,16 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripcion",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Confeccionado en tubo cuadrado 7/8” x 1.5mm."
 					},
 					{
-						"texto": " "
+						"texto": "Pintado con anticorrosivo y esmalte al horno en colores al escoger."
 					},
 					{
-						"texto": " "
+						"texto": "Asiento y espaldar elaborados de madera huayruro barnizado."
 					}
 				]
 			}
