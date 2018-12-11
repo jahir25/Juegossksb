@@ -37,7 +37,7 @@
     {
         "ca_id": "C07",
         "ca_name": "Juegos de Salón",
-        "ca_img": "assets/img/juegossksb/category/JuegosSalon.jpg",
+        "ca_img": "assets/img/juegossksb/category/juegosSalon.jpg",
         "ca_json": "./json/juegossalon.json",
         "ca_flag_cate": true
     },
@@ -65,8 +65,8 @@
     {
         "ca_id": "C011",
         "ca_name": "Arcos",
-        "ca_img": "assets/img/juegossksb/category/columpios.jpg",
-        "ca_json": "./json/arcofulbito.json",
+        "ca_img": "assets/img/juegossksb/arcofulbitobasquetyvoley/arco-3x2.jpg",
+        "ca_json": "./json/arcoFulbitoBasquetyVoley.json",
         "ca_flag_cate": false
     },
     {
