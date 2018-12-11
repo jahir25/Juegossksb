@@ -19,16 +19,27 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Largo del cableado: 15mts."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 2mts."
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Estructura de madera huayruro laqueado y barnizado con barniz marino en forma triangular con plataforma de 1mt x 1.80mt."
 					},
 					{
-						"texto": " "
+						"texto": "Arco de madera huayruro."
+					},
+					{
+						"texto": "Anclado al piso a 0.40mt de profundidad con vaciado de cemento y protegido con undercoating."
 					}
 				]
 			}
@@ -46,16 +57,30 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Largo: 2.80mts."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 0.80mt."
 					},
 					{
-						"texto": " "
+						"texto": "Altura: 1.80mt."
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Estructura confeccionada en tubo negro de ¾”, 2” x 2mm."
+					},
+					{
+						"texto": "Dos rieles stanley pintado en esmalte al horno en colores al escoger."
+					},
+					{
+						"texto": "Estructura anclada al piso con concreto armado."
 					}
 				]
 			}
@@ -89,17 +114,48 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Largo: 2mts."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 2mts."
 					},
 					{
-						"texto": " "
+						"texto": "Altura: 2mts."
 					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Confeccionado en madera tornillo, laqueado y barnizado con barniz marino color natural."
+					},
+					{
+						"texto": "Driza de ½”. "
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "Un tablero vertical con palestras de fibra de vidrio."
+					},
+					{
+						"texto": "Una Escalera de llantas usadas."
+					},
+					{
+						"texto": "Una escalera de madera."
+					},
+					{
+						"texto": "Dos trepados de sogas (techo y costado)"
+					},
+					{
+						"texto": "Un trepado de sogas con llantas usadas."
+					}				
 				]
 			}
 		]
@@ -116,16 +172,27 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Altura: 2mts."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 2mts."
 					},
 					{
-						"texto": " "
+						"texto": "Largo: 2mts."
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Confeccionado en madera huayruro de 4” x 4”."
+					},
+					{
+						"texto": "Laqueado y barnizado con barniz marino."
 					}
 				]
 			}
@@ -151,16 +218,41 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "­Altura: 1.80m"
 					},
 					{
-						"texto": " "
+						"texto": "­Área: 2.50m x 2.50m."
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Confeccionado de madera huayruro."
 					},
 					{
-						"texto": " "
+						"texto": "Laqueado y barnizado con barniz marino color natural."
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "Tablero vertical con palestras de fibra de vidrio."
+					},
+					{
+						"texto": "Escalera de sogas con pasos de madera."
+					},
+					{
+						"texto": "Trepados de sogas."
+					},
+					{
+						"texto": "Dos tubos de bomberos."
 					}
 				]
 			}
@@ -190,16 +282,30 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Área: 4.50mts x 4.50mts."
 					},
 					{
-						"texto": " "
+						"texto": "Altura: 4mts."
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Confeccionado en sogas de nylon de 1” color blanco."
 					},
 					{
-						"texto": " "
+						"texto": "El trepado es una pirámide de sogas entrelazadas anudadas para trepar y escalar."
+					},
+					{
+						"texto": "Un poste interior de madera huayruro de 4” x 4” con bordes redondeados."
+					},
+					{
+						"texto": "Acabado en barniz marino."
 					}
 				]
 			}
@@ -217,16 +323,27 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Altura: 3mts."
 					},
 					{
-						"texto": " "
+						"texto": "Diámetro: 2.50mts."
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Confeccionado en sogas de nylon de 1”."
 					},
 					{
-						"texto": " "
+						"texto": "Sogas entrelazadas y anudadas para trepar y escalar."
+					},
+					{
+						"texto": "Poste interior confeccionado en tubo negro de 4” x 2mm de espesor y pintado en malte al horno. "
 					}
 				]
 			}
@@ -252,16 +369,30 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Área: 4.50mts x 4.50mts."
 					},
 					{
-						"texto": " "
+						"texto": "Altura: 5mts."
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Confeccionado en sogas de nylon de 1” color blanco."
 					},
 					{
-						"texto": " "
+						"texto": "El trepado es una pirámide de sogas entrelazadas anudadas para trepar y escalar."
+					},
+					{
+						"texto": "Un poste interior de madera huayruro de 4” x 4” con bordes redondeados."
+					},
+					{
+						"texto": "Acabado en barniz marino."
 					}
 				]
 			}
