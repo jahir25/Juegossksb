@@ -19,16 +19,56 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Medida: 5mts x 5mts."
 					},
 					{
-						"texto": " "
+						"texto": "Dos torres de madera huayruro con techos a dos aguas."
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "Un tobogán de fibra de vidrio de 1.20mt de altura."
 					},
 					{
-						"texto": " "
+						"texto": "Una rampa de madera."
+					},
+					{
+						"texto": "Un túnel de cilindro."
+					},
+					{
+						"texto": "Un tubo de bombero."
+					},
+					{
+						"texto": "Un puente de madera"
+					},
+					{
+						"texto": "Un balcón."
+					}
+				]
+			},
+			{
+				"title": "Informe Técnico",
+				"text": [
+					{
+						"texto": "­Plataformas confeccionadas en madera huayruro con parantes de 3” x 3” de grosor; los pisos de las plataformas están confeccionados en madera huayruro de 1” de grosor, por consideración al uso público, siendo duradero y resistente. Laqueado y barnizado en barniz marino transparente."
+					},
+					{
+						"texto": "­Accesorios metálicos: Confeccionados en tubo negro estructural de diferentes medidas (¾”, 1”, 1¼“, 1½”, 2” x 2mm de espesor); pintado con anticorrosivo y esmalte al horno de diferentes colores."
+					},
+					{
+						"texto": "­Desarmables y ensamblados con pernos zincados."
+					},
+					{
+						"texto": "­Tobogánes pintados con hielco de diferentes y laqueados en laca al horno transparente."
+					},
+					{
+						"texto": "­Plataformas debidamente ancladas a 0.40mt de profundidad en vaciado de cemento previamente protegido con brea"
 					}
 				]
 			}
@@ -58,16 +98,68 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Área: 4mts x 5mts."
 					},
 					{
-						"texto": " "
+						"texto": "Cant. de Torres: 3"
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "Escalera de pasos cuadrados"
 					},
 					{
-						"texto": " "
+						"texto": "Techo de fibra de vidrio"
+					},
+					{
+						"texto": "Escalera bombero"
+					},
+					{
+						"texto": "Rampa de madera."
+					},
+					{
+						"texto": "Tobogán DE 1.20mt de altura"
+					},
+					{
+						"texto": "Escalera pasos cuadrados."
+					},
+					{
+						"texto": "Puente arco"
+					},
+					{
+						"texto": "Puente fijo"
+					},
+					{
+						"texto": "Tubo bombero"
+					},
+					{
+						"texto": "1Rampa de palestras"
+					}
+				]
+			},
+			{
+				"title": "Informe Técnico",
+				"text": [
+					{
+						"texto": "Pisos de columnas confeccionadas en madera huairuro y parantes 3” x 3” de grosor, y 3 torres con plataforma de 1m de altura, los pisos de circuito confeccionados en madera huairuro acabado en una pulgada de grosor, por consideración al uso público, debe ser duradero y resistente, totalmente laqueado y barnizado en barniz marino transparente"
+					},
+					{
+						"texto": "Accesorios metálicos: confeccionados en tubo negro estructural de diferentes medidas (2 &quot; , 1 &quot; , 1 ¼ &quot; , 1 ¾&quot;), y varilla lisa de ¾&quot; pintado con anticorrosivo y esmalte al horno de diferentes colores."
+					},
+					{
+						"texto": "Desarmables y ensamblados con pernos zincados"
+					},
+					{
+						"texto": "Techo y tobogán de fibras de vidrio, pintadas con hielco de diferentes colores y laqueadas en laca al horno transparente"
+					},
+					{
+						"texto": "Plataformas debidamente ancladas a 0.40m de profundidad en baseado de cemento previamente protegido con brea"
 					}
 				]
 			}
@@ -89,16 +181,71 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Área: 6mts. X 7mts"
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "Tobogán caracol abierto de fibra de vidrio"
 					},
 					{
-						"texto": " "
+						"texto": "Puente en arco fijo."
 					},
 					{
-						"texto": " "
+						"texto": "Túnel de fibra de vidrio"
+					},
+					{
+						"texto": "Plataforma de 1.50m de altura."
+					},
+					{
+						"texto": "Plataforma de 1.70m de altura."
+					},
+					{
+						"texto": "Escalera espiral de metal."
+					},
+					{
+						"texto": "Escalera culebra."
+					},
+					{
+						"texto": "Tobogán ondeado de 1.50m de fibra de vidrio."
+					},
+					{
+						"texto": "Escalera de pirata (sogas)."
+					},
+					{
+						"texto": "Rampa de palestras de fibra de vidrio."
+					},
+					{
+						"texto": "Juego tres en raya (michi)."
+					},
+					{
+						"texto": "Techo piramidal de fibra de vidrio."
+					},
+					{
+						"texto": "Escalera de pirata con sogas."
+					}
+				]
+			},
+			{
+				"title": "Informe Técnico",
+				"text": [
+					{
+						"texto": "Plataformas confeccionadas en madera huayruro con parantes de 4” x 4”de grosor, los pisos del circuito confeccionados en madera huayruro de 1¼”de grosor, por consideración al uso público, debe ser duradero y resistente, totalmente laqueado y barnizado en barniz marino transparente."
+					},
+					{
+						"texto": "Accesorios metálicos: confeccionados en tubo negro estructural de diferentes medidas (2”, 1½”, 1¼”, 1”, ¾” x 2mm. De espesor), y varilla lisa redonda de ⅜” pintado con anticorrosivo y esmalte al horno de diferentes colores. Desarmables y ensamblados con pernos zincados."
+					},
+					{
+						"texto": "Techos y toboganes abiertos y tubulares de fibra de vidrio, pintados con hielco de diferentes colores y laqueados en laca al horno transparente."
+					},
+					{
+						"texto": "Plataformas debidamente ancladas a 0.40m de profundidad en vaciado de cemento previamente protegido con brea"
 					}
 				]
 			}
@@ -124,16 +271,83 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Medida: 8.40mts x 5.60mts"
 					},
 					{
-						"texto": " "
+						"texto": "Cuatro torres con plataforma de 1mt x 1mt y con techos de fibra de vidrio pintado en esmalte al horno."
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "Un túnel de fibra de vidrio pintado en esmalte al horno."
 					},
 					{
-						"texto": " "
+						"texto": "Un puente colgante con piso y pasamanos de madera huayruro."
+					},
+					{
+						"texto": "Un puente arco con piso de madera y pasamanos de metal."
+					},
+					{
+						"texto": "Un tubo de bombero."
+					},
+					{
+						"texto": "Una rampa de madera con soga tipo alpinista."
+					},
+					{
+						"texto": "Un tobogán tubular caracol de fibra de vidrio de 2.20mts de altura con cabeza de serpiente."
+					},
+					{
+						"texto": "Un tobogán caracol abierto de fibra de vidrio de 2mts de altura."
+					},
+					{
+						"texto": "Un juego de tres en raya (michi)."
+					},
+					{
+						"texto": "Dos escaleras con pasos de madera."
+					},
+					{
+						"texto": "Una escalera culebra de metal."
+					},
+					{
+						"texto": "Un pasamano curvo de metal."
+					},
+					{
+						"texto": "Una escalera de pirata (sogas)."
+					},
+					{
+						"texto": "Un tobogán curvo de fibra de vidrio."
+					},
+					{
+						"texto": "Un Puente de escalones."
+					}
+				]
+			},
+			{
+				"title": "Informe Técnico",
+				"text": [
+					{
+						"texto": "Las columnas con plataforma están confeccionadas en madera huayruro y parantes de 4” x 4” de grosor, los pisos del circuito confeccionados en madera huayruro acabado en una pulgada de grosor, por consideración al uso público debe ser duradero y resistente, totalmente laqueado y barnizado en barniz marino transparente."
+					},
+					{
+						"texto": "Accesorios metálicos: confeccionados en tubo negro estructural de diferentes medidas (1½”, 1¼”, ¾”), y varilla lisa de ⅜”. Pintado en esmalte al horno de diferentes colores."
+					},
+					{
+						"texto": "­Desarmables y ensamblados con pernos zincados."
+					},
+					{
+						"texto": "­Toboganes de fibra de vidrio pintado con hielco de color amarillo, rojo, azul y verde laqueado en laca al horno transparente. "
+					},
+					{
+						"texto": "­­Plataformas decoradas con hojas de enredadera y otros artificiales, debidamente ancladas al piso con baseado de concreto armado."
+					},
+					{
+						"texto": "Aplicación de undercoating en las bases (brea)."
 					}
 				]
 			}
@@ -155,16 +369,65 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Medidas: 6.80MTS X 4.70MTS"
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "Un puente en arco."
 					},
 					{
-						"texto": " "
+						"texto": "Un tobogán de 1.00 mt"
 					},
 					{
-						"texto": " "
+						"texto": "Un columpio triple (calesa, asiento y balancín)"
+					},
+					{
+						"texto": "Un trepado de sogas"
+					},
+					{
+						"texto": "Un tobogán de 1.20 mt."
+					},
+					{
+						"texto": "Un tubo de bombero "
+					},
+					{
+						"texto": "Una escalera de madera"
+					},
+					{
+						"texto": "Una escalera de metal cuadrado"
+					},
+					{
+						"texto": "Una bodeguita"
+					}
+				]
+			},
+			{
+				"title": "Infome Técnico",
+				"text": [
+					{
+						"texto": "Pisos de columnas confeccionadas en madera huayruro y parantes 3” x 3” de grosor, los pisos de circuito confeccionados en madera huayruro acabado en una pulgada de grosor, por consideración al uso público, debe ser duradero y resistente, totalmente laqueado y barnizado en barniz marino transparente."
+					},
+					{
+						"texto": "Plataforma de 0.60 x 0.60cm"
+					},
+					{
+						"texto": "Accesorios metálicos: confeccionados en tubo negro estructural de diferentes medidas (2”, 1”, 1 ¼”, 1 ¾”), y varilla lisa de ¾” pintado con anticorrosivo y esmalte al horno de diferentes colores."
+					},
+					{
+						"texto": "Desarmables y ensamblados con pernos zincados."
+					},
+					{
+						"texto": "Techos y toboganes abiertos de fibra de vidrio, pintados con hielco de diferentes colores y laqueados en laca al horno transparente."
+					},
+					{
+						"texto": "­Plataformas debidamente ancladas a 0.40m de profundidad en baseado de cemento previamente protegido con brea."
 					}
 				]
 			}
@@ -186,16 +449,68 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Medidas: 8MTS X 5.60MTS"
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "01 puente en arco."
 					},
 					{
-						"texto": " "
+						"texto": "01 tobogán de 1.20 mt."
 					},
 					{
-						"texto": " "
+						"texto": "01 tobogán de 1.50 mt."
+					},
+					{
+						"texto": "01 túnel."
+					},
+					{
+						"texto": "01 juego de tres en raya (Michi)"
+					},
+					{
+						"texto": "01 columpio triple mixto (Asiento – Calesa – Balancín)."
+					},
+					{
+						"texto": "01 escalera espiral."
+					},
+					{
+						"texto": "01 pasamanos culebra."
+					},
+					{
+						"texto": "01 tubo de bombero."
+					},
+					{
+						"texto": "01 trepado de sogas."
+					}
+				]
+			},
+			{
+				"title": "Infome Técnico",
+				"text": [
+					{
+						"texto": "Pisos de columnas confeccionadas en madera huayruro y parantes 3” x 3” de grosor, los pisos de circuito confeccionados en madera huayruro acabado en una pulgada de grosor, por consideración al uso público, debe ser duradero y resistente, totalmente laqueado y barnizado en barniz marino transparente."
+					},
+					{
+						"texto": "Accesorios metálicos: confeccionados en tubo negro estructural de diferentes medidas (2”, 1”, 1 ¼”, 1 ¾”), y varilla lisa de ¾” pintado con anticorrosivo y esmalte al horno de diferentes colores."
+					},
+					{
+						"texto": "Desarmables y ensamblados con pernos zincados."
+					},
+					{
+						"texto": "Techos y toboganes abiertos de fibra de vidrio, pintados con hielco de diferentes colores y laqueados en laca al horno transparente."
+					},
+					{
+						"texto": "Plataformas debidamente ancladas a 0.40m de profundidad en baseado de cemento previamente protegido con brea."
+					},
+					{
+						"texto": "Aplicación de undercoating en las bases (brea)."
 					}
 				]
 			}
@@ -260,16 +575,68 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Medidas: 6.70mts x 5.60mts."
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "Un columpio triple (calesa, balancín y 1 asiento de madera)."
 					},
 					{
-						"texto": " "
+						"texto": "Un tobogán Ondeado de 1.20mt. de altura."
 					},
 					{
-						"texto": " "
+						"texto": "Un puente de arco con pasos de madera."
+					},
+					{
+						"texto": "Un trepado escalera de pirata (1.80mt de altura x 2mts. de largo)"
+					},
+					{
+						"texto": "Una escalera con pasos de madera."
+					},
+					{
+						"texto": "Una escalera espiral"
+					},
+					{
+						"texto": "Una escalera de culebra."
+					},
+					{
+						"texto": "Un juego de michi"
+					}
+				]
+			},
+			{
+				"title": "Informe Técnico",
+				"text": [
+					{
+						"texto": "Los parantes de metal es de tubo negro estructural de 1½” x 2mm pintado al horno."
+					},
+					{
+						"texto": "El puente mide 1.80m de largo y de ancho 0.90m.   "
+					},
+					{
+						"texto": "Accesorios metálicos: confeccionados en tubo negro estructural de diferentes medidas (1½”,1¼”, ¾”) y varilla lisa de ⅜” pintado en esmalte al horno de diferentes colores."
+					},
+					{
+						"texto": "Desarmables y ensamblados con pernos zincados."
+					},
+					{
+						"texto": "Tobogán de fibra de vidrio de 4mm de espesor, pintado con hielco bicolor laqueado en laca al horno transparente."
+					},
+					{
+						"texto": "Asientos del columpio son de madera huairuro con cadena galvanizada 3/16."
+					},
+					{
+						"texto": "Las plataformas son de 0.90m X0.90m x 1.20 de altura."
+					},
+					{
+						"texto": "Un techo de fibra de vidrio."
 					}
 				]
 			}
@@ -299,16 +666,77 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Área: 4mts. x 8mts."
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "Tres columnas con plataforma (de 1mt x 1mt)"
 					},
 					{
-						"texto": " "
+						"texto": "Tres techos de fibra de vidrio piramidal."
 					},
 					{
-						"texto": " "
+						"texto": "Un puente colgante, piso madera y pasamanos de metal."
+					},
+					{
+						"texto": "Un puente en arco, piso de madera y pasamanos de metal."
+					},
+					{
+						"texto": "Una rampa de madera (con pasos tipo alpinista)."
+					},
+					{
+						"texto": "Un michi de madera (tres en raya)."
+					},
+					{
+						"texto": "Una escalera con pasos de madera."
+					},
+					{
+						"texto": "Una escalera sube y baja culebra de metal. (zigzag)"
+					},
+					{
+						"texto": "Un pasamano curvo metal."
+					},
+					{
+						"texto": "Un trepado de sogas (escalera pirata)"
+					},
+					{
+						"texto": "Un tobogán de fibra de vidrio de 1.20mt de altura."
+					},
+					{
+						"texto": "Un tobogán de fibra de vidrio de 1.50mt de altura."
+					},
+					{
+						"texto": "Un columpio triple (tres asientos de fibra)."
+					},
+					{
+						"texto": "Una escalera espiral metal."
+					}
+				]
+			},
+			{
+				"title": "Informe Técnico",
+				"text": [
+					{
+						"texto": "Las columnas con plataforma esta confeccionada en medra huayruro y parantes de 4” x 4” de grosor, los pisos del circuito confeccionados en madera huayruro acabado en una pulgada de grosor, por consideración al uso público debe ser duradero y resistente, totalmente laqueado y barnizado en barniz marino transparente."
+					},
+					{
+						"texto": "Accesorios metálicos confeccionados en tubo negro estructural de diferentes mediadas (1 ½”, 1 ¼, ¾”), y varilla lisa de 3/8”. Pintado en esmalte al horno de diferentes colores."
+					},
+					{
+						"texto": "Desarmados y ensamblados con pernos zincados."
+					},
+					{
+						"texto": "Toboganes de fibra de vidrio con hielco de color amarillo, rojo, azul y verde laqueado en laca al horno transparente, ancladas al piso con base de concreto armado."
+					},
+					{
+						"texto": "Aplicación de undercoating en las bases (brea)."
 					}
 				]
 			}
@@ -338,16 +766,101 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Aplicación de undercoating en las bases (brea)."
 					},
 					{
-						"texto": " "
+						"texto": "Bases cilíndricas (0.80m) de concreto armado."
 					},
 					{
-						"texto": " "
+						"texto": "Plataformas de metal con piso de madera de 1.50mt. "
+					},
+					{
+						"texto": "Tres techos piramidales de fibra de vidrio en diferentes colores."
+					},
+					{
+						"texto": "Tres columnas exagonales con estructuras confeccionadas en tubo negro estructural de 1½” x 2mm."
+					}
+				]
+			},
+			{
+				"title": "Primera Torre Incluye",
+				"text": [
+					{
+						"texto": "01 tobogán tubular recto de fibra de vidrio de 0.65mt. de diámetro en fibra de vidrio de 1.50mt de altura."
+					},
+					{
+						"texto": "01 tejido de araña."
+					},
+					{
+						"texto": "01 tobogán ondeado de fibra de vidrio de 1mt de altura."
+					},
+					{
+						"texto": "01 tobogán caracol abierto de fibra de vidrio."
+					},
+					{
+						"texto": "01 puente en arco curvo de metal con piso de madera."
+					}
+				]
+			},
+			{
+				"title": "Segunda Torre Incluye",
+				"text": [
+					{
+						"texto": "01 juego de tres en raya (michi) de fibra de vidrio."
+					},
+					{
+						"texto": "01 pasamano zigzag de metal."
+					},
+					{
+						"texto": "01 escalera de metal con pasos de madera y descanso de 0.90mt x 0.90mt."
+					},
+					{
+						"texto": "01 cúpula acrílica de 0.45mt. de diámetro."
+					},
+					{
+						"texto": "01 escalera de metal modelo espiral."
+					},
+					{
+						"texto": "01 puente colgante de metal."
+					}
+				]
+			},
+			{
+				"title": "Tercera Torre Incluye",
+				"text": [
+					{
+						"texto": "01 tobogán tubular modelo caracol con cabeza de serpiente de fibra de vidrio."
+					},{
+						"texto": "01 escalera de metal con pasos de madera y descanso de 0.90mt x 0.90mt."
+					},{
+						"texto": "01 pasamano curvo de metal."
+					},{
+						"texto": "01 tubo de bombero metálico."
+					},{
+						"texto": "01 tobogán curvo abierto."
+					},{
+						"texto": "01 túnel aéreo con cubo central de vidrio con cúpulas de acrílico."
+					}
+				]
+			},
+			{
+				"title": "Informe Ténico",
+				"text": [
+					{
+						"texto": "Las torres y plataformas están confeccionadas en tubo negro estructural de 1 ½” x 2mm."
+					},{
+						"texto": "Los pisos del circuito están confeccionados en madera huayruro acabado en 1” de espesor, por consideración al uso público debe ser duradero y resistente, totalmente laqueado y barnizado con barniz marino transparente."
+					},{
+						"texto": "Accesorios metálicos: confeccionados en tubo negro estructural de diferentes medidas (1½”, 1¼”, ¾”), y varilla lisa de ⅜”. Pintados en esmalte al horno de diferentes colores."
+					},{
+						"texto": "Desarmables y ensamblados con pernos zincados."
+					},{
+						"texto": "Toboganes de fibra de vidrio con hielco de color amarillo, rojo, azul y verde, y laqueados en laca al horno transparente."
+					},{
+						"texto": "Plataformas debidamente ancladas al piso con concreto armado."
 					}
 				]
 			}

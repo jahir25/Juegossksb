@@ -122,6 +122,7 @@ function createElementsProduc(data){
                 ===================================================
                 */
                 linav = document.createElement("li");
+                linav.classList.add("m-v");
                 anav = document.createElement("a");
                 anav.setAttribute("data-toggle", "tab");
                 anav.innerHTML = v.title;
@@ -135,7 +136,7 @@ function createElementsProduc(data){
                 divmenu = document.createElement("div");
                 divmenu.setAttribute("id", id+"div");
                 divmenu.classList.add("tab-pane");
-                divmenu.classList.add("col-md-6");
+                divmenu.classList.add("col-md-12");
                 divmenu.classList.add("fade");
 
                 linav.onclick = function(){
