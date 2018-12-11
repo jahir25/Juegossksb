@@ -15,16 +15,30 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Largo: 2.10mts"
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 1.45mt."
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Confeccionado en fibra de vidrio de 4mm de espesor."
 					},
 					{
-						"texto": " "
+						"texto": "Pintado con hielco de colores y laqueados al horno."
+					},
+					{
+						"texto": "Capacidad: 02 personas."
+					},
+					{
+						"texto": "Sistema de turbina y conducción completamente de acero inoxidable."
 					}
 				]
 			}
@@ -46,16 +60,30 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Largo: 2.40mts"
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 1.45mt."
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Confeccionado en fibra de vidrio de 4mm de espesor."
 					},
 					{
-						"texto": " "
+						"texto": "Pintado con hielco de colores y laqueados al horno."
+					},
+					{
+						"texto": "Capacidad: 02 personas."
+					},
+					{
+						"texto": "Sistema de turbina y conducción completamente de acero inoxidable."
 					}
 				]
 			}
@@ -81,16 +109,33 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Altura: 1.80mt."
 					},
 					{
-						"texto": " "
+						"texto": "Largo: 2.10mts"
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 1.45mt."
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Confeccionado en fibra de vidrio de 4mm de espesor."
+					},
+					{
+						"texto": "Pintado con hielco de colores y laqueados al horno."
+					},
+					{
+						"texto": "Capacidad: 02 personas."
+					},
+					{
+						"texto": "Sistema de turbina y conducción completamente de acero inoxidable."
 					}
 				]
 			}
@@ -120,16 +165,76 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Largo: 30mts."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 12mts."
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Estructura de metal confeccionado en tubo rectangular y tubo negro estructural de ¾”, 1”, 1½”, 2”, 4” x 2mm."
 					},
 					{
-						"texto": " "
+						"texto": "Estructura pintada con pintura epóxica color azul."
+					},
+					{
+						"texto": "Toboganes confeccionados en fibra de vidrio de 4mm de espesor."
+					},
+					{
+						"texto": "Toboganes pintados en color celeste."
+					},
+					{
+						"texto": "Los escalones, pisos y techo están elaborados de fibra de vidrio pintados en color celeste."
+					},
+					{
+						"texto": "Cada tobogán posee su lubricador de agua."
+					}
+				]
+			},
+			{
+				"title": "Plataforma 1",
+				"text": [
+					{
+						"texto": "Altura: 3mts."
+					},
+					{
+						"texto": "Ancho del canal: 0.65mt."
+					},
+					{
+						"texto": "Altura del canal: 0855mt."
+					},
+					{
+						"texto": "1 Tobogán caracol de 720° con recorrido de 22mts"
+					},
+					{
+						"texto": "1 Tobogán kamikaze con recorrido de 8mts"
+					}
+				]
+			},
+			{
+				"title": "Plataforma 2",
+				"text": [
+					{
+						"texto": "Altura: 5mts."
+					},
+					{
+						"texto": "Ancho del canal: 1mt."
+					},
+					{
+						"texto": "Altura del canal: 0.65mt."
+					},
+					{
+						"texto": "1 Tobogán caracol de 720° con recorrido de 30mts."
+					},
+					{
+						"texto": "1 Tobogán Kamikaze"
 					}
 				]
 			}
@@ -151,16 +256,52 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripcion",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Estructura fabricada en tubo de acero inoxidable de 1” x 2mm de espesor con inyectores de agua."
 					},
 					{
-						"texto": " "
+						"texto": "Accionados por bombas de agua."
 					},
 					{
-						"texto": " "
+						"texto": "Empotrados al piso y con conexión para el ingreso de agua."
+					}
+				]
+			},
+			{
+				"title": "Modelo Cricular",
+				"text": [
+					{
+						"texto": "Diámetro: 1.12mt."
+					},
+					{
+						"texto": "Inyectores: 17 unds."
+					}
+				]
+			},
+			{
+				"title": "Modelo Culebra",
+				"text": [
+					{
+						"texto": "Ancho: 0.30mts."
+					},
+					{
+						"texto": "Largo: 2.70mts."
+					},
+					{
+						"texto": "Inyectores: 14 unds."
+					}
+				]
+			},
+			{
+				"title": "Modelo Recto",
+				"text": [
+					{
+						"texto": "Largo: 2.50mts."
+					},
+					{
+						"texto": "Inyectores: 12 unds."
 					}
 				]
 			}
@@ -178,16 +319,33 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Altura: 2mts."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 1.60mt."
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Estructura de acero inoxidable de 3” x 2mm de espesor."
 					},
 					{
-						"texto": " "
+						"texto": "Tubo de acero inoxidable de 1” para suministro de agua."
+					},
+					{
+						"texto": "Juego modelo herradura."
+					},
+					{
+						"texto": "Bases fabricadas en fibra de vidrio y pintado con pintura acrílica."
+					},
+					{
+						"texto": "Anclado con pernos de acero inoxidable."
 					}
 				]
 			}
@@ -205,16 +363,33 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Altura: 2.20mts."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 2mts."
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Estructura confeccionada en tubo de acero inoxidable de 3” x 2mm de espesor."
 					},
 					{
-						"texto": " "
+						"texto": "Juego modelo arco."
+					},
+					{
+						"texto": "Posee 12 aerosoles de agua."
+					},
+					{
+						"texto": "Bases fabricadas en fibra de vidrio y pintado con pintura acrílica."
+					},
+					{
+						"texto": "Anclado con pernos de acero inoxidable."
 					}
 				]
 			}
@@ -232,16 +407,33 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Altura: 0.70mt."
 					},
 					{
-						"texto": " "
+						"texto": "Largo: 3.20mts. "
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Estructura confeccionada en tubo de acero inoxidable de 6” y 4”."
 					},
 					{
-						"texto": " "
+						"texto": "Estructura pintada con pintura acrílica de colores variados."
+					},
+					{
+						"texto": "Modelo sube y baja."
+					},
+					{
+						"texto": "Base de fibra de vidrio de 4mm de espesor."
+					},
+					{
+						"texto": "No lleva suministro de agua."
 					}
 				]
 			}
@@ -259,16 +451,19 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripcion",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Confeccionado en fibra de vidrio de 4mm de espesor, pintado en esmalte al horno."
 					},
 					{
-						"texto": " "
+						"texto": "No requiere de instalación de tubería."
 					},
 					{
-						"texto": " "
+						"texto": "Posee disparador de agua."
+					},
+					{
+						"texto": "Posee un resorte de ¾” de espesor para el movimiento de la ballena. "
 					}
 				]
 			}
@@ -286,16 +481,36 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Altura: 0.80mts."
 					},
 					{
-						"texto": " "
+						"texto": "Diámetro: 0.50mts."
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Estructura confeccionada en tubo de acero inoxidable de 6” x 2mm de espesor."
 					},
 					{
-						"texto": " "
+						"texto": "Juego modelo campana."
+					},
+					{
+						"texto": "Bombilla de fibra de vidrio de 4mm de espesor en la parte superior."
+					},
+					{
+						"texto": "Bases fabricadas en fibra de vidrio y pintado con pintura acrílica."
+					},
+					{
+						"texto": "Anclado con pernos de acero inoxidable."
+					},
+					{
+						"texto": "Tubo de acero inoxidable de 2” para suministro."
 					}
 				]
 			}
@@ -321,16 +536,33 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Altura: 2.40mts."
 					},
 					{
-						"texto": " "
+						"texto": "Diámetro: 2mts."
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Estructura fabricada en tubo negro de acero inoxidable de 6” x 3mm de espesor."
 					},
 					{
-						"texto": " "
+						"texto": "Techo modelo girasol fabricado en fibra de vidrio y pintado con pintura acrílica de color al escoger."
+					},
+					{
+						"texto": "Base de fibra de vidrio de 0.50mt de altura"
+					},
+					{
+						"texto": "Anclado con pernos de acero inoxidable."
+					},
+					{
+						"texto": "Anclado con pernos de acero inoxidable."
 					}
 				]
 			}
@@ -352,16 +584,27 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Altura: 2.40mts."
 					},
 					{
-						"texto": " "
+						"texto": "Diámetro: 2mts."
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Estructura fabricada en tubo de acero inoxidable (6” x 3mm de espesor)."
 					},
 					{
-						"texto": " "
+						"texto": "Techo modelo hongo fabricado en fibra de vidrio de 4mm de espesor y pintado con pintura acrílica de color al escoger."
+					},
+					{
+						"texto": "Tubo de acero inoxidable de 2” para el suministro de agua."
 					}
 				]
 			}
@@ -379,16 +622,33 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Altura: 2.20mts."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 2mts."
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Estructura confeccionada en tubo de acero inoxidable de 3”, 6” x 2mm de espesor."
 					},
 					{
-						"texto": " "
+						"texto": "Los brazos del juego poseen inyectores formando cortinas de agua."
+					},
+					{
+						"texto": "Base fabricada en fibra de vidrio y pintado con pintura acrílica"
+					},
+					{
+						"texto": "Tubo de acero inoxidable de 2” para suministro de agua."
+					},
+					{
+						"texto": "Anclados con pernos de acero inoxidable."
 					}
 				]
 			}
@@ -410,16 +670,33 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Altura: 2.10mts."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 1.20mts."
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Estructura confeccionada en tubo de acero inoxidable de 4” x 2mm de espesor."
 					},
 					{
-						"texto": " "
+						"texto": "Juego modelo serpiente."
+					},
+					{
+						"texto": "Bases fabricadas en fibra de vidrio de 4mm de espesor y pintado con pintura acrílica."
+					},
+					{
+						"texto": "Anclado con pernos de acero inoxidable."
+					},
+					{
+						"texto": "Tubo de acero inoxidable de 2” para el suministro de agua."
 					}
 				]
 			}
@@ -449,16 +726,42 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripcion",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Área del juego: 5.90mts x 4.60mts"
 					},
 					{
-						"texto": " "
+						"texto": "Estructura confeccionada en tubos de acero inoxidable (1”, 3”, 4”, 6” x 2mm de espesor)."
 					},
 					{
-						"texto": " "
+						"texto": "Accesorios elaborados de fibra de vidrio, pintados con pintura acrílica en colores."
+					},
+					{
+						"texto": "Los tubos tienen diversos arreglos de agua y también aerosoles de agua."
+					},
+					{
+						"texto": "Anclado al piso con pernos acerados y con la conexión instalada para el ingreso de agua."
+					},
+					{
+						"texto": "Los anclajes están cubiertos con una base de fibra de vidrio."
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "Una plataforma de 1.40mt x 1.40mt x 1mt de altura."
+					},
+					{
+						"texto": "Una plataforma de 1.40mt x 0.70mt x 1mt de altura."
+					},
+					{
+						"texto": "Un tobogán mellizo de 1mt de altura de fibra de vidrio color amarillo."
+					},
+					{
+						"texto": "Dos toboganes tubulares de 0.90mt de diámetro y de 1mt de altura."
 					}
 				]
 			}
@@ -480,16 +783,39 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Altura de la estructura: 3.80mts"
 					},
 					{
-						"texto": " "
+						"texto": "Altura del tobogán: 2.75mts"
 					},
 					{
-						"texto": " "
+						"texto": "Ancho de la estructura: 2mts."
+					},
+					{
+						"texto": "Ancho del canal del tobogán: 0.85mt."
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Tobogán confeccionado en fibra de vidrio de 4mm de espesor."
+					},
+					{
+						"texto": "Estructura de metal confeccionado en tubo negro estructural de 1”, 1¼” x 2mm."
+					},
+					{
+						"texto": "Estructura pintada en esmalte al horno de color azul."
+					},
+					{
+						"texto": "Pasos de escalera, piso y techo elaborado en fibra de vidrio."
+					},
+					{
+						"texto": "Incluye motobomba y lubricadores de agua instalado."
 					}
 				]
 			}
@@ -515,16 +841,42 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Altura de la estructura: 4.20mts."
 					},
 					{
-						"texto": " "
+						"texto": "Altura del tobogán: 3.20mts."
 					},
 					{
-						"texto": " "
+						"texto": "Largo: 5mts."
+					},
+					{
+						"texto": "Ancho: 4mts."
+					},
+					{
+						"texto": "Plataforma: 1.20mt x 1.20mt."
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Tobogán confeccionado en fibra de vidrio de 4mm de espesor y pintado en hielco color celeste."
+					},
+					{
+						"texto": "Estructura de metal confeccionado en tubo negro estructural de ¾”, 1”, 2”, 8” x 2mm. "
+					},
+					{
+						"texto": "Estructura pintada en esmalte al horno de color azul."
+					},
+					{
+						"texto": "Pasos de escalera y techo elaborados en fibra de vidrio."
+					},
+					{
+						"texto": "Incluye lubricadores de agua."
 					}
 				]
 			}
@@ -550,16 +902,27 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Largo: 2.40mts."
 					},
 					{
-						"texto": " "
+						"texto": "Alto: 2mts."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 1.80mt."
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Confeccionado en fibra de vidrio de 4mm de espesor."
+					},
+					{
+						"texto": "Pintado con hielco."
 					}
 				]
 			}
@@ -585,16 +948,48 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Altura: 5mts."
 					},
 					{
-						"texto": " "
+						"texto": "Largo: 11mts."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 8mts."
+					},
+					{
+						"texto": "Ancho del canal de los toboganes: 0.65mt."
+					},
+					{
+						"texto": "Altura del canal de los toboganes: 0.55mt."
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Confeccionados en fibra de vidrio de 4mm de espesor y pintados con hielco de color celeste."
+					},
+					{
+						"texto": "Estructura de metal confeccionado con tubo negro de ¾”, 1”, 1¼”, 1½”, 2”, 4” x 2mm de espesor y con tubo rectangular."
+					},
+					{
+						"texto": "Estructuras de metal pintados con pintura epóxica de color azul."
+					},
+					{
+						"texto": "Pasos de escalera, piso y techo elaborados en fibra de vidrio pintado de color celeste."
+					},
+					{
+						"texto": "Cada tobogán posee un lubricador de instalado."
+					},
+					{
+						"texto": "Un tobogán de piscina caracol de 720° con recorrido de 22mts."
+					},
+					{
+						"texto": "Un tobogán de piscina kamikaze con recorrido de 12mts."
 					}
 				]
 			}
@@ -624,16 +1019,48 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Altura: 5mts."
 					},
 					{
-						"texto": " "
+						"texto": "Largo: 11mts."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 8mts."
+					},
+					{
+						"texto": "Ancho del canal de los toboganes: 1mt."
+					},
+					{
+						"texto": "Altura del canal de los toboganes: 0.65mt."
+					}
+				]
+			},
+			{
+				"title": "descripcion",
+				"text": [
+					{
+						"texto": "Confeccionados en fibra de vidrio de 4mm de espesor y pintados con hielco de color celeste."
+					},
+					{
+						"texto": "Estructura de metal confeccionado con tubo negro de ¾”, 1”, 1¼”, 1½”, 2”, 4” x 2mm de espesor y con tubo rectangular."
+					},
+					{
+						"texto": "Estructuras de metal pintados con pintura epóxica de color azul."
+					},
+					{
+						"texto": "Pasos de escalera, piso y techo elaborados en fibra de vidrio pintado de color celeste."
+					},
+					{
+						"texto": "Cada tobogán posee un lubricador de instalado."
+					},
+					{
+						"texto": "Un tobogán de piscina caracol de 720° con recorrido de 30mts."
+					},
+					{
+						"texto": "Un tobogán de piscina kamikaze con recorrido de 12mts."
 					}
 				]
 			}
@@ -659,16 +1086,27 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Largo: 2.40mts."
 					},
 					{
-						"texto": " "
+						"texto": "Alto: 2mts."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 1.80mt."
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Confeccionado en fibra de vidrio de 4mm de espesor."
+					},
+					{
+						"texto": "Pintado con esmalte anticorrosivo."
 					}
 				]
 			}
