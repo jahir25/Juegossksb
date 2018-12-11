@@ -11,16 +11,16 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Área: 2.50mts x 1.30mt."
 					},
 					{
-						"texto": " "
+						"texto": "Confeccionado en tubo galvanizado de 1½”."
 					},
 					{
-						"texto": " "
+						"texto": "Anclado al piso con baseado de concreto."
 					}
 				]
 			}
@@ -42,16 +42,22 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Área: 2.14mts x 1.57mt."
 					},
 					{
-						"texto": " "
+						"texto": "Confeccionado en tubo galvanizado de ¾”, 1, 1½” y 3”."
 					},
 					{
-						"texto": " "
+						"texto": "Pintado con esmalte gloss."
+					},
+					{
+						"texto": "Anclado al piso con baseado de concreto."
+					},
+					{
+						"texto": "Incluye sistema de rodajes."
 					}
 				]
 			}
@@ -69,16 +75,19 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Confeccionado en tubo galvanizado de 3” y 1½”."
 					},
 					{
-						"texto": " "
+						"texto": "Pintado con esmalte gloss."
 					},
 					{
-						"texto": " "
+						"texto": "Anclado al piso con baseado de concreto"
+					},
+					{
+						"texto": "Incluye sistema de rodajes."
 					}
 				]
 			}
@@ -96,16 +105,19 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Confeccionado en tubo galvanizado de 3”, 1”, y ¾”."
 					},
 					{
-						"texto": " "
+						"texto": "Pintado con esmalte gloos."
 					},
 					{
-						"texto": " "
+						"texto": "Anclado al piso con baseado de concreto"
+					},
+					{
+						"texto": "Incluye sistema de rodamientos."
 					}
 				]
 			}
@@ -123,16 +135,19 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Confeccionado en tubo galvanizado de 3”, 1½”, 1”, y ¾”."
 					},
 					{
-						"texto": " "
+						"texto": "Pintado con esmalte gloss."
 					},
 					{
-						"texto": " "
+						"texto": "Anclado al piso con baseado de concreto."
+					},
+					{
+						"texto": "Incluye sistema de rodamientos."
 					}
 				]
 			}
@@ -150,16 +165,19 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Confeccionado en tubo galvanizado de 3”, 1½”, 1”, y ¾”."
 					},
 					{
-						"texto": " "
+						"texto": "Pintado con esmalte gloss."
 					},
 					{
-						"texto": " "
+						"texto": "Anclado al piso con baseado de concreto"
+					},
+					{
+						"texto": "Incluye sistema de rodamientos."
 					}
 				]
 			}
@@ -181,16 +199,22 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Área: 1.20mt x 2.50mts."
 					},
 					{
-						"texto": " "
+						"texto": "Confeccionado en tubo galvanizado de ¾”, 1” y 1½”."
 					},
 					{
-						"texto": " "
+						"texto": "Asientos de plancha galvanizada."
+					},
+					{
+						"texto": "Pintado con esmalte gloss."
+					},
+					{
+						"texto": "Anclado al piso con baseado de concreto"
 					}
 				]
 			}
@@ -208,16 +232,16 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Confeccionado en tubo galvanizado de 3” y ¾”."
 					},
 					{
-						"texto": " "
+						"texto": "Pintado con esmalte gloss."
 					},
 					{
-						"texto": " "
+						"texto": "Anclado al piso con baseado de concreto."
 					}
 				]
 			}
@@ -235,16 +259,19 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Confeccionado en tubo galvanizado de 3”, 1”, y ¾”."
 					},
 					{
-						"texto": " "
+						"texto": "Pintado con esmalte gloss."
 					},
 					{
-						"texto": " "
+						"texto": "Anclado al piso con baseado de concreto"
+					},
+					{
+						"texto": "Incluye sistema de rodamientos."
 					}
 				]
 			}
@@ -262,16 +289,22 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Medidas: <br>  &emsp;&emsp; Altura: 1.20mt.  <br> &emsp;&emsp; Ancho: 0.60mt."
 					},
 					{
-						"texto": " "
+						"texto": "Confeccionado en madera huayruro."
 					},
 					{
-						"texto": " "
+						"texto": "Laqueado y barnizado en color natural."
+					},
+					{
+						"texto": "Dividido en 6 cuerpos."
+					},
+					{
+						"texto": "Parte superior acolchada con espuma de 2” y forrado con tela concord."
 					}
 				]
 			}
@@ -293,16 +326,19 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Área: 2.36mts x 2.36mts"
 					},
 					{
-						"texto": " "
+						"texto": "Estructura de metal confeccionado en tubo galvanizado de ¾”, 1”, 1½” y 3”."
 					},
 					{
-						"texto": " "
+						"texto": "Estructura pintada con esmalte gloss."
+					},
+					{
+						"texto": "Anclado al piso con baseado de concreto."
 					}
 				]
 			}

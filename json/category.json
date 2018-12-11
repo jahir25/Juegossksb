@@ -65,7 +65,7 @@
     {
         "ca_id": "C011",
         "ca_name": "Arcos",
-        "ca_img": "assets/img/juegossksb/arcofulbitobasquetyvoley/arco-3x2.jpg",
+        "ca_img": "assets/img/juegossksb/arcofulbitobasquetyvoley/arco-3x2.JPG",
         "ca_json": "./json/arcoFulbitoBasquetyVoley.json",
         "ca_flag_cate": false
     },

@@ -15,16 +15,60 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Medidas: <br> &emsp;&emsp; Altura: 5.50mts. <br> &emsp;&emsp; Largo: 6.40mts. <br> &emsp;&emsp; Ancho: 2.40mts."
 					},
 					{
-						"texto": " "
+						"texto": "Estructura confeccionada en tubo negro de 1¼” x 2mm de espesor."
 					},
 					{
-						"texto": " "
+						"texto": "Estructura pintada en esmalte al horno color aluminio."
+					},
+					{
+						"texto": "Acolchado con espuma de 2” de espesor y forrado con lona concord en 4 colores (rojo, amarillo, verde y azul)."
+					},
+					{
+						"texto": "Estructura cercada con malla nylon de color verde para la protección de los niños."
+					}
+				]
+			},
+			{
+				"title": "Inluye",
+				"text": [
+					{
+						"texto": "Una piscina de pelotas 2.50mts x 2mts (incluye 2000 pelotas)."
+					},
+					{
+						"texto": "Dos escaleras de pasos triangulares."
+					},
+					{
+						"texto": "Un tobogán caracol tubular de fibra de vidrio de 2.20mts. de altura modelo serpiente."
+					},
+					{
+						"texto": "Un tobogán caracol tubular de fibra de vidrio de 2.20mts. de altura modelo simple."
+					},
+					{
+						"texto": "Un rodillo horizontal."
+					},
+					{
+						"texto": "Un rodillo vertical."
+					},
+					{
+						"texto": "Un túnel tubular de fibra de vidrio."
+					},
+					{
+						"texto": "Una casa de fórmica."
+					},
+					{
+						"texto": "Cinco sacos colgantes rellenos de espuma."
+					},
+					{
+						"texto": "Un juego de tres en raya (michi)."
+					},
+					{
+						"texto": "Una zapatera de 24 casilleros."
 					}
 				]
 			}
@@ -46,16 +90,60 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Medidas: <br> &emsp;&emsp; Altura: 5.50mts. <br> &emsp;&emsp; Largo: 6.40mts. <br> &emsp;&emsp; Ancho: 2.20mts."
 					},
 					{
-						"texto": " "
+						"texto": "Estructura confeccionada en tubo negro de 1¼” x 2mm de espesor."
 					},
 					{
-						"texto": " "
+						"texto": "Estructura pintada en esmalte al horno color aluminio."
+					},
+					{
+						"texto": "Acolchado con espuma de 2” de espesor y forrado con lona concord en 4 colores (rojo, amarillo, verde y azul)."
+					},
+					{
+						"texto": "Estructura cercada con malla nylon de color verde para la protección de los niños."
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "Una piscina de pelotas 3mts x 2mts (incluye 2000 pelotas)."
+					},
+					{
+						"texto": "Dos escaleras de pasos triangulares."
+					},
+					{
+						"texto": "Un tobogán caracol tubular de fibra de vidrio de 2.20mts. de altura modelo serpiente."
+					},
+					{
+						"texto": "Un tobogán caracol abierto de fibra de vidrio de 2.20mts. de altura."
+					},
+					{
+						"texto": "Un rodillo horizontal."
+					},
+					{
+						"texto": "Un rodillo vertical."
+					},
+					{
+						"texto": "Dos túneles tubulares de fibra de vidrio."
+					},
+					{
+						"texto": "Una casa de fórmica."
+					},
+					{
+						"texto": "Cinco sacos colgantes rellenos de espuma."
+					},
+					{
+						"texto": "Una cabeza de león."
+					},
+					{
+						"texto": "Una zapatera de 24 casilleros."
 					}
 				]
 			}
@@ -81,16 +169,57 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Medidas: <br> &emsp;&emsp; Altura: 5.50mts. <br> &emsp;&emsp; Largo: 6.40mts. <br> &emsp;&emsp; Ancho: 2.40mts."
 					},
 					{
-						"texto": " "
+						"texto": "Estructura confeccionada en tubo negro de 1¼” x 2mm de espesor."
 					},
 					{
-						"texto": " "
+						"texto": "Estructura pintada en esmalte al horno color aluminio."
+					},
+					{
+						"texto": "Acolchado con espuma de 2” de espesor y forrado con lona concord en 4 colores (rojo, amarillo, verde y azul)."
+					},
+					{
+						"texto": "Estructura cercada con malla nylon de color verde para la protección de los niños."
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "Una piscina de pelotas 2.50mts x 2mts (incluye 2000 pelotas)."
+					},
+					{
+						"texto": "Dos escaleras de pasos triangulares."
+					},
+					{
+						"texto": "Un tobogán caracol tubular de fibra de vidrio de 2.20mts. de altura modelo serpiente."
+					},
+					{
+						"texto": "Un tobogán caracol tubular de fibra de vidrio de 2.20mts. de altura modelo simple."
+					},
+					{
+						"texto": "Un rodillo horizontal."
+					},
+					{
+						"texto": "Un rodillo vertical."
+					},
+					{
+						"texto": "Un túnel tubular de fibra de vidrio."
+					},
+					{
+						"texto": "Cinco sacos colgantes rellenos de espuma."
+					},
+					{
+						"texto": "Una cabeza de león."
+					},
+					{
+						"texto": "Una zapatera de 24 casilleros."
 					}
 				]
 			}
@@ -116,16 +245,63 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Medidas: <br> &emsp;&emsp; Altura: 5.50mts. <br> &emsp;&emsp; Largo: 6.40mts. <br> &emsp;&emsp; Ancho: 4.50mts."
 					},
 					{
-						"texto": " "
+						"texto": "Estructura confeccionada en tubo negro de 1¼” x 2mm de espesor."
 					},
 					{
-						"texto": " "
+						"texto": "Estructura pintada en esmalte al horno color aluminio."
+					},
+					{
+						"texto": "Acolchado con espuma de 2” de espesor y forrado con lona concord en 4 colores (rojo, amarillo, verde y azul)."
+					},
+					{
+						"texto": "Estructura cercada con malla nylon de color verde para la protección de los niños."
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "Una piscina de pelotas 3mts x 2mts (incluye 2000 pelotas por cada piscina)."
+					},
+					{
+						"texto": "Dos escaleras de pasos triangulares."
+					},
+					{
+						"texto": "Un tobogán triple de 2mts de altura."
+					},
+					{
+						"texto": "Un tobogán caracol tubular de fibra de vidrio de 2.20mts. de altura modelo serpiente."
+					},
+					{
+						"texto": "Un tobogán caracol tubular de fibra de vidrio de 2.20mts. de altura modelo dragón."
+					},
+					{
+						"texto": "Un rodillo horizontal."
+					},
+					{
+						"texto": "Un rodillo vertical."
+					},
+					{
+						"texto": "Un túnel tubular de fibra de vidrio."
+					},
+					{
+						"texto": "Una casa de fórmica."
+					},
+					{
+						"texto": "Cinco sacos colgantes rellenos de espuma."
+					},
+					{
+						"texto": "Una cabeza de león."
+					},
+					{
+						"texto": "Una zapatera de 24 casilleros."
 					}
 				]
 			}
