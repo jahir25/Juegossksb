@@ -15,16 +15,53 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medida 1",
 				"text": [
 					{
-						"texto": " "
+						"texto": "CANTIDAD: 6 niños"
 					},
 					{
-						"texto": " "
+						"texto": "ALTO: 0.50MT"
 					},
 					{
-						"texto": " "
+						"texto": "LARGO (EJE): 3.20MT"
+					},
+					{
+						"texto": "LARGO (TRAVESAÑO): 2.20MTS"
+					}
+				]
+			},
+			{
+				"title": "Medida 2",
+				"text": [
+					{
+						"texto": "CANTIDAD: 8 niños"
+					},
+					{
+						"texto": "ALTO: 0.50MT"
+					},
+					{
+						"texto": "LARGO (EJE): 3.20MT"
+					},
+					{
+						"texto": "LARGO (TRAVESAÑO): 3MTS"
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": " Estructura confeccionada en madera huairuro de 4” x 4” de espesor."
+					},
+					{
+						"texto": "Estructura barnizada con barniz marino. "
+					},
+					{
+						"texto": "Asientos de pera de fibra de vidrio pintado en esmalte al horno. "
+					},
+					{
+						"texto": "Manijas confeccionadas en tubo negro estructural de ¾” y pintado en esmalte al horno. "
 					}
 				]
 			}
@@ -46,16 +83,84 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medida 1",
 				"text": [
 					{
-						"texto": " "
+						"texto": "CANTIDAD: 4 niños"
 					},
 					{
-						"texto": " "
+						"texto": "ALTO: 0.50MT"
 					},
 					{
-						"texto": " "
+						"texto": "LARGO (EJE): 3.20MT"
+					},
+					{
+						"texto": "LARGO (TRAVESAÑO): 1.40MT"
+					}
+				]
+			},
+			{
+				"title": "Medida 2",
+				"text": [
+					{
+						"texto": "CANTIDAD: 6 niños"
+					},
+					{
+						"texto": "ALTO: 0.50MT"
+					},
+					{
+						"texto": "LARGO (EJE): 3.20MT"
+					},
+					{
+						"texto": "LARGO (TRAVESAÑO): 2.20MTS"
+					}
+				]
+			},
+			{
+				"title": "Medida 3",
+				"text": [
+					{
+						"texto": "CANTIDAD: 8 niños"
+					},
+					{
+						"texto": "ALTO: 0.50MT"
+					},
+					{
+						"texto": "LARGO (EJE): 3.20MT"
+					},
+					{
+						"texto": "LARGO (TRAVESAÑO): 3MTS"
+					}
+				]
+			},
+			{
+				"title": "Medida 4",
+				"text": [
+					{
+						"texto": "CANTIDAD: 12 niños"
+					},
+					{
+						"texto": "ALTO: 0.50MT"
+					},
+					{
+						"texto": "LARGO (EJE): 3.20MT"
+					},
+					{
+						"texto": "LARGO (TRAVESAÑO): 4.60MTS"
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Estructura confeccionada en tubo negro de 2½” x 3mm y 2” x 2mm."
+					},
+					{
+						"texto": "Estructura pintada en esmalte al horno de diferentes colores."
+					},
+					{
+						"texto": "Asientos de fibra de vidrio pintado en esmalte al horno. "
 					}
 				]
 			}
