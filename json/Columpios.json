@@ -108,7 +108,7 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
 						"texto": "­Largo: 48cms. "
@@ -119,7 +119,7 @@
 				]
 			},
 			{
-				"title": " ",
+				"title": "Descripcion",
 				"text": [
 					{
 						"texto": "Asiento confeccionado en madera huayruro."
@@ -190,7 +190,7 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
 						"texto": "Alto: 1.90mt."
@@ -204,7 +204,7 @@
 				]
 			},
 			{
-				"title": " ",
+				"title": "Descripcion",
 				"text": [
 					{
 						"texto": "Estructura confeccionada en tubo negro estructural de 2” x 2mm y 1¼” x 2mm. "
@@ -419,13 +419,13 @@
 				"title": "Medidas",
 				"text": [
 					{
-						"texto": " ­	Altura: 1.90mt."
+						"texto": "Altura: 1.90mt."
 					},
 					{
-						"texto": " ­	Largo: 2.80mts."
+						"texto": "Largo: 2.80mts."
 					},
 					{
-						"texto": " "
+						"texto": "­Ancho: 2.20mts."
 					}
 				]
 			},
@@ -433,16 +433,16 @@
 				"title": "Descripcion",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Estructura confeccionada en madera huayruro de 4” x 4”. "
 					},
 					{
-						"texto": " "
+						"texto": " Estructura laqueado y barnizado al color natural."
 					},
 					{
-						"texto": " "
+						"texto": "Columpio accionado por un sistema de rodajes (mayor durabilidad para el uso público). "
 					},
 					{
-						"texto": " "
+						"texto": "Asientos de butaca de fibra de vidrio con soguilla. "
 					}
 				]
 			}
@@ -460,16 +460,36 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Altura: 1.90mt. "
 					},
 					{
-						"texto": " "
+						"texto": "Largo: 2.10mts."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 2.20mts. "
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Estructura confeccionada en tubo negro estructural de 2” x 2mm. y de 1¼” x 2mm. "
+					},
+					{
+						"texto": "Pintado con anticorrosivo y esmalte al horno con cuatro colores diferentes. "
+					},
+					{
+						"texto": "Columpio accionado por un sistema de rodajes (mayor durabilidad para el uso público)."
+					},
+					{
+						"texto": "Asientos de madera huayruro y cadenas galvanizados de ¼” de grosor."
+					},
+					{
+						"texto": "Calesas confeccionadas en tubo negro estructural de ¾” x 2mm y, con asientos y espaldar de madera huayruro pintado en esmalte al horno."
 					}
 				]
 			}
@@ -487,16 +507,36 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Altura: 1.90mt. "
 					},
 					{
-						"texto": " "
+						"texto": "Largo: 2.10mts. "
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 2.20mts. "
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Estructura confeccionada en tubo negro estructural de 2” x 2mm. y de 1¼” x 2mm. "
+					},
+					{
+						"texto": "Pintado con anticorrosivo y esmalte al horno con cuatro colores diferentes. "
+					},
+					{
+						"texto": "Columpio accionado por un sistema de rodajes (mayor durabilidad para el uso público). "
+					},
+					{
+						"texto": "Asientos de madera huayruro y cadenas galvanizados de ¼” de grosor. "
+					},
+					{
+						"texto": "Balancines confeccionados en tubo negro estructural de ¾ x 2mm y con asientos de pera de fibra de vidrio. "
 					}
 				]
 			}
@@ -514,16 +554,36 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Altura: 1.90mt. "
 					},
 					{
-						"texto": " "
+						"texto": "Largo: 2.80mts. "
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 2.20mts. "
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Estructura confeccionada en tubo negro estructural de 2” x 2mm. y de 1¼” x 2mm. "
+					},
+					{
+						"texto": "Pintado con anticorrosivo y esmalte al horno con cuatro colores diferentes. "
+					},
+					{
+						"texto": "Columpio accionado por un sistema de rodajes (mayor durabilidad para el uso público). "
+					},
+					{
+						"texto": "Balancín y calesa confeccionados en tubo negro estructural ¾” x 2mm. "
+					},
+					{
+						"texto": "Asiento de madera huayruro o de fibra de vidrio y sostenidos con cadenas galvanizadas de ¾” de grosor. "
 					}
 				]
 			}
@@ -541,16 +601,33 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "­Alto: 2mts. "
 					},
 					{
-						"texto": " "
+						"texto": "­Largo: 3mts. "
 					},
 					{
-						"texto": " "
+						"texto": "­Ancho: 1.60mt. "
+					}
+				]
+			},
+			{
+				"title": "Descripcion",
+				"text": [
+					{
+						"texto": "Estructura confeccionada en tubo negro estructural 1¼”, 2” x 2mm de espesor. "
+					},
+					{
+						"texto": "Pintado con anticorrosivo y esmalte al horno en colores diferentes. "
+					},
+					{
+						"texto": "Asiento especial para discapacitados confeccionado en tubo negro estructural ¾” x 2mm y con rampa de metal y pintado con esmalte al horno. "
+					},
+					{
+						"texto": "Asientos acolchados con correas de seguridad diseñados para los niños especiales. "
 					}
 				]
 			}
@@ -568,16 +645,19 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripcion",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Estructura de tubo cuadrado de 7/8”, pintado en esmalte al horno color amarillo."
 					},
 					{
-						"texto": " "
+						"texto": "Espaldar y asiento confeccionado en aglomerado de pino."
 					},
 					{
-						"texto": " "
+						"texto": "Acolchado con espuma 1”."
+					},
+					{
+						"texto": "Forrado con tela concord."
 					}
 				]
 			}
