@@ -115,6 +115,12 @@ function createElementsProduc(data){
             divtab = document.createElement("div");
             divtab.classList.add("tab-content");
 
+            v.info.sort(function(a, b){
+				if(a.title > b.title) return 1;
+				else if(b.title > a.title) return -1;
+				return 0;
+			});
+
             $.each(v.info, function(k, v){
                 /*
                 ===================================================
