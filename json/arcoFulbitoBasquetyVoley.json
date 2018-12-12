@@ -10,11 +10,11 @@
             },
             {
 				"idImage": "arco02",
-				"src": "assets/img/juegossksb/arcofulbitobasquetyvoley/arco-3x2-2.jpg"
+				"src": "assets/img/juegossksb/arcofulbitobasquetyvoley/arco3x2-2.JPG"
             },
             {
 				"idImage": "arco03",
-				"src": "assets/img/juegossksb/arcofulbitobasquetyvoley/arco-3x2-3.jpg"
+				"src": "assets/img/juegossksb/arcofulbitobasquetyvoley/arco3x2-3.JPG"
 			}
 
 		],
@@ -31,7 +31,7 @@
 				]
 			},
 			{
-				"title":"Descripciones",
+				"title":"Descripción",
 				"text":[
 					{
 						"texto": "Estructura confeccionada en tubo negro estructural de 2” x 2mm de espesor."
@@ -81,7 +81,7 @@
 				]
 			},
 			{
-				"title":"Descripciones",
+				"title":"Descripción",
 				"text":[
 					{
 						"texto": "Confeccionado en tubo negro estructural de ¾”, 2” x 2mm de espesor."
@@ -108,16 +108,16 @@
 		{
 			"id": "MiniArcodeFulbito",
 			"titulo": "Mini Arco de Fulbito",
-			"assets": "assets/img/juegossksb/arcofulbitobasquetyvoley/arco1.20x90.jpg",
+			"assets": "assets/img/juegossksb/arcofulbitobasquetyvoley/arco1.20x90.jpeg",
 	
 			"imgs": [
 				{
 					"idImage": "arco01",
-					"src": "assets/img/juegossksb/arcofulbitobasquetyvoley/arco1.20x90.jpg"
+					"src": "assets/img/juegossksb/arcofulbitobasquetyvoley/arco1.20x90.jpeg"
 				},
 				{
 					"idImage": "arco02",
-					"src": "assets/img/juegossksb/arcofulbitobasquetyvoley/arco1.20x90-2.jpg"
+					"src": "assets/img/juegossksb/arcofulbitobasquetyvoley/arco1.20x90-2.jpeg"
 				}
 			],
 			"info":[
@@ -133,7 +133,7 @@
 					]
 				},
 				{
-					"title":"Descripciones",
+					"title":"Descripción",
 					"text":[
 						{
 							"texto": "Estructura confeccionada en tubo cuadrado de 7/8” x 1.5mm de espesor."
@@ -186,7 +186,7 @@
 					]
 				},
 				{
-					"title":"Descripciones",
+					"title":"Descripción",
 					"text":[
 						{
 							"texto": "Confeccionado en tubo redondo de 2½” x 2mm con sistema regulable."
@@ -242,7 +242,7 @@
 					]
 				},
 				{
-					"title":"Descripciones",
+					"title":"Descripción",
 					"text":[
 						{
 							"texto": "Confeccionado en tubo cuadrado de 5” con sistema regulable."
@@ -288,7 +288,7 @@
 					]
 				},
 				{
-					"title":"Descripciones",
+					"title":"Descripción",
 					"text":[
 						{
 							"texto": "Confeccionado en tubo negro de 2½” x 2mm. de espesor."
@@ -327,7 +327,7 @@
 					]
 				},
 				{
-					"title":"Descripciones",
+					"title":"Descripción",
 					"text":[
 						{
 							"texto": "Confeccionado en aglomerado de pino de 18mm de espesor."
