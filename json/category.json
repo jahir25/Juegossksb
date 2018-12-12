@@ -31,7 +31,7 @@
         "ca_id": "C06",
         "ca_name": "Cama Elástica",
         "ca_img": "assets/img/juegossksb/category/camaelastica.jpg",
-        "ca_json": "./json/CamaElastica.json",
+        "ca_json": "./json/camaelastica.json",
         "ca_flag_cate": false
     },
     {
@@ -45,7 +45,7 @@
         "ca_id": "C08",
         "ca_name": "Inflables",
         "ca_img": "assets/img/juegossksb/category/inflables.jpg",
-        "ca_json": "./json/inflables.json",
+        "ca_json": "./json/Inflables.json",
         "ca_flag_cate": true
     },
     {
