@@ -464,10 +464,10 @@
 				"title": "Rodillo 3",
 				"text": [
 					{
-						"text": "Diámetro: 0.30mt."
+						"texto": "Diámetro: 0.30mt."
 					},
 					{
-						"text": "Largo: 0.70mt."
+						"texto": "Largo: 0.70mt."
 					}
 				]
 			}
@@ -573,7 +573,7 @@
 	},
 	{
 		"id": "SETDECOORDINACIONABCDE6PIEZASDE3ESCALONES",
-		"titulo": "SET DE COORDINACION ABC DE 6 PIEZAS DE 3 ESCALONES",
+		"titulo": "SET ABC",
 		"assets": "assets/img/juegossksb/Psicomotriz/acb-6piezas-3-escalones.jpg",
 		"imgs": [
 			{
@@ -583,16 +583,27 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Largo: 3mts."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 2mtS."
+					}
+				]
+			},
+			{
+				"title": "Descripción",
+				"text": [
+					{
+						"texto": "Confeccionado con espuma lila (Paraíso Zebra Densidad 400)."
 					},
 					{
-						"texto": " "
+						"texto": "Forrado con Lino plastificado pesado."
+					},
+					{
+						"texto": "Cantidad de piezas: 6 pzas."
 					}
 				]
 			}
@@ -600,7 +611,7 @@
 	},
 	{
 		"id": "SETDECOORDINACIONDEABCDE6PIEZASCON4ESCALONES",
-		"titulo": "SET DE COORDINACION DE ABC DE 6 PIEZAS CON 4 ESCALONES",
+		"titulo": "SET DE COORDINACION DE ABC",
 		"assets": "assets/img/juegossksb/Psicomotriz/abc-6piezas-4escalones-1.jpg",
 		"imgs": [
 			{
@@ -614,16 +625,27 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Largo: 2.50mts."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 1.50mts"
+					}
+				]
+			},
+			{
+				"title": "Descripción",
+				"text": [
+					{
+						"texto": "Confeccionado con espuma lila (Paraíso Zebra Densidad 400)."
 					},
 					{
-						"texto": " "
+						"texto": "Forrado con Lino plastificado pesado."
+					},
+					{
+						"texto": "Cantidad de piezas: 6 pzas."
 					}
 				]
 			}
@@ -641,16 +663,27 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Largo: 2mts."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 2mts"
+					}
+				]
+			},
+			{
+				"title": "Descripción",
+				"text": [
+					{
+						"texto": "Confeccionado con espuma lila (Paraíso Zebra Densidad 400)."
 					},
 					{
-						"texto": " "
+						"texto": "Forrado con Lino plastificado pesado."
+					},
+					{
+						"texto": "Cantidad de piezas: 17 pzas."
 					}
 				]
 			}
@@ -668,16 +701,30 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Largo: 4mts."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 0.60mt."
 					},
 					{
-						"texto": " "
+						"texto": "Altura: 0.90mt."
+					}
+				]
+			},
+			{
+				"title": "Descripción",
+				"text": [
+					{
+						"texto": "Confeccionado con espuma lila (Paraíso Zebra Densidad 400)."
+					},
+					{
+						"texto": "Forrado con Lino plastificado pesado de colores variados o al escoger."
+					},
+					{
+						"texto": "Cantidad de piezas: 10 pzas."
 					}
 				]
 			}
@@ -699,16 +746,27 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Largo: 6mts."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 1.20mt."
+					}
+				]
+			},
+			{
+				"title": "Descripción",
+				"text": [
+					{
+						"texto": "Confeccionado con espuma lila (Paraíso Zebra Densidad 400)."
 					},
 					{
-						"texto": " "
+						"texto": "Forrado con Lino plastificado pesado."
+					},
+					{
+						"texto": "Cantidad de piezas: 19 pzas."
 					}
 				]
 			}
@@ -726,16 +784,30 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Largo: 0.40mt."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 0.40mt."
 					},
 					{
-						"texto": " "
+						"texto": "Espesor: 0.10mt."
+					}
+				]
+			},
+			{
+				"title": "Descripción",
+				"text": [
+					{
+						"texto": "Confeccionado con espuma lila (Paraíso Zebra Densidad 400)."
+					},
+					{
+						"texto": "Forrado con Lino plastificado pesado."
+					},
+					{
+						"texto": "Cantidad de piezas: 6 pzas."
 					}
 				]
 			}
@@ -753,16 +825,30 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Largo: 1mt."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 0.35mt."
 					},
 					{
-						"texto": " "
+						"texto": "Grosor: 0.20mt."
+					}
+				]
+			},
+			{
+				"title": "Descripción",
+				"text": [
+					{
+						"texto": "Confeccionado con espuma lila (Paraíso Zebra Densidad 400)."
+					},
+					{
+						"texto": "Forrado con Lino plastificado pesado."
+					},
+					{
+						"texto": "Cantidad de piezas: 4 pzas."
 					}
 				]
 			}
@@ -780,16 +866,27 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Largo: 2.50mts."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 2.50mts"
+					}
+				]
+			},
+			{
+				"title": "Descripción",
+				"text": [
+					{
+						"texto": "Confeccionado con espuma lila (Paraíso Zebra Densidad 400)."
 					},
 					{
-						"texto": " "
+						"texto": "Forrado con Lino plastificado pesado."
+					},
+					{
+						"texto": "Cantidad de piezas: 13 pzas."
 					}
 				]
 			}
@@ -811,16 +908,27 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Largo: 2.50mts."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 0.5mt."
+					}
+				]
+			},
+			{
+				"title": "Descripción",
+				"text": [
+					{
+						"texto": "Confeccionado con espuma lila (Paraíso Zebra Densidad 400)."
 					},
 					{
-						"texto": " "
+						"texto": "Forrado con Lino plastificado pesado."
+					},
+					{
+						"texto": "Cantidad de piezas: 4 pzas."
 					}
 				]
 			}
@@ -838,16 +946,27 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Largo: 1.5mts."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 1mt."
+					}
+				]
+			},
+			{
+				"title": "Descripción",
+				"text": [
+					{
+						"texto": "Confeccionado con espuma lila (Paraíso Zebra Densidad 400)."
 					},
 					{
-						"texto": " "
+						"texto": "Forrado con Lino plastificado pesado de colores al escoger."
+					},
+					{
+						"texto": "Cantidad de piezas: 6 pzas."
 					}
 				]
 			}
@@ -869,16 +988,30 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Largo: 2mts."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 0.50mt."
 					},
 					{
-						"texto": " "
+						"texto": "Alto: 0.35mt."
+					}
+				]
+			},
+			{
+				"title": "Descripción",
+				"text": [
+					{
+						"texto": "Confeccionado con espuma lila (Paraíso Zebra Densidad 400)."
+					},
+					{
+						"texto": "Forrado con Lino plastificado pesado."
+					},
+					{
+						"texto": "Cantidad de piezas: 2 pzas."
 					}
 				]
 			}
@@ -896,16 +1029,27 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Largo: 2mts."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 2mts."
+					}
+				]
+			},
+			{
+				"title": "Descripción",
+				"text": [
+					{
+						"texto": "Confeccionado con espuma lila (Paraíso Zebra Densidad 400)."
 					},
 					{
-						"texto": " "
+						"texto": "Forrado con Lino plastificado pesado."
+					},
+					{
+						"texto": "Cantidad de piezas: 7 pzas."
 					}
 				]
 			}
@@ -923,16 +1067,30 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Largo: 1.50mt."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 1.50mt."
+					}
+				]
+			},
+			{
+				"title": "Descripción",
+				"text": [
+					{
+						"texto": "Confeccionado con espuma lila (Paraíso Zebra Densidad 400)."
 					},
 					{
-						"texto": " "
+						"texto": "Forrado con Lino plastificado pesado."
+					},
+					{
+						"texto": "Cantidad de piezas: 6 pzas."
+					},
+					{
+						"texto": "Cantidad de pelotas: 50 unds."
 					}
 				]
 			}
@@ -958,16 +1116,27 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Largo: 2mts."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 2mts."
+					}
+				]
+			},
+			{
+				"title": "Descripción",
+				"text": [
+					{
+						"texto": "Confeccionado con espuma lila (Paraíso Zebra Densidad 400)."
 					},
 					{
-						"texto": " "
+						"texto": "Forrado con Lino plastificado pesado."
+					},
+					{
+						"texto": "Cantidad de piezas: 10 pzas."
 					}
 				]
 			}
@@ -985,16 +1154,27 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Largo: 2.50mts."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 2.50mts."
+					}
+				]
+			},
+			{
+				"title": "Descripción",
+				"text": [
+					{
+						"texto": "Confeccionado con espuma lila (Paraíso Zebra Densidad 400)."
 					},
 					{
-						"texto": " "
+						"texto": "Forrado con Lino plastificado pesado."
+					},
+					{
+						"texto": "Cantidad de piezas: 15 pzas."
 					}
 				]
 			}
@@ -1016,16 +1196,27 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Largo: 4mts."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 1mt.s"
+					}
+				]
+			},
+			{
+				"title": "Descripción",
+				"text": [
+					{
+						"texto": "Confeccionado con espuma lila (Paraíso Zebra Densidad 400)."
 					},
 					{
-						"texto": " "
+						"texto": "Forrado con Lino plastificado pesado."
+					},
+					{
+						"texto": "Cantidad de piezas: 11 pzas."
 					}
 				]
 			}
@@ -1047,16 +1238,27 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Largo: 2mts."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 2.50mt."
+					}
+				]
+			},
+			{
+				"title": "Descripción",
+				"text": [
+					{
+						"texto": "Confeccionado con espuma lila (Paraíso Zebra Densidad 400)."
 					},
 					{
-						"texto": " "
+						"texto": "Forrado con Lino plastificado pesado."
+					},
+					{
+						"texto": "Cantidad de piezas: 13 pzas."
 					}
 				]
 			}
@@ -1078,16 +1280,30 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Largo: 0.90mt."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 0.75mt."
 					},
 					{
-						"texto": " "
+						"texto": "Alto: 0.75mt."
+					}
+				]
+			},
+			{
+				"title": "Descripción",
+				"text": [
+					{
+						"texto": "Confeccionado con espuma lila (Paraíso Zebra Densidad 400)."
+					},
+					{
+						"texto": "Forrado con Lino plastificado pesado."
+					},
+					{
+						"texto": "Cantidad de piezas: 3 pzas."
 					}
 				]
 			}

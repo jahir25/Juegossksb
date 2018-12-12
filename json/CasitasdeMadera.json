@@ -1,7 +1,7 @@
 [
 	{
 		"id": "CASITACONBANCASEXTERNAS",
-		"titulo": "CASITA CON BANCAS EXTERNAS",
+		"titulo": "CASITA M-02",
 		"assets": "assets/img/juegossksb/CasitasdeMadera/CASITACONBANCASEXTERNAS.jpg",
 		"imgs": [
 			{
@@ -11,16 +11,33 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Largo: 2.80 m."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 1.20 m."
 					},
 					{
-						"texto": " "
+						"texto": "Altura: 2.20 m."
+					}
+				]
+			},
+			{
+				"title": "Descripción",
+				"text": [
+					{
+						"texto": "Confeccionado en aglomerado (placa maciza de 18mm) pintado en colores."
+					},
+					{
+						"texto": "Estructura de piso en madera huayruro laqueado color natural o pintado en esmalte Gloss."
+					},
+					{
+						"texto": "Techo a dos aguas. "
+					},
+					{
+						"texto": "02 bancas externas."
 					}
 				]
 			}
@@ -28,7 +45,7 @@
 	},
 	{
 		"id": "CASITADEMADERACONTOBOGAN",
-		"titulo": "CASITA DE MADERA CON TOBOGAN",
+		"titulo": "CASITA M-04",
 		"assets": "assets/img/juegossksb/CasitasdeMadera/CASITADEMADERACONTOBOGAN-1.jpg",
 		"imgs": [
 			{
@@ -46,16 +63,53 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Largo: 2.0 metros."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 1.80 metros."
 					},
 					{
-						"texto": " "
+						"texto": "Altura: 2.80 metros."
+					}
+				]
+			},
+			{
+				"title": "Descripción",
+				"text": [
+					{
+						"texto": "Confeccionado totalmente en madera huayruro de 3” x 3”."
+					},
+					{
+						"texto": "Laqueado color natural."
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "UN TOBOGAN DE FIBRA DE VIDRIO DE 1M"
+					},
+					{
+						"texto": "UNA ESCALERA DE MADERA"
+					},
+					{
+						"texto": "UNA PARED LATERAL CON PALESTRAS DE FIBRA DE VIDRIO DE COLORES"
+					},
+					{
+						"texto": "TECHO A DOS AGUAS."
+					},
+					{
+						"texto": "UNA TERRAZA."
+					},
+					{
+						"texto": "UNA PUERTA."
+					},
+					{
+						"texto": "UNA VENTANA."
 					}
 				]
 			}
@@ -63,7 +117,7 @@
 	},
 	{
 		"id": "CASITADEMADERACONTOBOGÁNCARACOL",
-		"titulo": "CASITA DE MADERA CON TOBOGÁN CARACOL",
+		"titulo": "CASITA M-05",
 		"assets": "assets/img/juegossksb/CasitasdeMadera/CASITADEMADERACONTOBOGÁNCARACOL-1.jpg",
 		"imgs": [
 			{
@@ -97,16 +151,56 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Medidas",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Largo: 3.50 metros."
 					},
 					{
-						"texto": " "
+						"texto": "Ancho: 3.80 metros."
 					},
 					{
-						"texto": " "
+						"texto": "Altura: 2.30 metros."
+					}
+				]
+			},
+			{
+				"title": "Descripción",
+				"text": [
+					{
+						"texto": "Confeccionado totalmente en madera huayruro de 3” x 3”."
+					},
+					{
+						"texto": "Laqueado color natural."
+					},
+					{
+						"texto": "Base de metal confeccionado en tubo negro estructural de 1” x 2mm y forrado con nordex de 4mm pintado de color marrón."
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "UN TOBOGÁN MELLIZO DE FIBRA DE VIDRIO DE 1M DE ALTURA."
+					},
+					{
+						"texto": "UN TOBOGÁN CARACOL ABIERTO."
+					},
+					{
+						"texto": "UNA ESCALERA DE MADERA"
+					},
+					{
+						"texto": "TECHO A DOS AGUAS."
+					},
+					{
+						"texto": "UNA TERRAZA."
+					},
+					{
+						"texto": "UNA PUERTA."
+					},
+					{
+						"texto": "DOS VENTANAS."
 					}
 				]
 			}
@@ -114,7 +208,7 @@
 	},
 	{
 		"id": "CASITAGRAPKIDS",
-		"titulo": "CASITA GRAP KIDS",
+		"titulo": "CASITA M-03",
 		"assets": "assets/img/juegossksb/CasitasdeMadera/CASITAGRAPKIDS-1.jpg",
 		"imgs": [
 			{
@@ -132,16 +226,19 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Medidas: 1.20m x 1.20m."
 					},
 					{
-						"texto": " "
+						"texto": "Elaborado de placa maciza y enchapado en fórmica postformable en colores variados."
 					},
 					{
-						"texto": " "
+						"texto": "Incluye tres juegos de tres en raya (Michi)."
+					},
+					{
+						"texto": "Dos bancas en el interior de la casita."
 					}
 				]
 			}
@@ -149,7 +246,7 @@
 	},
 	{
 		"id": "CASITASOLA",
-		"titulo": "CASITA SOLA",
+		"titulo": "CASITA M-01",
 		"assets": "assets/img/juegossksb/CasitasdeMadera/casa-sola.jpg",
 		"imgs": [
 			{
@@ -162,13 +259,16 @@
 				"title": " ",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Medidas: 1.20m x 1.20m."
 					},
 					{
-						"texto": " "
+						"texto": "Elaborado de placa maciza y enchapado en fórmica postformable en colores variados."
 					},
 					{
-						"texto": " "
+						"texto": "Incluye tres juegos de tres en raya (Michi)."
+					},
+					{
+						"texto": "Dos bancas en el interior de la casita."
 					}
 				]
 			}

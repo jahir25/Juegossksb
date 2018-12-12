@@ -4,6 +4,13 @@ function onInit(){
         url: "./json/category.json",
         datatype: "json",
         success: function(result){
+
+            result.sort(function(a, b){
+				if(a.ca_name > b.ca_name) return 1;
+				else if(b.ca_name > a.ca_name) return -1;
+				return 0;
+			});
+
             createTabs(result);
         },
         error: function (xhr, ajaxOptions, thrownError) {

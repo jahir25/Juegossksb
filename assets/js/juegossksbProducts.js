@@ -37,6 +37,15 @@ function getJson(data) {
 		url: data.ca_json,
 		datatype: "json",
 		success: function (result) {
+
+			result.sort(function(a, b){
+				if(a.titulo > b.titulo) return 1;
+				else if(b.titulo > a.titulo) return -1;
+				return 0;
+			});
+
+			//console.log(result);
+
 			onCreateElement(data, result);
 		},
 		error: function (xhr, ajaxOptions, thrownError) {
