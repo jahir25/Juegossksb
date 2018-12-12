@@ -11,16 +11,28 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Mesa: <br> &emsp; &emsp; Largo: 0.40mt. <br> &emsp; &emsp; Ancho: 1.20mt. <br> &emsp; &emsp; Altura: 0.75mt."
 					},
 					{
-						"texto": " "
+						"texto": "Silla: <br> &emsp; &emsp; Medida espaldar: 0.40mt x 0.29mt. <br> &emsp; &emsp; Medida asiento: 0.40mt x 0.35mt. <br> &emsp; &emsp; Altura del asiento al piso: 0.40mt."
 					},
 					{
-						"texto": " "
+						"texto": "Estructura de la mesa confeccionado en tubo rectangular de 1” x 2”."
+					},
+					{
+						"texto": "Estructura pintada en esmalte al horno."
+					},
+					{
+						"texto": "Tablero confeccionado en placa maciza (aglomerado de pino) y enchapado en formica post-formable."
+					},
+					{
+						"texto": "Estructura de la silla confeccionada en tubo redondo de 7/8”."
+					},
+					{
+						"texto": "Asientos y respaldares confeccionados en placa maciza (aglomerado de pino) y enchapados en formica post-formable en colores al escoger."
 					}
 				]
 			}
@@ -38,16 +50,31 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Mesa: <br> &emsp; &emsp;Largo: 0.40mt. <br> &emsp; &emsp;Ancho: 1.20mt. <br> &emsp; &emsp;Altura: 0.75mt."
 					},
 					{
-						"texto": " "
+						"texto": "Silla: <br> &emsp; &emsp;Medida espaldar: 0.40mt x 0.29mt. <br> &emsp; &emsp;Medida asiento: 0.40mt x 0.35mt. <br> &emsp; &emsp;Altura del asiento al piso: 0.40mt."
 					},
 					{
-						"texto": " "
+						"texto": "Estructura de la mesa confeccionado en tubo cuadrado de 2”."
+					},
+					{
+						"texto": "Estructura pintada en esmalte al horno."
+					},
+					{
+						"texto": "Tablero confeccionado en placa maciza (aglomerado de pino) y enchapado en formica post-formable."
+					},
+					{
+						"texto": "Estructura de la silla confeccionada en tubo cuadrado de 7/8”."
+					},
+					{
+						"texto": "Asientos y respaldares confeccionados en placa maciza."
+					},
+					{
+						"texto": "Asientos y respaldares acolchados con espuma de 1½” y tapizados con tela concord."
 					}
 				]
 			}
@@ -65,16 +92,22 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Altura: 0.90mt."
 					},
 					{
-						"texto": " "
+						"texto": "Tablero: <br> &emsp; &emsp; Ancho: 0.50mt.<br> &emsp; &emsp; Largo: 0.70mt."
 					},
 					{
-						"texto": " "
+						"texto": "Estructura de la mesa y silla confeccionados en tubo redondo de 7/8”."
+					},
+					{
+						"texto": "Estructura pintada en esmalte al horno."
+					},
+					{
+						"texto": "Tablero, respaldar y asiento confeccionados en placa maciza (aglomerado de pino) y enchapado en formica de colores al escoger."
 					}
 				]
 			}
@@ -92,16 +125,31 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Mesa: <br> &emsp; &emsp; Largo: 0.40mt. <br> &emsp; &emsp; Ancho: 0.60mt. <br> &emsp; &emsp; Altura: 0.75mt."
 					},
 					{
-						"texto": " "
+						"texto": "Silla: <br> &emsp; &emsp; Medida espaldar: 0.40mt x 0.29mt. <br> &emsp; &emsp; Medida asiento: 0.40mt x 0.35mt. <br> &emsp; &emsp; Altura del asiento al piso: 0.40mt."
 					},
 					{
-						"texto": " "
+						"texto": "Estructura de la mesa confeccionado en tubo rectangular de 1” x 2”."
+					},
+					{
+						"texto": "Estructura pintada en esmalte al horno."
+					},
+					{
+						"texto": "Tablero confeccionado en placa maciza (aglomerado de pino) y enchapado en formica post-formable."
+					},
+					{
+						"texto": "Estructura de la silla confeccionada en tubo cuadrado de 7/8”."
+					},
+					{
+						"texto": "Asiento y respaldar confeccionados en placa maciza."
+					},
+					{
+						"texto": "Asiento y respaldar acolchados con espuma de 1½” y tapizados con tela concord."
 					}
 				]
 			}
@@ -122,13 +170,28 @@
 				"title": " ",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Mesa: <br> &emsp;&emsp;Largo: 0.40mt. <br> &emsp;&emsp;Ancho: 0.60mt. <br> &emsp;&emsp;Altura: 0.75mt."
 					},
 					{
-						"texto": " "
+						"texto": "Silla: <br> &emsp;&emsp;Medida espaldar: 0.40mt x 0.29mt. <br> &emsp;&emsp;Medida asiento: 0.40mt x 0.35mt. <br> &emsp;&emsp;Altura del asiento al piso: 0.40mt."
 					},
 					{
-						"texto": " "
+						"texto": "Estructura de la mesa confeccionado en tubo rectangular de 1” x 2”."
+					},
+					{
+						"texto": "Estructura pintada en esmalte al horno."
+					},
+					{
+						"texto": "Tablero confeccionado en placa maciza (aglomerado de pino) y enchapado en formica post-formable."
+					},
+					{
+						"texto": "Estructura de la silla confeccionada en tubo cuadrado de 7/8”."
+					},
+					{
+						"texto": "Asiento y respaldar confeccionados en placa maciza."
+					},
+					{
+						"texto": "Asiento y respaldar confeccionado en placa maciza (aglomerado de pino) y enchapado en formica post-formable en colores al escoger."
 					}
 				]
 			}
@@ -146,16 +209,19 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Estructura confeccionada en tubo redondo de 7/8” x 1.5mm de espesor."
 					},
 					{
-						"texto": " "
+						"texto": "Estructura pintada al horno."
 					},
 					{
-						"texto": " "
+						"texto": "Tablero confeccionado en placa maciza y enchapado en formica post formable."
+					},
+					{
+						"texto": "Asiento elaborado en fibra de vidrio."
 					}
 				]
 			}
@@ -173,16 +239,19 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Estructura confeccionada en tubo redondo de 7/8” x 1.5mm de espesor."
 					},
 					{
-						"texto": " "
+						"texto": "Estructura pintada al horno."
 					},
 					{
-						"texto": " "
+						"texto": "Tablero confeccionado en placa maciza y enchapado en formica post formable."
+					},
+					{
+						"texto": "Asiento elaborado en fibra de vidrio."
 					}
 				]
 			}
@@ -204,16 +273,19 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Medidas:<br> &emsp;&emsp; Largo: 0.60mt.<br> &emsp;&emsp; Ancho: 0.60mt.<br> &emsp;&emsp; Altura: 0.60mt."
 					},
 					{
-						"texto": " "
+						"texto": "Estructura de metal confeccionado en tubo cuadrado de 7/8”."
 					},
 					{
-						"texto": " "
+						"texto": "Estructura pintada en esmalte al horno en colores al escoger."
+					},
+					{
+						"texto": "Tablero confeccionado en placa maciza (aglomerado de pino) y enchapado en formica post-formable en colores variados."
 					}
 				]
 			}
@@ -235,16 +307,19 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Medidas:<br> &emsp;&emsp; Largo: 1.20mt.<br> &emsp;&emsp; Ancho: 0.60mt.<br> &emsp;&emsp; Altura: 0.60mt."
 					},
 					{
-						"texto": " "
+						"texto": "Estructura de metal confeccionado en tubo cuadrado de 7/8”."
 					},
 					{
-						"texto": " "
+						"texto": "Estructura pintada en esmalte al horno en colores al escoger."
+					},
+					{
+						"texto": "Tablero confeccionado en placa maciza (aglomerado de pino) y enchapado en formica post-formable en colores variados."
 					}
 				]
 			}
@@ -266,16 +341,19 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Medidas: <br> &emsp;&emsp; Diámetro: 1.20mt. <br> &emsp;&emsp; Altura: 0.60mt."
 					},
 					{
-						"texto": " "
+						"texto": "Estructura de metal confeccionado en tubo cuadrado de 7/8”."
 					},
 					{
-						"texto": " "
+						"texto": "Estructura pintada en esmalte al horno en colores al escoger."
+					},
+					{
+						"texto": "Tablero confeccionado en placa maciza (aglomerado de pino) y enchapado en formica post-formable en colores variados."
 					}
 				]
 			}
@@ -293,16 +371,19 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Medidas: <br> &emsp; &emsp; Diámetro exterior: 1.80mt. <br> &emsp; &emsp; Diámetro interior: 0.70mt."
 					},
 					{
-						"texto": " "
+						"texto": "Estructura de metal confeccionado en tubo cuadrado de 7/8”."
 					},
 					{
-						"texto": " "
+						"texto": "Estructura pintada en esmalte al horno en colores al escoger."
+					},
+					{
+						"texto": "Tablero confeccionado en placa maciza (aglomerado de pino) y enchapado en formica post-formable en colores variados."
 					}
 				]
 			}
@@ -327,13 +408,16 @@
 				"title": " ",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Medidas: <br> &emsp; &emsp; Medidas del respaldar: 0.29mt x 0.15mt. <br> &emsp; &emsp; Medidas del asiento: 0.29mt x 0.24mt. <br> &emsp; &emsp; Altura del asiento al piso: 0.30mt."
 					},
 					{
-						"texto": " "
+						"texto": "Estructura de metal confeccionada en tubo cuadrado de 7/8”."
 					},
 					{
-						"texto": " "
+						"texto": "Estructura pintada en esmalte al horno en colores al escoger."
+					},
+					{
+						"texto": "Respaldar y asiento confeccionados en placa maciza (aglomerado de pino) y enchapado en formica post-formable en colores variados."
 					}
 				]
 			}
