@@ -2,15 +2,15 @@
 	{
 		"id": "SUBEYBAJADEMADERA",
 		"titulo": "SUBE Y BAJA DE MADERA",
-		"assets": "assets/img/juegossksb/SubeyBaja/SUBEYBAJADEMADERA-1.jpg",
+		"assets": "assets/img/juegossksb/subeybaja/SUBEYBAJADEMADERA-1.jpg",
 		"imgs": [
 			{
 				"idImage": "img00",
-				"src": "assets/img/juegossksb/SubeyBaja/SUBEYBAJADEMADERA-1.jpg"
+				"src": "assets/img/juegossksb/subeybaja/SUBEYBAJADEMADERA-1.jpg"
 			},
 			{
 				"idImage": "img01",
-				"src": "assets/img/juegossksb/SubeyBaja/SUBEYBAJADEMADERA-2.jpg"
+				"src": "assets/img/juegossksb/subeybaja/SUBEYBAJADEMADERA-2.jpg"
 			}
 		],
 		"info": [
@@ -70,15 +70,15 @@
 	{
 		"id": "SUBEYBAJAPARANIÑOS",
 		"titulo": "SUBE Y BAJA PARA NIÑOS",
-		"assets": "assets/img/juegossksb/SubeyBaja/SUBEYBAJAPARANIÑOS-1.jpg",
+		"assets": "assets/img/juegossksb/subeybaja/SUBEYBAJAPARANIÑOS-1.jpg",
 		"imgs": [
 			{
 				"idImage": "img00",
-				"src": "assets/img/juegossksb/SubeyBaja/SUBEYBAJAPARANIÑOS-1.jpg"
+				"src": "assets/img/juegossksb/subeybaja/SUBEYBAJAPARANIÑOS-1.jpg"
 			},
 			{
 				"idImage": "img01",
-				"src": "assets/img/juegossksb/SubeyBaja/SUBEYBAJAPARANIÑOS-2.jpg"
+				"src": "assets/img/juegossksb/subeybaja/SUBEYBAJAPARANIÑOS-2.jpg"
 			}
 		],
 		"info": [
