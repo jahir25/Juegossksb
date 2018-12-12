@@ -31,7 +31,7 @@
         "ca_id": "C06",
         "ca_name": "Cama Elástica",
         "ca_img": "assets/img/juegossksb/category/camaelastica.jpg",
-        "ca_json": ".json/camaelastica.json",
+        "ca_json": "./json/camaelastica.json",
         "ca_flag_cate": false
     },
     {
