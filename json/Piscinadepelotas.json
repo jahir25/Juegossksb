@@ -15,16 +15,31 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Medidas: 1.50mt. x 2mts. x 1.80mt."
 					},
 					{
-						"texto": " "
+						"texto": "Confeccionado en tubo negro estructural de 1¼” x 2mm. y pintado en esmalte al horno color aluminio."
 					},
 					{
-						"texto": " "
+						"texto": "Acolchado con espuma de 2” de espesor y forrado con carpa lona concord en 4 colores. (amarillo, rojo, verde y azul), asimismo el techo."
+					},
+					{
+						"texto": "La tina es de carpa lona concord con canastilla de correas de nylon debidamente cocido con hilo nylon y templada con resortes de 18cmts."
+					},
+					{
+						"texto": "Cercado con malla de nylon de color, para su mayor resistencia."
+					},
+					{
+						"texto": "El ingreso es circular acolchado y forrado."
+					},
+					{
+						"texto": "Una escalera de metal con pasos de madera y con 6 porta-zapateras."
+					},
+					{
+						"texto": "500 pelotas."
 					}
 				]
 			}
@@ -46,16 +61,62 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Medidas: 3mts x 3mts x 2.50mts."
 					},
 					{
-						"texto": " "
+						"texto": "Confeccionado en tubo negro estructural de 1¼” x 2mm. y pintado en esmalte al horno color aluminio."
 					},
 					{
-						"texto": " "
+						"texto": "Acolchado con espuma de 2” de espesor y forrado con carpa lona concord en 4 colores. (amarillo, rojo, verde y azul), asimismo el techo."
+					},
+					{
+						"texto": "Dos techos piramidales de fibra de vidrio."
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "01 piscina de pelotas de 1.50mt x 2mts x 1.80mt."
+					},
+					{
+						"texto": "01 túnel de fibra de vidrio de 0.65mt.de diámetro."
+					},
+					{
+						"texto": "01 tobogán de colores de fibra de vidrio de 1.50mt de altura."
+					},
+					{
+						"texto": "01 tobogán de colores de fibra de vidrio de 1.20mt. de altura."
+					},
+					{
+						"texto": "04 sacos colgantes de lona concord."
+					},
+					{
+						"texto": "02 escaleras de tres niveles, acolchados y forrados con lona concord."
+					}
+				]
+			},
+			{
+				"title": "Descripción Piscina de Pelotas",
+				"text": [
+					{
+						"texto": "La tina es de carpa lona concord con canastilla de correas de nylon debidamente cocido con hilo nylon y templada con resortes de 18cmts."
+					},
+					{
+						"texto": "Cercado con malla de nylon de color, para su mayor resistencia."
+					},
+					{
+						"texto": "El ingreso es circular acolchado y forrado."
+					},
+					{
+						"texto": "Una escalera de metal con pasos de madera y con 6 porta-zapateras."
+					},
+					{
+						"texto": "750 pelotas."
 					}
 				]
 			}
@@ -93,16 +154,65 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto:": "Medidas: 4mts x 3mts x 3mts."
 					},
 					{
-						"texto": " "
+						"texto:": "Confeccionado en tubo negro estructural de 1¼” x 2mm. y pintado en esmalte al horno color aluminio."
 					},
 					{
-						"texto": " "
+						"texto:": "Acolchado con espuma de 2” de espesor y forrado con carpa lona concord en 4 colores. (amarillo, rojo, verde y azul), asimismo el techo."
+					},
+					{
+						"texto:": "Dos techos piramidales de fibra de vidrio."
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "01 piscina de pelotas de 3mts x 2mts x 1.80mt."
+					},
+					{
+						"texto": "01 túnel de fibra de vidrio de 0.65mt.de diámetro."
+					},
+					{
+						"texto": "01 tobogán de colores de fibra de vidrio de 1.50mt de altura."
+					},
+					{
+						"texto": "01 tobogán de colores de fibra de vidrio de 1.20mt. de altura."
+					},
+					{
+						"texto": "04 sacos colgantes de lona concord. "
+					},
+					{
+						"texto": "02 escaleras de tres niveles, acolchados y forrados con lona concord."
+					},
+					{
+						"texto": "01 camino acolchado alrededor de la entrada de la piscina."
+					}
+				]
+			},
+			{
+				"title": "Descripción Piscina de Pelotas",
+				"text": [
+					{
+						"texto": "La tina es de carpa lona concord con canastilla de correas de nylon debidamente cocido con hilo nylon y templada con resortes de 18cmts."
+					},
+					{
+						"texto": "Cercado con malla de nylon de color, para su mayor resistencia."
+					},
+					{
+						"texto": "El ingreso es circular acolchado y forrado."
+					},
+					{
+						"texto": "Una escalera de metal con pasos de madera y con 6 porta-zapateras."
+					},
+					{
+						"texto": "1200 pelotas."
 					}
 				]
 			}
@@ -136,16 +246,62 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Medidas: 4mts x 2mts x 2.50mts."
 					},
 					{
-						"texto": " "
+						"texto": "Confeccionado en tubo negro estructural de 1¼” x 2mm. y pintado en esmalte al horno color aluminio."
 					},
 					{
-						"texto": " "
+						"texto": "Acolchado con espuma de 2” de espesor y forrado con carpa lona concord en 4 colores. (amarillo, rojo, verde y azul), asimismo el techo."
+					},
+					{
+						"texto": "Techo con "
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "01 piscina de pelotas de 3mts x 2mts x 1.80mt."
+					},
+					{
+						"texto": "02 plataformas acolchadas y forrados con lona concord."
+					},
+					{
+						"texto": "01 tobogán mellizo de fibra de vidrio de 1mt de altura."
+					},
+					{
+						"texto": "01 escalera de espumas semicirculares."
+					},
+					{
+						"texto": "04 sacos colgantes de lona concord."
+					},
+					{
+						"texto": "01 pelota de gimnasio."
+					}
+				]
+			},
+			{
+				"title": "Descripción Piscina de Pelotas",
+				"text": [
+					{
+						"texto": "La tina es de carpa lona concord con canastilla de correas de nylon debidamente cocido con hilo nylon y templada con resortes de 18cmts."
+					},
+					{
+						"texto": "Cercado con malla de nylon de color, para su mayor resistencia."
+					},
+					{
+						"texto": "El ingreso es circular acolchado y forrado."
+					},
+					{
+						"texto": "Una escalera de metal con pasos de madera y con 6 porta-zapateras."
+					},
+					{
+						"texto": "1200 pelotas."
 					}
 				]
 			}
@@ -171,16 +327,62 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Medidas: 3mts x 3mts x 3mts."
 					},
 					{
-						"texto": " "
+						"texto": "Confeccionado en tubo negro estructural de 1¼” x 2mm. y pintado en esmalte al horno color aluminio."
 					},
 					{
-						"texto": " "
+						"texto": "Acolchado con espuma de 2” de espesor y forrado con carpa lona concord en 4 colores. (amarillo, rojo, verde y azul), asimismo el techo."
+					},
+					{
+						"texto": "Dos techos piramidales de fibra de vidrio."
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "01 piscina de pelotas de 3mts x 2mts x 1.80mt."
+					},
+					{
+						"texto": "01 puente acolchado y forrado en lona concord."
+					},
+					{
+						"texto": "01 tobogán de colores de fibra de vidrio de 1.50mt de altura."
+					},
+					{
+						"texto": "01 tobogán de colores de fibra de vidrio de 1mt. de altura."
+					},
+					{
+						"texto": "04 sacos colgantes de lona concord."
+					},
+					{
+						"texto": "02 escaleras de tres niveles, acolchados y forrados con lona concord."
+					}
+				]
+			},
+			{
+				"title": "Descripción Piscina de Pelotas",
+				"text": [
+					{
+						"texto": "­La tina es de carpa lona concord con canastilla de correas de nylon debidamente cocido con hilo nylon y templada con resortes de 18cmts."
+					},
+					{
+						"texto": "­Cercado con malla de nylon de color, para su mayor resistencia."
+					},
+					{
+						"texto": "­El ingreso es circular acolchado y forrado."
+					},
+					{
+						"texto": "Una escalera de metal con pasos de madera y con 6 porta-zapateras."
+					},
+					{
+						"texto": "­1500 pelotas."
 					}
 				]
 			}
@@ -202,16 +404,31 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Medidas: 3mts x 2mts x 1.80mt. de altura."
 					},
 					{
-						"texto": " "
+						"texto": "Confeccionado en tubo negro estructural de 1¼” x 2mm. y pintado en esmalte al horno color aluminio."
 					},
 					{
-						"texto": " "
+						"texto": "Acolchado con espuma de 2” de espesor y forrado con carpa lona concord en 4 colores. (amarillo, rojo, verde y azul), asimismo el techo."
+					},
+					{
+						"texto": "La tina es de carpa lona concord con canastilla de correas de nylon debidamente cocido con hilo nylon y templada con resortes de 18cmts."
+					},
+					{
+						"texto": "Cercado con malla de nylon de color, para su mayor resistencia."
+					},
+					{
+						"texto": "El ingreso es circular acolchado y forrado."
+					},
+					{
+						"texto": "Una escalera de metal con pasos de madera y con 6 porta-zapateras."
+					},
+					{
+						"texto": "1000 pelotas."
 					}
 				]
 			}
