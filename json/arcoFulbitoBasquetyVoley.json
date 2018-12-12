@@ -2,11 +2,11 @@
     {
         "id": "arcofulbito",
 		"titulo": "Arco de Fulbito",
-		"assets": "assets/img/juegossksb/arcofulbitobasquetyvoley/arco-3x2.jpg",
+		"assets": "assets/img/juegossksb/arcofulbitobasquetyvoley/arco-3x2.JPG",
 		"imgs": [
 			{
 				"idImage": "arco01",
-				"src": "assets/img/juegossksb/arcofulbitobasquetyvoley/arco-3x2.jpg"
+				"src": "assets/img/juegossksb/arcofulbitobasquetyvoley/arco-3x2.JPG"
             },
             {
 				"idImage": "arco02",
@@ -49,20 +49,20 @@
 	{
 		"id": "ArcodeFulbitoconTablerodeBasquet",
 		"titulo": "Arco de Fulbito con Tablero de Basquet",
-		"assets": "assets/img/juegossksb/arcofulbitobasquetyvoley/arco-tablero.jpg",
+		"assets": "assets/img/juegossksb/arcofulbitobasquetyvoley/arco-tablero.JPG",
 
 		"imgs": [
 			{
 				"idImage": "arco01",
-				"src": "assets/img/juegossksb/arcofulbitobasquetyvoley/arco-tablero.jpg"
+				"src": "assets/img/juegossksb/arcofulbitobasquetyvoley/arco-tablero.JPG"
 			},
 			{
 				"idImage": "arco02",
-				"src": "assets/img/juegossksb/arcofulbitobasquetyvoley/arco-tablero2.jpg"
+				"src": "assets/img/juegossksb/arcofulbitobasquetyvoley/arco-tablero2.JPG"
 			},
 			{
 				"idImage": "arco03",
-				"src": "assets/img/juegossksb/arcofulbitobasquetyvoley/arco-tablero3.jpg"
+				"src": "assets/img/juegossksb/arcofulbitobasquetyvoley/arco-tablero3.JPG"
          }
 		],
 		"info":[
