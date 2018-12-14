@@ -1,7 +1,7 @@
 [
 	{
 		"id": "MODULOALCÁZAR",
-		"titulo": "MODULO ALCÁZAR",
+		"titulo": "MODULO MI-09",
 		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-alcazar1.jpg",
 		"imgs": [
 			{
@@ -76,7 +76,7 @@
 	},
 	{
 		"id": "MODULOAMANCAESRIMAC",
-		"titulo": "MODULO AMANCAES RIMAC",
+		"titulo": "MODULO MP-08",
 		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-amancaes1.jpg",
 		"imgs": [
 			{
@@ -167,7 +167,7 @@
 	},
 	{
 		"id": "MODULOBERTOLTBRECHT",
-		"titulo": "MODULO BERTOLT BRECHT",
+		"titulo": "MODULO MP-14",
 		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-bertolt1.jpg",
 		"imgs": [
 			{
@@ -253,7 +253,7 @@
 	},
 	{
 		"id": "MODULOCARMENDELALEGUA",
-		"titulo": "MODULO CARMEN DE LA LEGUA",
+		"titulo": "MODULO MP-29",
 		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-carmen1.jpg",
 		"imgs": [
 			{
@@ -355,7 +355,7 @@
 	},
 	{
 		"id": "MODULOCASTILLACALLAOMODELOECONOMICO1",
-		"titulo": "MODULO CASTILLA CALLAO MODELO ECONOMICO 1",
+		"titulo": "MODULO MP-05",
 		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-castilla-eco1.jpg",
 		"imgs": [
 			{
@@ -409,7 +409,7 @@
 				]
 			},
 			{
-				"title": "Infome Técnico",
+				"title": "Informe Técnico",
 				"text": [
 					{
 						"texto": "Pisos de columnas confeccionadas en madera huayruro y parantes 3” x 3” de grosor, los pisos de circuito confeccionados en madera huayruro acabado en una pulgada de grosor, por consideración al uso público, debe ser duradero y resistente, totalmente laqueado y barnizado en barniz marino transparente."
@@ -435,7 +435,7 @@
 	},
 	{
 		"id": "MODULOCASTILLACALLAOMODELOECONOMICO2",
-		"titulo": "MODULO CASTILLA CALLAO MODELO ECONOMICO 2",
+		"titulo": "MODULO MP-04",
 		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-eco1.jpg",
 		"imgs": [
 			{
@@ -492,7 +492,7 @@
 				]
 			},
 			{
-				"title": "Infome Técnico",
+				"title": "Informe Técnico",
 				"text": [
 					{
 						"texto": "Pisos de columnas confeccionadas en madera huayruro y parantes 3” x 3” de grosor, los pisos de circuito confeccionados en madera huayruro acabado en una pulgada de grosor, por consideración al uso público, debe ser duradero y resistente, totalmente laqueado y barnizado en barniz marino transparente."
@@ -518,7 +518,7 @@
 	},
 	{
 		"id": "MODULOCESARVALLEJO",
-		"titulo": "MODULO CESAR VALLEJO",
+		"titulo": "MODULO MP-03",
 		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-vallejo1.jpg",
 		"imgs": [
 			{
@@ -553,7 +553,7 @@
 	},
 	{
 		"id": "MODULOCIENEGUILLADETRESCOLUMNAS",
-		"titulo": "MODULO CIENEGUILLA DE TRES COLUMNAS",
+		"titulo": "MODULO MP-18",
 		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-3-columnas1.jpg",
 		"imgs": [
 			{
@@ -644,7 +644,7 @@
 	},
 	{
 		"id": "MODULOCIUDADNUEVA03TORRESEXAGONALES",
-		"titulo": "MODULO CIUDAD NUEVA 03 TORRES EXAGONALES",
+		"titulo": "MODULO MP-30",
 		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-torre-exagonal1.jpg",
 		"imgs": [
 			{
@@ -744,7 +744,7 @@
 	},
 	{
 		"id": "MODULOCONTADORES",
-		"titulo": "MODULO CONTADORES",
+		"titulo": "MODULO MP-10",
 		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-contadores1.jpg",
 		"imgs": [
 			{
@@ -786,7 +786,7 @@
 				]
 			},
 			{
-				"title": "Primera Torre",
+				"title": "Torre 01",
 				"text": [
 					{
 						"texto": "01 tobogán tubular recto de fibra de vidrio de 0.65mt. de diámetro en fibra de vidrio de 1.50mt de altura."
@@ -806,7 +806,7 @@
 				]
 			},
 			{
-				"title": "Segunda Torre",
+				"title": "Torre 02",
 				"text": [
 					{
 						"texto": "01 juego de tres en raya (michi) de fibra de vidrio."
@@ -829,7 +829,7 @@
 				]
 			},
 			{
-				"title": "Tercera Torre",
+				"title": "Torre 03",
 				"text": [
 					{
 						"texto": "01 tobogán tubular modelo caracol con cabeza de serpiente de fibra de vidrio."
@@ -852,7 +852,7 @@
 				]
 			},
 			{
-				"title": "Informe Ténico",
+				"title": "Informe Técnico",
 				"text": [
 					{
 						"texto": "Las torres y plataformas están confeccionadas en tubo negro estructural de 1 ½” x 2mm."
@@ -878,7 +878,7 @@
 	},
 	{
 		"id": "MODULOCUBO",
-		"titulo": "MODULO CUBO",
+		"titulo": "MODULO MI-01",
 		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-cubo1.jpg",
 		"imgs": [
 			{
@@ -933,7 +933,7 @@
 	},
 	{
 		"id": "MODULODANGELO",
-		"titulo": "MODULO DANGELO",
+		"titulo": "MODULO MI-05",
 		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-dangelo1.jpg",
 		"imgs": [
 			{
@@ -1002,7 +1002,7 @@
 	},
 	{
 		"id": "MODULODEDOSCOLUMNASCONTECHODECASITA",
-		"titulo": "MODULO DE DOS COLUMNAS CON TECHO DE CASITA",
+		"titulo": "MODULO MP-02",
 		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-2-columnas1.jpg",
 		"imgs": [
 			{
@@ -1063,7 +1063,7 @@
 	},
 	{
 		"id": "MODULODEMADERACUBOINICIALBABY",
-		"titulo": "MODULO DE MADERA CUBO INICIAL BABY",
+		"titulo": "MODULO MB-01",
 		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-cubo.jpg",
 		"imgs": [
 			{
@@ -1099,7 +1099,7 @@
 	},
 	{
 		"id": "MODULODEMADERADE5COLUMNAS",
-		"titulo": "MODULO DE MADERA DE 5 COLUMNAS",
+		"titulo": "MODULO MP-26",
 		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-5-columnas1.jpg",
 		"imgs": [
 			{
@@ -1177,7 +1177,7 @@
 				]
 			},
 			{
-				"title": "Infome Técnico",
+				"title": "Informe Técnico",
 				"text": [
 					{
 						"texto": "Las columnas con plataforma están confeccionadas en madera huayruro y parantes de 3” x 3” de grosor, los pisos del circuito confeccionados en madera huayruro acabado en una pulgada de grosor, por consideración al uso público debe ser duradero y resistente, totalmente laqueado y barnizado en barniz marino transparente."
@@ -1200,7 +1200,7 @@
 	},
 	{
 		"id": "MODULODEMADERAINICIALDEDOSCOLUMNAS",
-		"titulo": "MODULO DE MADERA INICIAL DE DOS COLUMNAS",
+		"titulo": "MODULO MI-07",
 		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-inicial-2-columnas1.jpg",
 		"imgs": [
 			{
@@ -1275,7 +1275,7 @@
 	},
 	{
 		"id": "MODULODEMADERAMARIAMILAGROSA",
-		"titulo": "MODULO DE MADERA MARIA MILAGROSA",
+		"titulo": "MODULO MP-31",
 		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-milagrosa1.jpg",
 		"imgs": [
 			{
@@ -1443,7 +1443,7 @@
 				]
 			},
 			{
-				"title": "Infome Técnico",
+				"title": "Informe Técnico",
 				"text": [
 					{
 						"texto": "Las columnas con plataforma están confeccionadas en madera huairuro y parantes de 3” x 3” de grosor; los pisos del circuito confeccionados en madera huairuro acabado en 1” de grosor, por consideración al uso público debe ser duradero y resistente, totalmente laqueado y barnizado en barniz marino transparente."
@@ -1466,7 +1466,7 @@
 	},
 	{
 		"id": "MODULODEMADERAMETALDEUNACOLUMNADEDOSPISOS",
-		"titulo": "MODULO DE MADERA METAL DE UNA COLUMNA DE DOS PISOS",
+		"titulo": "MODULO MP-16",
 		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-2-pisos1.jpg",
 		"imgs": [
 			{
@@ -1557,7 +1557,7 @@
 	},
 	{
 		"id": "MODULODEMADERASANISIDROBABY",
-		"titulo": "MODULO DE MADERA SAN ISIDRO BABY",
+		"titulo": "MODULO MI-08",
 		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-san-isidro-baby1.jpg",
 		"imgs": [
 			{
@@ -1655,7 +1655,7 @@
 	},
 	{
 		"id": "MODULODEMADERASANISIDROPRIMARIA",
-		"titulo": "MODULO DE MADERA SAN ISIDRO PRIMARIA",
+		"titulo": "MODULO MP-09",
 		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-san-isidro-primaria1.jpg",
 		"imgs": [
 			{
@@ -1750,7 +1750,7 @@
 	},
 	{
 		"id": "MODULODEMADERASIERRAMORENA",
-		"titulo": "MODULO DE MADERA SIERRA MORENA",
+		"titulo": "MODULO MP-21",
 		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-sierra1.jpg",
 		"imgs": [
 			{
@@ -1830,7 +1830,7 @@
 	},
 	{
 		"id": "MODULODEMADERATRUJILLO",
-		"titulo": "MODULO DE MADERA TRUJILLO",
+		"titulo": "MODULO MP-28",
 		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-trujillo1.jpg",
 		"imgs": [
 			{
@@ -1967,7 +1967,7 @@
 	},
 	{
 		"id": "MODULODEMADERAVILLAMARÍA",
-		"titulo": "MODULO DE MADERA VILLA MARÍA",
+		"titulo": "MODULO MI-11",
 		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-villa-maria1.jpg",
 		"imgs": [
 			{
@@ -2038,7 +2038,7 @@
 				]
 			},
 			{
-				"title": "Infome Técnico",
+				"title": "Informe Técnico",
 				"text": [
 					{
 						"texto": "Plataformas confeccionadas en madera huairuro (esta madera es recomendable porque es más compacta y resistente en la intemperie) con parantes de 4” x 4” de grosor, los pisos del circuito confeccionados en madera huairuro de 1¼” de grosor, por consideración al uso público,  debe ser duradero y resistente, totalmente laqueado y barnizado en barniz marino transparente."
@@ -2061,7 +2061,7 @@
 	},
 	{
 		"id": "MODULODEMETALCONESCALERAS",
-		"titulo": "MODULO DE METAL CON ESCALERAS",
+		"titulo": "MODULO MP-01",
 		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-metal.jpg",
 		"imgs": [
 			{
@@ -2119,7 +2119,7 @@
 	},
 	{
 		"id": "MODULODEUNACOLUMNA",
-		"titulo": "MODULO DE UNA COLUMNA",
+		"titulo": "MODULO MI-03",
 		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-1-columna1.jpg",
 		"imgs": [
 			{
@@ -2232,16 +2232,62 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Área: 7mts. X 3.50mts. "
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "Dos toboganes de 1 m de fibra de vidrio."
 					},
 					{
-						"texto": " "
+						"texto": "Un puente en arco."
 					},
 					{
-						"texto": " "
+						"texto": "Un tubo de bombero"
+					},
+					{
+						"texto": "Una escalera de tubo cuadrado."
+					},
+					{
+						"texto": "Una bodeguita."
+					},
+					{
+						"texto": "Una escalera de madera."
+					},
+					{
+						"texto": "Un juego de michi."
+					},
+					{
+						"texto": "Un columpio triple (calesa, balancín y un asiento)"
+					}
+				]
+			},
+			{
+				"title": "Informe Técnico",
+				"text": [
+					{
+						"texto": "Pisos de columnas confeccionadas en madera huayruro y parantes 3” x 3” de grosor, los pisos de circuito confeccionados en madera huayruro acabado en una pulgada de grosor, por consideración al uso público, debe ser duradero y resistente, totalmente laqueado y barnizado en barniz marino transparente."
+					},
+					{
+						"texto": "Accesorios metálicos: confeccionados en tubo negro estructural de diferentes medidas (2”, 10”, 1 ¼”, 1, ¾”) y varilla lisa de ¾ “pintado con anticorrosivo y esmalte al horno de diferentes colores."
+					},
+					{
+						"texto": "Desarmables y ensamblados en pernos zincados."
+					},
+					{
+						"texto": "Techos y toboganes abiertos de fibra de vidrio, pintados con hielco de diferentes colores y laqueados en laca al horno transparente."
+					},
+					{
+						"texto": "Plataformas debidamente ancladas a 0.40 m de profundidad en vaciado de cemento previamente protegido con brea."
+					},
+					{
+						"texto": "Medida de 1.90m de altura por 2.80m de largo, la estructura está confeccionado en tubo negro estructural, el travesaño es de 2” x 2mm y los parantes de 1 ¼” x 2mm pintado con esmalte al horno, los columpios están accionados por un sistema de rodajes (mayor durabilidad para el uso público)."
 					}
 				]
 			}
@@ -2249,7 +2295,7 @@
 	},
 	{
 		"id": "MODULOMADERACALLAO",
-		"titulo": "MODULO MADERA CALLAO",
+		"titulo": "MODULO MI-10",
 		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-callao1.jpg",
 		"imgs": [
 			{
@@ -2263,16 +2309,68 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Área: 6.30mts x 4.60mts"
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "Dos columnas con plataforma (de 0.60m x 0.60m)."
 					},
 					{
-						"texto": " "
+						"texto": "Dos techos piramidales de fibra de vidrio. "
 					},
 					{
-						"texto": " "
+						"texto": "Una bodeguita "
+					},
+					{
+						"texto": "Un puente en arco de metal."
+					},
+					{
+						"texto": "Dos toboganes ondeados de fibra de vidrio de 1m de altura. "
+					},
+					{
+						"texto": "Un columpio triple (calesa, balancín y asiento individual). "
+					},
+					{
+						"texto": "Una escalera de metal de pasos cuadrados. "
+					},
+					{
+						"texto": "Una escalera de madera. "
+					},
+					{
+						"texto": "Un pasamano culebra de metal."
+					},
+					{
+						"texto": "Un juego michi."
+					}
+				]
+			},
+			{
+				"title": "Informe Técnico",
+				"text": [
+					{
+						"texto": "Las columnas con plataforma de 0.60mx0.60m, están confeccionadas en madera huairuro y parantes de 3” x 3” de grosor, los pisos del circuito confeccionados en madera huairuro acabado en una pulgada de grosor, por consideración al uso público debe ser duradero y resistente, totalmente laqueado y barnizado en barniz marino transparente."
+					},
+					{
+						"texto": "Accesorios metálicos: confeccionados en tubo negro estructural de diferentes medidas (1½”, 1¼”, ¾”), y varilla lisa de ⅜” pintado en esmalte al horno de diferentes colores. "
+					},
+					{
+						"texto": "Desarmables y ensamblados con pernos zincados."
+					},
+					{
+						"texto": "Toboganes de fibra de vidrio pintado con hielco de color amarillo, rojo, azul y verde; laqueado en laca al horno transparente. "
+					},
+					{
+						"texto": "Plataformas, debidamente ancladas al piso con baseado de concreto armado."
+					},
+					{
+						"texto": "Aplicación de undercoating en las bases (brea)."
 					}
 				]
 			}
@@ -2280,7 +2378,7 @@
 	},
 	{
 		"id": "MODULOMADERAMETALANGAMOS",
-		"titulo": "MODULO MADERA METAL ANGAMOS",
+		"titulo": "MODULO MP-25",
 		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-angamos1.jpg",
 		"imgs": [
 			{
@@ -2302,16 +2400,60 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Área: 11.40mts x 3mts x 4.20mts."
 					},
 					{
-						"texto": " "
+						"texto": "Barandas de pasarela con postes de 4” x 2”"
 					},
 					{
-						"texto": " "
+						"texto": "Una torre de 2mts x 2mts con plataforma de 1.80mt de altura."
+					},
+					{
+						"texto": "Dos árboles según diseño."
+					},
+					{
+						"texto": "Dos paneles de aglomerado."
+					},
+					{
+						"texto": "Tres nubes según diseño en triplay de 4mm."
+					},
+					{
+						"texto": "Tres figuras de animalitos (chancho, sapo y mariposa en triplay y gigantografiados en banner)"
+					},
+					{
+						"texto": "Pintado de pista negra con rayas blancas."
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "01 tobogán caracol tubular de fibra de vidrio de 0.65mt de diámetro."
+					},
+					{
+						"texto": "01 escalera de pasos y pasamanos de madera."
+					},
+					{
+						"texto": "01 trepado de sogas de 1.80mt de altura"
+					},
+					{
+						"texto": "01 casita con techo a dos aguas."
+					},
+					{
+						"texto": "01 juego de tres en raya (michi)."
+					},
+					{
+						"texto": "01 arenero."
+					},
+					{
+						"texto": "02 paneles de aglomerado."
+					},
+					{
+						"texto": "Área de Pasto Artificial de 1mt x 4mt."
 					}
 				]
 			}
@@ -2319,7 +2461,7 @@
 	},
 	{
 		"id": "MODULOMADERAMETALAYAVIRI",
-		"titulo": "MODULO MADERA METAL AYAVIRI",
+		"titulo": "MODULO MP-26",
 		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-ayaviri1.jpg",
 		"imgs": [
 			{
@@ -2337,16 +2479,86 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Área: 6.70M X 8.4"
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "Cuatro columnas con plataforma (de 1.m x 1.m) "
 					},
 					{
-						"texto": " "
+						"texto": "Cuatro techos de fibra de vidrio tipo selva. "
 					},
 					{
-						"texto": " "
+						"texto": "Un túnel de fibra de vidrio pintado en esmalte al horno."
+					},
+					{
+						"texto": "Un puente colgante, piso de madera y pasamanos de Madera Huayruro."
+					},
+					{
+						"texto": "Un puente en arco, piso de madera y pasamanos de madera."
+					},
+					{
+						"texto": "Un tubo bombero de metal pintado en esmalte al horno."
+					},
+					{
+						"texto": "Una rampa de madera (con sogas tipo alpinista)."
+					},
+					{
+						"texto": "Tobogán tubular caracol de fibra de vidrio de 2.20m de altura. Con cabeza de serpiente."
+					},
+					{
+						"texto": "Tobogán caracol abierto de fibra de vidrio de 2.m de altura."
+					},
+					{
+						"texto": "Un michi de madera (tres en raya)."
+					},
+					{
+						"texto": "Dos escaleras con pasos de madera."
+					},
+					{
+						"texto": "Una escalera sube o baja culebra de metal."
+					},
+					{
+						"texto": "Un pasamano curvo de metal."
+					},
+					{
+						"texto": "Escalera de pirata (sogas)"
+					},
+					{
+						"texto": "Tobogán curvo de Fibra de vidrio"
+					},
+					{
+						"texto": "Puente de escalones."
+					}
+				]
+			},
+			{
+				"title": "Informe Técnico",
+				"text": [
+					{
+						"texto": "Las columnas con plataforma están confeccionadas en madera huayruro y parantes de 4” x 4” de grosor, los pisos del circuito confeccionados en madera huayruro acabado en una pulgada de grosor, por consideración al uso público debe ser duradero y resistente, totalmente laqueado y barnizado en barniz marino transparente."
+					},
+					{
+						"texto": "Accesorios metálicos: confeccionados en tubo negro estructural de diferentes medidas (1½”, 1¼”, ¾”), y varilla lisa de ⅜”. Pintado en esmalte al horno de diferentes colores."
+					},
+					{
+						"texto": "Desarmables y ensamblados con pernos zincados."
+					},
+					{
+						"texto": "Toboganes de fibra de vidrio pintado con hielco de color amarillo, rojo, azul y verde laqueado en laca al horno transparente. "
+					},
+					{
+						"texto": "Plataformas decoradas con hojas de enredadera y otros artificiales, debidamente ancladas al piso con baseado de concreto armado."
+					},
+					{
+						"texto": "Aplicación de undercoating en las bases (brea)"
 					}
 				]
 			}
@@ -2354,7 +2566,7 @@
 	},
 	{
 		"id": "MODULOMADERAMETALDE2CODOS",
-		"titulo": "MODULO MADERA METAL DE 2 CODOS",
+		"titulo": "MODULO MP-12",
 		"assets": "assets/img/juegossksb/Modulosdemadera/2codos-1.jpg",
 		"imgs": [
 			{
@@ -2372,16 +2584,68 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Medidas: 4.72mts x 3.65mts"
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "Dos columnas con plataforma (de 1m x 1m)"
 					},
 					{
-						"texto": " "
+						"texto": "Dos techos piramidales de fibra de vidrio. "
 					},
 					{
-						"texto": " "
+						"texto": "Una escalera espiral de metal pintado al horno."
+					},
+					{
+						"texto": "Una escalera sube y baja culebra de metal."
+					},
+					{
+						"texto": "Tobogán ondeado de fibra de vidrio de 1.20m. de altura."
+					},
+					{
+						"texto": "Una escalera de pasos cuadrados."
+					},
+					{
+						"texto": "Un michi de madera (tres en raya)."
+					},
+					{
+						"texto": "Dos túneles de codo de fibra de vidrio. (0.65cm de diámetro)"
+					},
+					{
+						"texto": "Un trepado de sogas."
+					},
+					{
+						"texto": "Un tobogán ondeado de Fibra de vidrio 1.50m de altura."
+					},
+					{
+						"texto": "Un pasamano de curvo metal."
+					}
+				]
+			},
+			{
+				"title": "Informe Técnico",
+				"text": [
+					{
+						"texto": "Las columnas con plataforma están confeccionadas en madera huayruro y parantes de 3” x 3” de grosor, los pisos del circuito confeccionados en madera huayruro acabado en una pulgada de grosor, por consideración al uso público debe ser duradero y resistente, totalmente laqueado y barnizado en barniz marino transparente."
+					},
+					{
+						"texto": "Accesorios metálicos: confeccionados en tubo negro estructural de diferentes medidas (1½”, 1¼”, ¾”), y varilla lisa de ⅜” pintado en esmalte al horno de diferentes colores."
+					},
+					{
+						"texto": "Desarmables y ensamblados con pernos zincados."
+					},
+					{
+						"texto": "Toboganes de fibra de vidrio pintado con hielco de color amarillo, rojo, azul y verde laqueado en laca al horno transparente. "
+					},
+					{
+						"texto": "Plataformas, debidamente ancladas al piso con baseado de concreto armado."
 					}
 				]
 			}
@@ -2389,7 +2653,7 @@
 	},
 	{
 		"id": "MODULOMADERAMETALDECUATROCOLUMNASBEATAIMELDA",
-		"titulo": "MODULO MADERA METAL DE CUATRO COLUMNAS BEATA IMELDA",
+		"titulo": "MODULO MP-23",
 		"assets": "assets/img/juegossksb/Modulosdemadera/4columnas-1.jpg",
 		"imgs": [
 			{
@@ -2407,16 +2671,71 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "ÁREA: 5mts x 15mts."
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "Cuatro columnas con plataforma (dos de 0.60m x 0.60m y dos columnas de 0.60 x 1.20m con techo de fibra de vidrio.)"
 					},
 					{
-						"texto": " "
+						"texto": "Un túnel de fibra de vidrio pintado en esmalte al horno."
 					},
 					{
-						"texto": " "
+						"texto": "Un puente colgante, piso de madera y pasamanos de metal."
+					},
+					{
+						"texto": "Un puente en arco, piso de madera y pasamanos de metal."
+					},
+					{
+						"texto": "Tubo de bombero de metal pintado en esmalte al horno."
+					},
+					{
+						"texto": "Dos rampas de madera (con sogas tipo alpinista)."
+					},
+					{
+						"texto": "Tres toboganes de fibra de vidrio de 1.m 1.20m y 1.50m de altura."
+					},
+					{
+						"texto": "Un michi de madera (tres en raya)."
+					},
+					{
+						"texto": "Dos escaleras con pasos de madera."
+					},
+					{
+						"texto": "Una escalera sube o baja culebra de metal."
+					},
+					{
+						"texto": "Un pasamano."
+					},
+					{
+						"texto": "Seis asientos de columpio de fibra de vidrio."
+					}
+				]
+			},
+			{
+				"title": "Informe Técnico",
+				"text": [
+					{
+						"texto": "Las columnas con plataforma están confeccionadas en madera huayruro y parantes de 3” x 3” de grosor, los pisos del circuito confeccionados en madera huayruro acabado en una pulgada de grosor, por consideración al uso público debe ser duradero y resistente, totalmente laqueado y barnizado en barniz marino transparente."
+					},
+					{
+						"texto": "Accesorios metálicos: confeccionados en tubo negro estructural de diferentes medidas (1½”, 1¼”, ¾”), y varilla lisa de ⅜” pintado en esmalte al horno de diferentes colores."
+					},
+					{
+						"texto": "Desarmables y ensamblados con pernos zincados."
+					},
+					{
+						"texto": "Toboganes de fibra de vidrio pintado con hielco de color amarillo, rojo, azul y verde laqueado en laca al horno transparente. "
+					},
+					{
+						"texto": "Plataformas debidamente ancladas a 0.40m. de profundidad en vaciado de cemento previamente protegido con brea."
 					}
 				]
 			}
@@ -2424,7 +2743,7 @@
 	},
 	{
 		"id": "MODULOMADERAMETALECONÓMICO",
-		"titulo": "MODULO MADERA METAL ECONÓMICO",
+		"titulo": "MODULO MP-06",
 		"assets": "assets/img/juegossksb/Modulosdemadera/metal-eco1.jpg",
 		"imgs": [
 			{
@@ -2438,16 +2757,77 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Medida: 5mts x 6mts."
 					},
 					{
-						"texto": " "
+						"texto": "Plataforma de 0.75mt x 0.75mt x 1.50mt de altura."
 					},
 					{
-						"texto": " "
+						"texto": "Plataforma de 0.75mt x 0.75mt x 1mt de altura."
+					},
+					{
+						"texto": "Plataforma triangular de 0.80mt de altura."
+					},
+					{
+						"texto": "Plataforma triangular de 1.20mt de altura."
+					},
+					{
+						"texto": "Dos techos piramidales en fibra de vidrio."
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "Un tobogán de caracol abierto de 180º en fibra de vidrio."
+					},
+					{
+						"texto": "Un tobogán ondeado de 1.50mt de fibra de vidrio."
+					},
+					{
+						"texto": "Una escalera espiral de metal."
+					},
+					{
+						"texto": "Un trepado de sogas."
+					},
+					{
+						"texto": "Un pasamanos de metal."
+					},
+					{
+						"texto": "Un juego de tres en raya (michi)."
+					},
+					{
+						"texto": "Una escalera de pasos curvos."
+					},
+					{
+						"texto": "Un tubo de bombero."
+					}
+				]
+			},
+			{
+				"title": "Informe Técnico",
+				"text": [
+					{
+						"texto": "Plataformas confeccionadas en madera huayruro con parantes de 3” x 3” de grosor; los pisos de las plataformas están confeccionados en madera huayruro de 1” de grosor, por consideración al uso público, siendo duradero y resistente."
+					},
+					{
+						"texto": "Laqueado y barnizado en barniz marino transparente."
+					},
+					{
+						"texto": "Accesorios metálicos: Confeccionados en tubo negro estructural de diferentes medidas (¾”, 1”, 1¼“, 1½”, 2” x 2mm de espesor); pintado con anticorrosivo y esmalte al horno de diferentes colores."
+					},
+					{
+						"texto": "Desarmables y ensamblados con pernos zincados."
+					},
+					{
+						"texto": "Techos y tobogánes pintados con hielco de diferentes y laqueados en laca al horno transparente. "
+					},
+					{
+						"texto": "Plataformas debidamente ancladas a 0.40mt de profundidad en vaciado de cemento previamente protegido con brea."
 					}
 				]
 			}
@@ -2455,7 +2835,7 @@
 	},
 	{
 		"id": "MODULOMADERAMETALELPORVENIR",
-		"titulo": "MODULO MADERA METAL EL PORVENIR",
+		"titulo": "MODULO MP-24",
 		"assets": "assets/img/juegossksb/Modulosdemadera/el-porvenir1.jpg",
 		"imgs": [
 			{
@@ -2489,16 +2869,80 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Área: 10mts x 18mts"
+					}
+				]
+			},
+			{
+				"title": "Descripción",
+				"text": [
+					{
+						"texto": "Tobogán caracol abierto de fibra de vidrio."
 					},
 					{
-						"texto": " "
+						"texto": "Puente en arco fijo."
 					},
 					{
-						"texto": " "
+						"texto": "Túnel de fibra de vidrio."
+					},
+					{
+						"texto": "Plataforma de 1.50m de altura."
+					},
+					{
+						"texto": "Plataforma de 1.70m de altura."
+					},
+					{
+						"texto": "Escalera espiral de metal."
+					},
+					{
+						"texto": "Escalera culebra."
+					},
+					{
+						"texto": "Dos escaleras de pirata (sogas)."
+					},
+					{
+						"texto": "Rampa de palestras de fibra de vidrio"
+					},
+					{
+						"texto": "Juego tres en raya (michi)"
+					},
+					{
+						"texto": "Techo piramidal de fibra de vidrio."
+					},
+					{
+						"texto": "Pasamanos."
+					},
+					{
+						"texto": "Casita de madera."
+					},
+					{
+						"texto": "Deslizador aéreo (tirolina.)"
+					},
+					{
+						"texto": "Puente colgante."
+					}
+				]
+			},
+			{
+				"title": "Informe Técnico",
+				"text": [
+					{
+						"texto": "Plataformas confeccionadas en madera huairuro con parantes de 4” x  4”de grosor, los pisos del circuito confeccionados en madera huairuro de 1¼”de grosor, por consideración al uso público, debe ser duradero y resistente, totalmente laqueado y barnizado en barniz marino transparente."
+					},
+					{
+						"texto": "Accesorios metálicos: confeccionados en tubo negro estructural de diferentes medidas (2”, 1½”, 1¼”, 1”, ¾” x 2mm. De espesor), y varilla lisa redonda de ⅜” pintado con anticorrosivo y esmalte al horno de diferentes colores."
+					},
+					{
+						"texto": "Desarmables y ensamblados con pernos zincados."
+					},
+					{
+						"texto": "Techos y toboganes abiertos y tubulares de fibra de vidrio, pintados con hielco de diferentes colores y laqueados en laca al horno transparente."
+					},
+					{
+						"texto": "Plataformas debidamente ancladas a 0.40m de profundidad en vaciado de cemento previamente protegido con brea."
 					}
 				]
 			}
@@ -2506,7 +2950,7 @@
 	},
 	{
 		"id": "MODULOMADERAMETALLACATOLICA",
-		"titulo": "MODULO MADERA METAL LA CATOLICA",
+		"titulo": "MODULO MP-13",
 		"assets": "assets/img/juegossksb/Modulosdemadera/catolica1.jpg",
 		"imgs": [
 			{
@@ -2520,16 +2964,74 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Área: 6mts. X 7mts."
+					}
+				]
+			},
+			{
+				"title": "Descripción",
+				"text": [
+					{
+						"texto": "Tobogán caracol abierto de fibra de vidrio."
 					},
 					{
-						"texto": " "
+						"texto": "Puente en arco fijo."
 					},
 					{
-						"texto": " "
+						"texto": "Túnel de fibra de vidrio."
+					},
+					{
+						"texto": "Plataforma de 1.50m de altura."
+					},
+					{
+						"texto": "Plataforma de 1.70m de altura."
+					},
+					{
+						"texto": "Escalera espiral de metal."
+					},
+					{
+						"texto": "Escalera culebra."
+					},
+					{
+						"texto": "Tobogán ondeado de 1.50m de fibra de vidrio."
+					},
+					{
+						"texto": "Escalera de pirata (sogas)."
+					},
+					{
+						"texto": "Pasamanos curvo de metal"
+					},
+					{
+						"texto": "Juego tres en raya (michi)"
+					},
+					{
+						"texto": "Techo piramidal de fibra de vidrio"
+					},
+					{
+						"texto": "Columpio doble con asientos de fibra de vidrio."
+					}
+				]
+			},
+			{
+				"title": "Informe Técnico",
+				"text": [
+					{
+						"texto": "Plataformas confeccionadas en madera huayruro con parantes de 4” x 4”de grosor, los pisos del circuito confeccionados en madera huayruro de 1¼”de grosor, por consideración al uso público, debe ser duradero y resistente, totalmente laqueado y barnizado en barniz marino transparente."
+					},
+					{
+						"texto": "Accesorios metálicos: confeccionados en tubo negro estructural de diferentes medidas (2”, 1½”, 1¼”, 1”, ¾” x 2mm. De espesor), y varilla lisa redonda de ⅜” pintado con anticorrosivo y esmalte al horno de diferentes colores."
+					},
+					{
+						"texto": "Desarmables y ensamblados con pernos zincados."
+					},
+					{
+						"texto": "Techos y toboganes abiertos y tubulares de fibra de vidrio, pintados con hielco de diferentes colores y laqueados en laca al horno transparente."
+					},
+					{
+						"texto": "Plataformas debidamente ancladas a 0.40m de profundidad en vaciado de cemento previamente protegido con brea. "
 					}
 				]
 			}
@@ -2537,7 +3039,7 @@
 	},
 	{
 		"id": "MODULOMADERAMETALSANJUAN",
-		"titulo": "MODULO MADERA METAL SAN JUAN",
+		"titulo": "MODULO MP-11",
 		"assets": "assets/img/juegossksb/Modulosdemadera/san-juan1.jpg",
 		"imgs": [
 			{
@@ -2559,16 +3061,51 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descrpción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Medidas: 6mts x 5mts."
 					},
 					{
-						"texto": " "
+						"texto": "Dos Columnas con plataforma (0.60mt x 0.60mt)"
 					},
 					{
-						"texto": " "
+						"texto": "Dos techos de piramidales de fibra de vidrio."
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "Un túnel de nordex pintado en esmalte sintético. "
+					},
+					{
+						"texto": "Un puente en arco, piso de madera y pasamanos de madera. "
+					},
+					{
+						"texto": "Tobogán ondeado de fibra de vidrio de 1.50m de altura. "
+					},
+					{
+						"texto": "Un michi de madera (tres en raya). "
+					},
+					{
+						"texto": "Una escalera con pasos curvos de metal. "
+					},
+					{
+						"texto": "Una escalera espiral de metal pintado al horno. "
+					},
+					{
+						"texto": "Una escalera sube o baja culebra de metal. "
+					},
+					{
+						"texto": "Un pasamano culebra de metal. "
+					},
+					{
+						"texto": "Escalera de pirata (sogas)."
+					},
+					{
+						"texto": "Tobogán ondeado de 1.20m de fibra."
 					}
 				]
 			}
@@ -2576,7 +3113,7 @@
 	},
 	{
 		"id": "MODULOMADERAMETALSANMARTIN",
-		"titulo": "MODULO MADERA METAL SAN MARTIN",
+		"titulo": "MODULO MP-20",
 		"assets": "assets/img/juegossksb/Modulosdemadera/san-martin1.jpg",
 		"imgs": [
 			{
@@ -2594,16 +3131,68 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Medidas: 10.5mts x 5.5mts."
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "Tobogán ondeado mellizo de 1.20m de altura"
 					},
 					{
-						"texto": " "
+						"texto": "Dos rampas de madera."
 					},
 					{
-						"texto": " "
+						"texto": "Plataforma de 1.20m de altura."
+					},
+					{
+						"texto": "Plataforma de 1.00m de altura."
+					},
+					{
+						"texto": "Plataforma de 0.70m de altura."
+					},
+					{
+						"texto": "Escalera culebra de metal."
+					},
+					{
+						"texto": "Tobogán de 1.00m de fibra de vidrio."
+					},
+					{
+						"texto": "Escalera pirata de sogas."
+					},
+					{
+						"texto": "Juego tres en raya (michi)"
+					},
+					{
+						"texto": "Techo piramidal de fibra de vidrio"
+					},
+					{
+						"texto": "Columpio triple con calesa, asiento de madera y "
+					}
+				]
+			},
+			{
+				"title": "Informe Técnico",
+				"text": [
+					{
+						"texto": "Pisos de columnas confeccionadas en madera capirona o huayruro de 0.90m x 0.90m y parantes 3” x 3” de grosor, los pisos del circuito confeccionados en madera capirona o huayruro acabado en una pulgada de grosor, por consideración al uso público, debe ser duradero y resistente, totalmente laqueado y barnizado en barniz marino transparente."
+					},
+					{
+						"texto": "Accesorios metálicos: confeccionados en tubo negro estructural de diferentes medidas pintado con anticorrosivo y esmalte al horno de diferentes colores."
+					},
+					{
+						"texto": "Desarmables y ensamblados con pernos zincados."
+					},
+					{
+						"texto": "Techos y toboganes abiertos y tubulares de fibra de vidrio, pintados con hielco de diferentes colores y laqueados en laca al horno transparente."
+					},
+					{
+						"texto": " Plataformas debidamente ancladas a 0.40m de profundidad en vaciado de concreto."
 					}
 				]
 			}
@@ -2611,7 +3200,7 @@
 	},
 	{
 		"id": "MODULOMADREDEDIOS",
-		"titulo": "MODULO MADRE DE DIOS",
+		"titulo": "MODULO MP-27",
 		"assets": "assets/img/juegossksb/Modulosdemadera/madre-de-dios1.jpg",
 		"imgs": [
 			{
@@ -2637,16 +3226,86 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "ÁREA: 9mts x 7mts."
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "Cuatro columnas con plataforma (de 1.m x 1.m) "
 					},
 					{
-						"texto": " "
+						"texto": "Cuatro techos de fibra de vidrio tipo selva. "
 					},
 					{
-						"texto": " "
+						"texto": "Un túnel de fibra de vidrio pintado en esmalte al horno."
+					},
+					{
+						"texto": "Un puente colgante, piso de madera y pasamanos de Madera Huayruro."
+					},
+					{
+						"texto": "Un puente en arco, piso de madera y pasamanos de madera."
+					},
+					{
+						"texto": "Un tubo bombero de metal pintado en esmalte al horno."
+					},
+					{
+						"texto": "Una rampa de madera (con sogas tipo alpinista)."
+					},
+					{
+						"texto": "Tobogán tubular caracol de fibra de vidrio de 2.20m de altura. Con cabeza de serpiente."
+					},
+					{
+						"texto": "Tobogán caracol abierto de fibra de vidrio de 2.m de altura."
+					},
+					{
+						"texto": "Un michi de madera (tres en raya)."
+					},
+					{
+						"texto": "Dos escaleras con pasos de madera."
+					},
+					{
+						"texto": "Una escalera sube o baja culebra de metal."
+					},
+					{
+						"texto": "Un pasamano curvo de metal."
+					},
+					{
+						"texto": "Escalera de pirata (sogas)."
+					},
+					{
+						"texto": "Tobogán curvo de Fibra de vidrio."
+					},
+					{
+						"texto": "Puente de escalones."
+					}
+				]
+			},
+			{
+				"title": "Informe Técnico",
+				"text": [
+					{
+						"texto": "Las columnas con plataforma están confeccionadas en madera huayruro y parantes de 4” x 4” de grosor, los pisos del circuito confeccionados en madera huayruro acabado en una pulgada de grosor, por consideración al uso público debe ser duradero y resistente, totalmente laqueado y barnizado en barniz marino transparente."
+					},
+					{
+						"texto": "Accesorios metálicos: confeccionados en tubo negro estructural de diferentes medidas (1½”, 1¼”, ¾”), y varilla lisa de ⅜”. Pintado en esmalte al horno de diferentes colores."
+					},
+					{
+						"texto": "Desarmables y ensamblados con pernos zincados."
+					},
+					{
+						"texto": "Toboganes de fibra de vidrio pintado con hielco de color amarillo, rojo, azul y verde laqueado en laca al horno transparente. "
+					},
+					{
+						"texto": "Plataformas decoradas con hojas de enredadera y otros artificiales, debidamente ancladas al piso con baseado de concreto armado."
+					},
+					{
+						"texto": "Aplicación de undercoating en las bases (brea)"
 					}
 				]
 			}
@@ -2654,7 +3313,7 @@
 	},
 	{
 		"id": "MODULOMAGDALENA",
-		"titulo": "MODULO MAGDALENA",
+		"titulo": "MODULO MP-07",
 		"assets": "assets/img/juegossksb/Modulosdemadera/magdalena1.jpg",
 		"imgs": [
 			{
@@ -2672,16 +3331,68 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Área: 5mts. x 5mts."
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "Dos plataformas de 0.60m. x 0.60m. x 1m. de altura."
 					},
 					{
-						"texto": " "
+						"texto": "Una plataforma semicircular de 1.20m. de altura."
 					},
 					{
-						"texto": " "
+						"texto": "Un tobogán 1m."
+					},
+					{
+						"texto": "Un tobogán 1.20 m."
+					},
+					{
+						"texto": "Una escalera de madera."
+					},
+					{
+						"texto": "Un puente fijo (recto)."
+					},
+					{
+						"texto": "Un puente colgante."
+					},
+					{
+						"texto": "Un trepador de sogas."
+					},
+					{
+						"texto": "Una escalera de tubo cuadrado de metal."
+					},
+					{
+						"texto": "Una escalera culebra metal."
+					},
+					{
+						"texto": "Un juego michi."
+					},
+					{
+						"texto": "Un juego escalador."
+					}
+				]
+			},
+			{
+				"title": "Informe Técnico",
+				"text": [
+					{
+						"texto": "Plataformas confeccionadas en madera huayruro con parantes de madera y metal, los pisos del circuito confeccionados en madera huayruro acabado en una pulgada de grosor, por consideración al uso público, debe ser duradero y resistente, totalmente laqueado y acabado con barniz marino transparente."
+					},
+					{
+						"texto": "Accesorios metálicos: confeccionados en tubo negro estructural de diferentes medidas (3/4”, 1” y 1 ¼”) pintado con anticorrosivo y esmalte al horno de diferentes colores."
+					},
+					{
+						"texto": "Toboganes abiertos de fibra de vidrio, pintados con hielco de diferentes colores y laqueados con laca al horno transparente."
+					},
+					{
+						"texto": "Plataformas debidamente ancladas a 0.30m de profundidad en baseado de cemento previamente protegido con brea."
 					}
 				]
 			}
@@ -2689,7 +3400,7 @@
 	},
 	{
 		"id": "MODULOMOCHE",
-		"titulo": "MODULO MOCHE",
+		"titulo": "MODULO MP-32",
 		"assets": "assets/img/juegossksb/Modulosdemadera/moche1.jpg",
 		"imgs": [
 			{
@@ -2723,16 +3434,127 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Área: 10m x 8m."
 					},
 					{
-						"texto": " "
+						"texto": "Confeccionado en madera huairuro."
 					},
 					{
-						"texto": " "
+						"texto": "Cant. de Torres: 5:"
+					}
+				]
+			},
+			{
+				"title": "Torre 01",
+				"text": [
+					{
+						"texto": "Estructura confeccionada en tubo negro estructural de 1½” x 2mm; "
+					},
+					{
+						"texto": "Base cilíndrica (0.80m) de concreto armado."
+					},
+					{
+						"texto": "Plataforma de metal con piso de madera de 1.50m de altura."
+					},
+					{
+						"texto": "Techo piramidal de fibra de vidrio pintado al horno."
+					},
+					{
+						"texto": "JUEGOS QUE INCLUYEN: <br> &emsp;&emsp; Un tubo de bombero. <br> &emsp;&emsp; Una cúpula. <br> &emsp;&emsp; Un michi. <br> &emsp;&emsp; Una escalera.  <br> &emsp;&emsp; Un tobogán tubular recto. <br> &emsp;&emsp; Un puente colgante. <br> &emsp;&emsp; Un deslizador aéreo."
+					}
+				]
+			},
+			{
+				"title": "Torre 02",
+				"text": [
+					{
+						"texto": "Estructura confeccionada en tubo negro estructural de 1½” x 2mm."
+					},
+					{
+						"texto": "Base cilíndrica (0.80m) de concreto armado."
+					},
+					{
+						"texto": "Plataforma de metal con piso de madera de 1.50m de altura."
+					},
+					{
+						"texto": "Techo piramidal de fibra de vidrio pintado al horno."
+					},
+					{
+						"texto": "JUEGOS QUE INCLUYEN: <br> &emsp;&emsp; Una cúpula. <br> &emsp;&emsp; Una escalera espiral. <br> &emsp;&emsp; Un tobogán ondeado abierto. <br> &emsp;&emsp; Un tejido de araña. <br> &emsp;&emsp; Un puente en arco."
+					}
+				]
+			},
+			{
+				"title": "Torre 03",
+				"text": [
+					{
+						"texto": "Estructura confeccionada en tubo negro estructural de 1½” x 2mm; con base cilíndrica (0.80m) de concreto armado y plataforma de metal con piso de madera de 1.50m de altura con techo piramidal de fibra de vidrio pintado al horno."
+					},
+					{
+						"texto": "JUEGOS QUE INCLUYEN: <br>&emsp;&emsp; Una escalera de pasos cuadrados. <br>&emsp;&emsp; Un puente de desniveles. <br>&emsp;&emsp; Una cúpula. <br>&emsp;&emsp; Una escalera de culebra. <br>&emsp;&emsp; Un tobogán caracol abierto."
+					}
+				]
+			},
+			{
+				"title": "Torre 04",
+				"text": [
+					{
+						"texto": "Estructura confeccionada en tubo negro estructural de 1½” x 2mm."
+					},
+					{
+						"texto": "Base cilíndrica (0.80m) de concreto armado."
+					},
+					{
+						"texto": "Plataforma de metal con piso de madera de 1.50m de altura."
+					},
+					{
+						"texto": "Techo piramidal de fibra de vidrio pintado al horno."
+					},
+					{
+						"texto": "JUEGOS QUE INCLUYEN: <br> &emsp;&emsp; Un michi. <br> &emsp;&emsp; Un túnel aéreo con cubo. <br> &emsp;&emsp; Un pasamanos de triángulos. <br> &emsp;&emsp; Una escalera. <br> &emsp;&emsp; Un tobogán caracol tubular."
+					}
+				]
+			},
+			{
+				"title": "Torre 05",
+				"text": [
+					{
+						"texto": "Estructura confeccionada en tubo negro estructural de 1½” x 2mm."
+					},
+					{
+						"texto": "Base cilíndrica (0.80m) de concreto armado."
+					},
+					{
+						"texto": "Plataforma de metal con piso de madera de 1.50m de altura."
+					},
+					{
+						"texto": "Techo piramidal de fibra de vidrio pintado al horno."
+					},
+					{
+						"texto": "JUEGOS QUE INCLUYEN: <br> &emsp;&emsp; Un michi. <br> &emsp;&emsp; Una cúpula. <br> &emsp;&emsp; Una escalera. <br> &emsp;&emsp; Un colgante. <br> &emsp;&emsp; Un tobogán curvo abierto. <br> &emsp;&emsp; Un pasamanos zigzag."
+					}
+				]
+			},
+			{
+				"title": "Informe Técnico",
+				"text": [
+					{
+						"texto": "Las torres y plataformas están confeccionadas en tubo negro estructural de 1½” x 2mm, los pisos del circuito confeccionados en madera huayruro acabado en una pulgada de espesor, por consideración al uso público debe ser duradero y resistente, totalmente laqueado y barnizado en barniz marino transparente."
+					},
+					{
+						"texto": "Accesorios metálicos: confeccionados en tubo negro estructural de diferentes medidas (1½”, 1¼”, ¾”), y varilla lisa de ⅜”. Pintado en esmalte al horno de diferentes colores."
+					},
+					{
+						"texto": "Desarmables y ensamblados con pernos zincados."
+					},
+					{
+						"texto": "Toboganes de fibra de vidrio pintado con hielco de color amarillo, rojo, azul y verde, laqueado en laca al horno transparente."
+					},
+					{
+						"texto": "Plataformas debidamente ancladas al piso con concreto armado."
 					}
 				]
 			}
@@ -2740,7 +3562,7 @@
 	},
 	{
 		"id": "MODULOMONTERRICO",
-		"titulo": "MODULO MONTERRICO",
+		"titulo": "MODULO MI-14",
 		"assets": "assets/img/juegossksb/Modulosdemadera/monterrico1.jpg",
 		"imgs": [
 			{
@@ -2762,16 +3584,74 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "MEDIDA: 6mts. x 7mts."
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "Tobogán caracol abierto de fibra de vidrio."
 					},
 					{
-						"texto": " "
+						"texto": "Puente en arco fijo."
 					},
 					{
-						"texto": " "
+						"texto": "Túnel de fibra de vidrio."
+					},
+					{
+						"texto": "Plataforma de 1.50m de altura."
+					},
+					{
+						"texto": "Plataforma de 1.70m de altura."
+					},
+					{
+						"texto": "Escalera espiral de metal."
+					},
+					{
+						"texto": "Escalera culebra."
+					},
+					{
+						"texto": "Tobogán ondeado de 1.50m de fibra de vidrio."
+					},
+					{
+						"texto": "Escalera de pirata (sogas)."
+					},
+					{
+						"texto": "Pasamanos tipo culebra."
+					},
+					{
+						"texto": "Juego tres en raya (michi)."
+					},
+					{
+						"texto": "Techo piramidal de fibra de vidrio."
+					},
+					{
+						"texto": "Columpio doble con asientos de fibra de vidrio."
+					}
+				]
+			},
+			{
+				"title": "Informe Técnico",
+				"text": [
+					{
+						"texto": "Plataformas confeccionadas en madera huayruro con parantes de 4” x 4”de grosor, los pisos del circuito confeccionados en madera huayruro de 1¼”de grosor, por consideración al uso público, debe ser duradero y resistente, totalmente laqueado y barnizado en barniz marino transparente."
+					},
+					{
+						"texto": "Accesorios metálicos: confeccionados en tubo negro estructural de diferentes medidas (2”, 1½”, 1¼”, 1”, ¾” x 2mm. De espesor), y varilla lisa redonda de ⅜” pintado con anticorrosivo y esmalte al horno de diferentes colores."
+					},
+					{
+						"texto": "Desarmables y ensamblados con pernos zincados."
+					},
+					{
+						"texto": "Techos y toboganes abiertos y tubulares de fibra de vidrio, pintados con hielco de diferentes colores y laqueados en laca al horno transparente."
+					},
+					{
+						"texto": "Plataformas debidamente ancladas a 0.40m de profundidad en vaciado de cemento previamente protegido con brea."
 					}
 				]
 			}
@@ -2779,7 +3659,7 @@
 	},
 	{
 		"id": "MODULOMULTIJUEGOCIUDADNUEVADE6COLUMNAS",
-		"titulo": "MODULO MULTIJUEGO CIUDAD NUEVA DE 6 COLUMNAS",
+		"titulo": "MODULO MP-34",
 		"assets": "assets/img/juegossksb/Modulosdemadera/6columnas1.jpg",
 		"imgs": [
 			{
@@ -2817,16 +3697,79 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Área: 15mts x 12mts."
 					},
 					{
-						"texto": " "
+						"texto": "Seis columnas con techos piramidales de fibra de vidrio de 1mt² en colores diferentes"
+					}
+				]
+			},
+			{
+				"title": "Columna 01",
+				"text": [
+					{
+						"texto": "Columna de madera con piso de 1mt de altura y 1mt² de área y con parantes de 2.40mt de altura."
 					},
 					{
-						"texto": " "
+						"texto": "Juegos que incluyen <br>&emsp;&emsp; 01 escalera de 1mt con pasamano de madera <br>&emsp;&emsp; 01 tobogán de fibra de vidrio de 1mt de altura en dos colores <br>&emsp;&emsp; 01 rampa de madera de 1mt de altura con sogas <br>&emsp;&emsp; 01 puente colgante."
+					}
+				]
+			},
+			{
+				"title": "Columna 02",
+				"text": [
+					{
+						"texto": "Columna de madera con piso de 1.20mt de altura y 1mt² con parantes de 2.60mts de altura con techo de fibra de vidrio."
+					},
+					{
+						"texto": "Juegos que incluyen: <br> &emsp;&emsp; 01 Puente en forma de arco con piso de madera y pasamanos de metal <br> &emsp;&emsp; 01 tobogán tubular de fibra de vidrio de 0.72mt de diámetro y de 1.50mt de altura."
+					}
+				]
+			},
+			{
+				"title": "Columna 03",
+				"text": [
+					{
+						"texto": "Columna de madera con piso de 1.50mt de altura y 1mt² de área con parantes de 3.20mt de altura."
+					},
+					{
+						"texto": "Juegos que incluyen: <br> &emsp;&emsp; 01 rampa de madera de 1.50mt de altura con sogas. <br> &emsp;&emsp; 01 tobogán de fibra de vidrio de 1.50mt de altura en dos colores. <br> &emsp;&emsp; 01 escalera con pasamanos de madera de 1.50mt. de altura. <br> &emsp;&emsp; 01 pasamanos de metal circular 2mt. de diámetro."
+					}
+				]
+			},
+			{
+				"title": "Columna 04",
+				"text": [
+					{
+						"texto": "Columna con piso de madera de 1.50mt de altura y 1mt² de área con parantes de 3.20mt de altura."
+					},
+					{
+						"texto": "Juegos que incluyen: <br> &emsp;&emsp; 01 tobogán de fibra de vidrio de 1.50mt de altura en dos colores. <br> &emsp;&emsp; 01 escalera espiral. <br> &emsp;&emsp; 01 túnel aéreo de fibra de vidrio formado por un cubo de 1mt y 2 cilindro de 1mt largo cada uno."
+					}
+				]
+			},
+			{
+				"title": "Columna 05",
+				"text": [
+					{
+						"texto": "Columna hexagonal con piso de madera de 1.80mt de altura y parantes de 3.60mts de altura."
+					},
+					{
+						"texto": "Juegos que incluyen: <br> &emsp;&emsp; 01 tejido de sogas. <br> &emsp;&emsp; 01 tobogán de fibra de vidrio modelo caracol de 0.72mt de diámetro y de 2mts de altura modelo serpiente. <br> &emsp;&emsp; 01 tubo de bomberos. <br> &emsp;&emsp; 01 escalera culebra de metal. <br> &emsp;&emsp; 01 piso de rampa de madera con pasamanos de metal. <br> &emsp;&emsp; 01 puente colgante con piso de madera y pasamanos de metal. <br> &emsp;&emsp; 01 pasamanos de metal ondeado. <br> &emsp;&emsp; 01 tobogán de fibra de vidrio de 1.50mt de altura. <br> &emsp;&emsp; 01 rampa de madera con sogas de 1.50mt de altura. <br> &emsp;&emsp; 01 escalera con pasamanos de madera de 1.50mt de altura."
+					}
+				]
+			},
+			{
+				"title": "Columna 06",
+				"text": [
+					{
+						"texto": "Columna con piso de madera de 1.50mt de altura de color entero."
+					},
+					{
+						"texto": "Juegos que incluyen: <br> &emsp;&emsp; 01 deslizador de metal aéreo de 3mts. de largo. <br> &emsp;&emsp; 01 escalera de piratas. (sogas) <br> &emsp;&emsp; 01 columpio triple mixto (Balancín, asiento, calesa). <br> &emsp;&emsp; 02 juegos de tres en raya (michi)."
 					}
 				]
 			}
@@ -2834,7 +3777,7 @@
 	},
 	{
 		"id": "MODULOMULTIJUEGOPOSEIDONDE6COLUMNAS",
-		"titulo": "MODULO MULTIJUEGO POSEIDON DE 6 COLUMNAS",
+		"titulo": "MODULO MP-33",
 		"assets": "assets/img/juegossksb/Modulosdemadera/poseidon1.jpg",
 		"imgs": [
 			{
@@ -2860,16 +3803,96 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Área: 15mts x 12mts."
 					},
 					{
-						"texto": " "
+						"texto": "Seis torres con techo piramidales de fibra de vidrio 1mt² en diferentes colores"
+					}
+				]
+			},
+			{
+				"title": "Torre 01",
+				"text": [
+					{
+						"texto": "Torre con piso de madera de 1m de altura y 1mt² de área con parantes de 2.40mt de altura."
 					},
 					{
-						"texto": " "
+						"texto": "Juegos que incluyen: <br> &emsp;&emsp; 01 escalera con pasamano de madera y 1mt de altura. <br> &emsp;&emsp; 01 tobogán de fibra de vidrio de 1mt de altura en dos colores. <br> &emsp;&emsp; 01 rampa de madera de 1mt de altura con sogas. <br> &emsp;&emsp; 01 panel con cúpula de acrílico. <br> &emsp;&emsp; 01 puente colgante con piso de madera y pasamanos de metal."
+					}
+				]
+			},
+			{
+				"title": "Torre 02",
+				"text": [
+					{
+						"texto": "Torre de madera con piso de 1.20mt de altura y 1mt² de área con parantes de 2.60mt de altura."
+					},
+					{
+						"texto": "Juegos que incluyen: <br> &emsp;&emsp; 01 puente en arco con piso de madera y pasamanos de metal. <br> &emsp;&emsp; 01 tobogán tubular de fibra de vidrio 0.65mt de diámetro y 1.50mt de altura. <br> &emsp;&emsp; 01 rampa de madera de 1.50mt de altura con soga."
+					}
+				]
+			},
+			{
+				"title": "Torre 03",
+				"text": [
+					{
+						"texto": "Torre con piso de madera de 1.50mt de altura y 1mt² de área, con parante s de 3.20mts de altura."
+					},
+					{
+						"texto": "Juegos que incluyen: <br> &emsp;&emsp; 01 panel con cúpula de acrílica. <br> &emsp;&emsp; 01 tobogán de fibra de vidrio de 1.50mt. de altura en dos colores. <br> &emsp;&emsp; 01 escalera con pasamano de madera de 1.50mt. de altura. <br> &emsp;&emsp; 01 pasamanos de metal circular de 2mts de diámetro."
+					}
+				]
+			},
+			{
+				"title": "Torre 04",
+				"text": [
+					{
+						"texto": "Torre con piso de madera de 1.50mt de altura y 1mt² de área con parantes de 3.20mts. de altura. <br> &emsp;&emsp; 01 tobogán de fibra de vidrio de 1.50mt. de altura en dos colores. <br> &emsp;&emsp; 01 escalera de metal modelo espiral. <br> &emsp;&emsp; 01 túnel aéreo de fibra de vidrio formado por un cubo de 1mt. y dos cilindros de 1mt. de largo cada uno."
+					}
+				]
+			},
+			{
+				"title": "Torre 05",
+				"text": [
+					{
+						"texto": "Torre hexagonal con piso de madera de 1.80mt. de altura y parantes de 3.60mt de altura."
+					},
+					{
+						"texto": "Juegos que incluyen <br> &emsp;&emsp; 01 tejido de sogas <br> &emsp;&emsp; 01 tobogán de fibra de vidrio modelo caracol de 0.65mt. de diámetro y 2mts de altura <br> &emsp;&emsp; 01 tubo de bomberos <br> &emsp;&emsp; 01 escalera culebra de metal <br> &emsp;&emsp; 01 piso de rampa de madera con pasamanos de metal <br> &emsp;&emsp; 01 puente colgante con piso de madera y pasamanos de metal <br> &emsp;&emsp; 01 pasamanos de metal ondeado <br> &emsp;&emsp; 01 tobogán de fibra de vidrio de 1.50mt. de altura en dos colores <br> &emsp;&emsp; 01 escalera con pasamanos de madera de 1.50mt de altura <br> &emsp;&emsp; 01 rampa de madera con sogas de 1.50mt. de altura."
+					}
+				]
+			},
+			{
+				"title": "Torre 06",
+				"text": [
+					{
+						"texto": "Torre con piso de madera de 1.50mt de altura y parantes de 3.20 de altura."
+					},
+					{
+						"texto": "Juegos que incluyen: <br> &emsp;&emsp; 01 tobogán caracol abierto de 1.50mt. de altura de color entero. <br> &emsp;&emsp; 01 deslizador aéreo de metal de 3mts. de largo. <br> &emsp;&emsp; 01 escalera de piratas. (trepado de sogas) <br> &emsp;&emsp; 01 columpio triple mixto (asiento-balancín-calesa). <br> &emsp;&emsp; 02 juegos de tres en raya (michi)."
+					}
+				]
+			},
+			{
+				"title": "Informe Técnico",
+				"text": [
+					{
+						"texto": "Las torres con plataforma están confeccionadas en madera huairuro y parantes de 4” x 4” de grosor, los pisos del circuito confeccionados en madera huairuro acabado en una pulgada de grosor, por consideración al uso público debe ser duradero y resistente, totalmente laqueado y barnizado en barniz marino transparente."
+					},
+					{
+						"texto": "Accesorios metálicos: confeccionados en tubo negro estructural de diferentes medidas (1½”, 1¼”, ¾”), y varilla lisa de ⅜” pintado en esmalte al horno de diferentes colores."
+					},
+					{
+						"texto": "Desarmables y ensamblados con pernos zincados."
+					},
+					{
+						"texto": "Toboganes de fibra de vidrio pintado con hielco de color amarillo, rojo, azul y verde laqueado en laca al horno transparente."
+					},
+					{
+						"texto": "Plataformas debidamente ancladas a 0.40mt. de profundidad en vaciado de cemento previamente protegido con brea."
 					}
 				]
 			}
@@ -2877,7 +3900,7 @@
 	},
 	{
 		"id": "MODULOSANTACLARADETRESCOLUMNAS",
-		"titulo": "MODULO SANTA CLARA DE TRES COLUMNAS",
+		"titulo": "MODULO MP-19",
 		"assets": "assets/img/juegossksb/Modulosdemadera/santa-clara1.jpg",
 		"imgs": [
 			{
@@ -2899,16 +3922,77 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Medidas: 7.50mts x 8mts x 3.20mts"
 					},
 					{
-						"texto": " "
+						"texto": "Tres columnas con plataforma de 1mt x 1mt."
 					},
 					{
-						"texto": " "
+						"texto": "Tres techos de fibra de vidrio piramidal."
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "02 puentes fijos de madera con barandas."
+					},
+					{
+						"texto": "01 columpio triple con asientos de madera y soga."
+					},
+					{
+						"texto": "01 rampa de palestras."
+					},
+					{
+						"texto": "01 pasamano de soga."
+					},
+					{
+						"texto": "01 tobogán de 1.20mt de altura en fibra de vidrio."
+					},
+					{
+						"texto": "01 tobogán de 1.50mt de altura en fibra de vidrio."
+					},
+					{
+						"texto": "01 rampa alpinista."
+					},
+					{
+						"texto": "01 trepado de sogas."
+					},
+					{
+						"texto": "01 escalera de madera."
+					}
+				]
+			},
+			{
+				"title": "Informe Técnico",
+				"text": [
+					{
+						"texto": "Las columnas con plataformas están confeccionadas en madera huairuro con parantes de 4” x 4” de grosor."
+					},
+					{
+						"texto": "Los pisos del circuito confeccionados en madera huairuro acabados en 1” de grosor, por consideración al uso público debe ser duradero y resistente."
+					},
+					{
+						"texto": "Toda la madera está totalmente laqueado y barnizado en barniz marino transparente."
+					},
+					{
+						"texto": "Accesorios pintados en esmalte al horno de diferentes colores."
+					},
+					{
+						"texto": "Desarmados y ensamblados con pernos zincados."
+					},
+					{
+						"texto": "Toboganes de fibra de vidrio con hielco de color amarillo, rojo, azul y verde laqueado en laca al horno transparente."
+					},
+					{
+						"texto": "Parantes anclados al piso con base de concreto armado."
+					},
+					{
+						"texto": "Aplicación de undercoating en las bases (brea)."
 					}
 				]
 			}
@@ -2916,7 +4000,7 @@
 	},
 	{
 		"id": "MODULOSANTAEULALIA",
-		"titulo": "MODULO SANTA EULALIA",
+		"titulo": "MODULO MP-15",
 		"assets": "assets/img/juegossksb/Modulosdemadera/santa-eulalia1.jpg",
 		"imgs": [
 			{
@@ -2938,16 +4022,74 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Decripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "ÁREA: 6mts. x 7mts."
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "Tobogán caracol abierto de fibra de vidrio."
 					},
 					{
-						"texto": " "
+						"texto": "Puente en arco fijo."
 					},
 					{
-						"texto": " "
+						"texto": "Túnel de fibra de vidrio."
+					},
+					{
+						"texto": "Plataforma de 1.50m de altura."
+					},
+					{
+						"texto": "Plataforma de 1.70m de altura."
+					},
+					{
+						"texto": "Escalera espiral de metal."
+					},
+					{
+						"texto": "Escalera culebra."
+					},
+					{
+						"texto": "Tobogán mellizo ondeado de 1.50m de fibra de vidrio."
+					},
+					{
+						"texto": "Escalera de pirata (sogas)."
+					},
+					{
+						"texto": "Pasamanos curvo de metal."
+					},
+					{
+						"texto": "Juego tres en raya (michi)."
+					},
+					{
+						"texto": "Techo piramidal de fibra de vidrio."
+					},
+					{
+						"texto": "Columpio triple (calesa, asiento y balancín)."
+					}
+				]
+			},
+			{
+				"title": "Decripción",
+				"text": [
+					{
+						"texto": "Plataformas confeccionadas en madera huayruro con parantes de 4” x 4”de grosor, los pisos del circuito confeccionados en madera huayruro de 1¼”de grosor, por consideración al uso público, debe ser duradero y resistente, totalmente laqueado y barnizado en barniz marino transparente."
+					},
+					{
+						"texto": "Accesorios metálicos: confeccionados en tubo negro estructural de diferentes medidas (2”, 1½”, 1¼”, 1”, ¾” x 2mm. De espesor), y varilla lisa redonda de ⅜” pintado con anticorrosivo y esmalte al horno de diferentes colores."
+					},
+					{
+						"texto": "Desarmables y ensamblados con pernos zincados."
+					},
+					{
+						"texto": "Techos y toboganes abiertos y tubulares de fibra de vidrio, pintados con hielco de diferentes colores y laqueados en laca al horno transparente."
+					},
+					{
+						"texto": "Plataformas debidamente ancladas a 0.40m de profundidad en vaciado de cemento previamente protegido con brea. "
 					}
 				]
 			}
@@ -2955,7 +4097,7 @@
 	},
 	{
 		"id": "MODULOTACNADE03COLUMNAS",
-		"titulo": "MODULO TACNA DE 03 COLUMNAS",
+		"titulo": "MODULO MP-17",
 		"assets": "assets/img/juegossksb/Modulosdemadera/tacna-3columnas.jpg",
 		"imgs": [
 			{
@@ -2965,16 +4107,62 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Área: 8mts x 4mts."
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "Un tobogán modelo caracol de 1.50 de altura de fibra de vidrio.                                                                                         "
 					},
 					{
-						"texto": " "
+						"texto": "Un puente colgante"
 					},
 					{
-						"texto": " "
+						"texto": "Una escalera de tubo cuadrado "
+					},
+					{
+						"texto": "Un trepado de sogas"
+					},
+					{
+						"texto": "Un columpio triple (1 calesa, 1 balancín, 1 asiento)"
+					},
+					{
+						"texto": "Un michi"
+					},
+					{
+						"texto": "Un tubo de bombero"
+					},
+					{
+						"texto": "Una bodeguita"
+					},
+					{
+						"texto": "Una escalera de tubos cuadrados"
+					}
+				]
+			},
+			{
+				"title": "Informe Técnico",
+				"text": [
+					{
+						"texto": "Las columnas con plataforma esta confeccionada en medra huayruro y parantes de 4” x 4” de grosor, los pisos del circuito confeccionados en madera huayruro acabado en una pulgada de grosor, por consideración al uso público debe ser duradero y resistente, totalmente laqueado y barnizado en barniz marino transparente."
+					},
+					{
+						"texto": "Accesorios metálicos confeccionados en tubo negro estructural de diferentes mediadas (1 ½”, 1 ¼, ¾”), y varilla lisa de 3/8”. Pintado en esmalte al horno de diferentes colores."
+					},
+					{
+						"texto": "Desarmados y ensamblados con pernos zincados."
+					},
+					{
+						"texto": "Toboganes de fibra de vidrio con hielco de color amarillo, rojo, azul y verde laqueado en laca al horno transparente, ancladas al piso con base de concreto armado."
+					},
+					{
+						"texto": "Aplicación de undercoating en las bases (brea)."
 					}
 				]
 			}
@@ -2982,7 +4170,7 @@
 	},
 	{
 		"id": "MODULOTACNADE04COLUMNAS",
-		"titulo": "MODULO TACNA DE 04 COLUMNAS",
+		"titulo": "MODULO MP-22",
 		"assets": "assets/img/juegossksb/Modulosdemadera/tacna-4-columnas1.jpg",
 		"imgs": [
 			{
@@ -2996,16 +4184,74 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Área: 8mts x 7mts."
 					},
 					{
-						"texto": " "
+						"texto": "04 torres con techo de fibra de vidrio"
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "01 tobogán de 1.20mt de altura."
 					},
 					{
-						"texto": " "
+						"texto": "01 tobogán de 1.50mt de altura."
+					},
+					{
+						"texto": "01 puente en arco."
+					},
+					{
+						"texto": "01 puente colgante."
+					},
+					{
+						"texto": "01 tobogán caracol abierto de fibra de vidrio de 1.50mt de altura."
+					},
+					{
+						"texto": "01 trepado de sogas."
+					},
+					{
+						"texto": "01 escalera de pasos cuadrados."
+					},
+					{
+						"texto": "01 escalera de madera."
+					},
+					{
+						"texto": "01 puente rampa."
+					},
+					{
+						"texto": "01 juego de tres en raya (michi)."
+					},
+					{
+						"texto": "01 túnel de fibra de vidrio de 2mts de largo."
+					}
+				]
+			},
+			{
+				"title": "Informe Técnico",
+				"text": [
+					{
+						"texto": "Las columnas con plataforma están confeccionadas en madera huairuro y parantes de 3” x 3” de grosor, los pisos del circuito confeccionados en madera huairuro acabado en una pulgada de grosor, por consideración al uso público debe ser duradero y resistente, totalmente laqueado y barnizado en barniz marino transparente."
+					},
+					{
+						"texto": "Accesorios metálicos: confeccionados en tubo negro estructural de diferentes medidas (1 ½”, 1 ¼”, ¾), y varilla lisa de 3/8”. Pintado en esmalte a horno de diferentes colores."
+					},
+					{
+						"texto": "Desarmables y ensamblados con pernos zincados."
+					},
+					{
+						"texto": "Toboganes de fibra de vidrio pintado con hielco de color amarillo, rojo, azul y verde laqueado en laca al horno transparente."
+					},
+					{
+						"texto": "Anclados al piso 0.40m de profundidad con base de concreto armado."
+					},
+					{
+						"texto": "Aplicación de undercoating en las bases (brea)."
 					}
 				]
 			}
@@ -3013,7 +4259,7 @@
 	},
 	{
 		"id": "MODULOTRENBABY-LOSALAMITOS",
-		"titulo": "MODULO TREN BABY - LOS ALAMITOS",
+		"titulo": "MODULO MI-04",
 		"assets": "assets/img/juegossksb/Modulosdemadera/los-alamitos1.jpg",
 		"imgs": [
 			{
@@ -3035,16 +4281,50 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Área: 4.50m x 3m x 2.80m"
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "Una columna con plataforma (de 1.0mt x1.0mt) madera huairuro"
 					},
 					{
-						"texto": " "
+						"texto": "Un techo de madera modelo arco"
 					},
 					{
-						"texto": " "
+						"texto": "Una plataforma sin techo"
+					},
+					{
+						"texto": "Una escalera con pasos y pasamanos de madera."
+					},
+					{
+						"texto": "Un tobogán mellizo de fibra de vidrio de 1.00mt de altura."
+					},
+					{
+						"texto": "Un túnel de madera "
+					},
+					{
+						"texto": "Ocho ruedas de fibra de vidrio contra placado."
+					},
+					{
+						"texto": "Una escalera de metal modelo curvo."
+					}
+				]
+			},
+			{
+				"title": "Informe Técnico",
+				"text": [
+					{
+						"texto": "Pisos de columnas confeccionadas en madera huayruro y parantes 3” x 3” de grosor, los pisos de circuito confeccionados en madera huairuro acabado en una pulgada de grosor, por consideración al uso público, debe ser duradero y resistente, totalmente laqueado y barnizado en barniz marino transparente."
+					},
+					{
+						"texto": "Plataformas debidamente ancladas a 0.30m de profundidad en baseado de cemento previamente protegido con brea."
 					}
 				]
 			}
@@ -3052,7 +4332,7 @@
 	},
 	{
 		"id": "MODULOVILLASOL",
-		"titulo": "MODULO VILLASOL",
+		"titulo": "MODULO MI-12",
 		"assets": "assets/img/juegossksb/Modulosdemadera/villasol1.jpg",
 		"imgs": [
 			{
@@ -3078,16 +4358,62 @@
 		],
 		"info": [
 			{
-				"title": " ",
+				"title": "Descripción",
 				"text": [
 					{
-						"texto": " "
+						"texto": "Medidas: 7mts x 4mts aprox."
 					},
 					{
-						"texto": " "
+						"texto": "Tres columnas con plataforma de 0.70mt x 0.70mt"
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "01 puente colgante."
 					},
 					{
-						"texto": " "
+						"texto": "01 puente con forma de casita."
+					},
+					{
+						"texto": "01 rampa de sogas"
+					},
+					{
+						"texto": "01 escalera con pasos de madera."
+					},
+					{
+						"texto": "01 tobogán de fibra de vidrio de 1mt de altura."
+					},
+					{
+						"texto": "01 columpio de tres asientos baby."
+					}
+				]
+			},
+			{
+				"title": "Informe Técnico",
+				"text": [
+					{
+						"texto": "Las columnas con plataforma están confeccionadas en madera huairuro y parantes de 3” x 3” de grosor."
+					},
+					{
+						"texto": "Los pisos del circuito confeccionados en madera huairuro acabado en 1” de grosor, por consideración al uso público debe ser duradero y resistente."
+					},
+					{
+						"texto": "La madera está totalmente laqueado y barnizado en barniz marino transparente."
+					},
+					{
+						"texto": "Accesorios metálicos confeccionados en tubo negro estructural de diferentes mediadas (1 ½”, 1 ¼, ¾”), y varilla lisa de 3/8”."
+					},
+					{
+						"texto": "Pintado en esmalte al horno de diferentes colores."
+					},
+					{
+						"texto": "Desarmados y ensamblados con pernos zincados."
+					},
+					{
+						"texto": "Aplicación de undercoating en las bases (brea)."
 					}
 				]
 			}
@@ -3095,7 +4421,7 @@
 	},
 	{
 		"id": "MÓDULODEUNACOLUMNAMODELOMARTE",
-		"titulo": "MÓDULO DE UNA COLUMNA MODELO MARTE",
+		"titulo": "MODULO MI-02",
 		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-marte1.jpg",
 		"imgs": [
 			{
