@@ -3561,6 +3561,87 @@
 		]
 	},
 	{
+		"id": "MODULOTRENINICIAL",
+		"titulo": "MODULO MI-13",
+		"assets": "assets/img/juegossksb/Modulosdemadera/modulo-tren-inicial1.jpg",
+		"imgs": [
+			{
+				"idImage": "img00",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-tren-inicial1.jpg"
+			},
+			{
+				"idImage": "img01",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-tren-inicial2.jpg"
+			},
+			{
+				"idImage": "img02",
+				"src": "assets/img/juegossksb/Modulosdemadera/modulo-tren-inicial3.jpg"
+			}
+		],
+		"info": [
+			{
+				"title": "Decripción",
+				"text": [
+					{
+						"texto": "Área: 6.50M X 2.50M"
+					}
+				]
+			},
+			{
+				"title": "Incluye",
+				"text": [
+					{
+						"texto": "Dos columnas con plataforma (de 1.0mt x1.0mt) madera huayruro"
+					},
+					{
+						"texto": "Un techo de madera modelo arco..."
+					},
+					{
+						"texto": "Un michi de madera (tres en raya)."
+					},
+					{
+						"texto": "Una escalera con pasos y pasamanos de madera."
+					},
+					{
+						"texto": "Un tobogán de fibra de vidrio de 1.00mt de altura."
+					},
+					{
+						"texto": "Una rampa de madera."
+					},
+					{
+						"texto": "Un puente con pasamanos de madera y tejido de sogas."
+					},
+					{
+						"texto": "Un túnel de madera "
+					},
+					{
+						"texto": "16 ruedas de fibra de vidrio contraplacado."
+					},
+					{
+						"texto": "Una portada de fibra de vidrio en tobogán."
+					},
+					{
+						"texto": "Plataformas con barandas de madera."
+					},
+					{
+						"texto": "Dos timones de metal."
+					}
+				]
+			},
+			{
+				"title": "Informe Técnico",
+				"text": [
+					{
+						"texto": "Pisos de columnas confeccionadas en madera huayruro y parantes 3” x 3” de grosor, los pisos de circuito confeccionados en madera huayruro acabado en una pulgada de grosor, por consideración al uso público, debe ser duradero y resistente, totalmente laqueado y barnizado en barniz marino transparente."
+					},
+					{
+						"texto": "Plataformas debidamente ancladas a 0.40m de profundidad en baseado de cemento previamente protegido con brea."
+					}
+				]
+			}
+		]
+	},
+	{
 		"id": "MODULOMONTERRICO",
 		"titulo": "MODULO MI-14",
 		"assets": "assets/img/juegossksb/Modulosdemadera/monterrico1.jpg",
