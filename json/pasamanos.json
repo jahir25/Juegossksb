@@ -183,11 +183,11 @@
 	{
 		"id": "PASAMANOSCULEBRA",
 		"titulo": "PASAMANOS CULEBRA",
-		"assets": "assets/img/juegossksb/pasamanos/PASAMANOSCULEBRA.jpg",
+		"assets": "assets/img/juegossksb/pasamanos/pasamanosculebra.jpg",
 		"imgs": [
 			{
 				"idImage": "img00",
-				"src": "assets/img/juegossksb/pasamanos/PASAMANOSCULEBRA.jpg"
+				"src": "assets/img/juegossksb/pasamanos/pasamanosculebra.jpg"
 			}
 		],
 		"info": [
