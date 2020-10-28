@@ -2,11 +2,11 @@
 	{
 		"id": "CIRCUITODEPASAMANOSA",
 		"titulo": "CIRCUITO DE PASAMANOS A",
-		"assets": "assets/img/juegossksb/Pasamanos/circuito-a.jpg",
+		"assets": "assets/img/juegossksb/pasamanos/circuito-a.jpg",
 		"imgs": [
 			{
 				"idImage": "img01",
-				"src": "assets/img/juegossksb/Pasamanos/circuito-a.jpg"
+				"src": "assets/img/juegossksb/pasamanos/circuito-a.jpg"
 			}
 		],
 		"info": [
@@ -37,15 +37,15 @@
 	{
 		"id": "CIRCUITODEPASAMANOSB",
 		"titulo": "CIRCUITO DE PASAMANOS B",
-		"assets": "assets/img/juegossksb/Pasamanos/circuito-b-1.jpg",
+		"assets": "assets/img/juegossksb/pasamanos/circuito-b-1.jpg",
 		"imgs": [
 			{
 				"idImage": "img00",
-				"src": "assets/img/juegossksb/Pasamanos/circuito-b-1.jpg"
+				"src": "assets/img/juegossksb/pasamanos/circuito-b-1.jpg"
 			},
 			{
 				"idImage": "img01",
-				"src": "assets/img/juegossksb/Pasamanos/circuito-b-2.jpg"
+				"src": "assets/img/juegossksb/pasamanos/circuito-b-2.jpg"
 			}
 		],
 		"info": [
@@ -76,11 +76,11 @@
 	{
 		"id": "CÚPULATREPADORA",
 		"titulo": "CÚPULA TREPADORA",
-		"assets": "assets/img/juegossksb/Pasamanos/cupula-trepadora.jpg",
+		"assets": "assets/img/juegossksb/pasamanos/cupula-trepadora.jpg",
 		"imgs": [
 			{
 				"idImage": "img01",
-				"src": "assets/img/juegossksb/Pasamanos/cupula-trepadora.jpg"
+				"src": "assets/img/juegossksb/pasamanos/cupula-trepadora.jpg"
 			}
 		],
 		"info": [
@@ -103,15 +103,15 @@
 	{
 		"id": "PASAMANOSCIRCULAR",
 		"titulo": "PASAMANOS CIRCULAR",
-		"assets": "assets/img/juegossksb/Pasamanos/PASAMANOSCIRCULAR-1.jpg",
+		"assets": "assets/img/juegossksb/pasamanos/PASAMANOSCIRCULAR-1.jpg",
 		"imgs": [
 			{
 				"idImage": "img00",
-				"src": "assets/img/juegossksb/Pasamanos/PASAMANOSCIRCULAR-1.jpg"
+				"src": "assets/img/juegossksb/pasamanos/PASAMANOSCIRCULAR-1.jpg"
 			},
 			{
 				"idImage": "img01",
-				"src": "assets/img/juegossksb/Pasamanos/PASAMANOSCIRCULAR-2.png"
+				"src": "assets/img/juegossksb/pasamanos/PASAMANOSCIRCULAR-2.png"
 			}
 		],
 		"info": [
@@ -145,11 +145,11 @@
 	{
 		"id": "PASAMANOSCRUZ",
 		"titulo": "PASAMANOS CRUZ",
-		"assets": "assets/img/juegossksb/Pasamanos/PASAMANOSCRUZ.jpg",
+		"assets": "assets/img/juegossksb/pasamanos/PASAMANOSCRUZ.jpg",
 		"imgs": [
 			{
 				"idImage": "img00",
-				"src": "assets/img/juegossksb/Pasamanos/PASAMANOSCRUZ.jpg"
+				"src": "assets/img/juegossksb/pasamanos/PASAMANOSCRUZ.jpg"
 			}
 		],
 		"info": [
@@ -183,11 +183,11 @@
 	{
 		"id": "PASAMANOSCULEBRA",
 		"titulo": "PASAMANOS CULEBRA",
-		"assets": "assets/img/juegossksb/Pasamanos/PASAMANOSCULEBRA.jpg",
+		"assets": "assets/img/juegossksb/pasamanos/PASAMANOSCULEBRA.jpg",
 		"imgs": [
 			{
 				"idImage": "img00",
-				"src": "assets/img/juegossksb/Pasamanos/PASAMANOSCULEBRA.jpg"
+				"src": "assets/img/juegossksb/pasamanos/PASAMANOSCULEBRA.jpg"
 			}
 		],
 		"info": [
@@ -221,11 +221,11 @@
 	{
 		"id": "PASAMANOSCURVO",
 		"titulo": "PASAMANOS CURVO",
-		"assets": "assets/img/juegossksb/Pasamanos/PASAMANOSCURVO.jpg",
+		"assets": "assets/img/juegossksb/pasamanos/PASAMANOSCURVO.jpg",
 		"imgs": [
 			{
 				"idImage": "img00",
-				"src": "assets/img/juegossksb/Pasamanos/PASAMANOSCURVO.jpg"
+				"src": "assets/img/juegossksb/pasamanos/PASAMANOSCURVO.jpg"
 			}
 		],
 		"info": [
@@ -256,11 +256,11 @@
 	{
 		"id": "PASAMANOSDEDOSCIRCULOS",
 		"titulo": "PASAMANOS DE DOS CIRCULOS",
-		"assets": "assets/img/juegossksb/Pasamanos/PASAMANOSDEDOSCIRCULOS.jpg",
+		"assets": "assets/img/juegossksb/pasamanos/PASAMANOSDEDOSCIRCULOS.jpg",
 		"imgs": [
 			{
 				"idImage": "img00",
-				"src": "assets/img/juegossksb/Pasamanos/PASAMANOSDEDOSCIRCULOS.jpg"
+				"src": "assets/img/juegossksb/pasamanos/PASAMANOSDEDOSCIRCULOS.jpg"
 			}
 		],
 		"info": [
@@ -294,11 +294,11 @@
 	{
 		"id": "PASAMANOSDEMADERA",
 		"titulo": "PASAMANOS DE MADERA",
-		"assets": "assets/img/juegossksb/Pasamanos/PASAMANOSDEMADERA.jpg",
+		"assets": "assets/img/juegossksb/pasamanos/PASAMANOSDEMADERA.jpg",
 		"imgs": [
 			{
 				"idImage": "img00",
-				"src": "assets/img/juegossksb/Pasamanos/PASAMANOSDEMADERA.jpg"
+				"src": "assets/img/juegossksb/pasamanos/PASAMANOSDEMADERA.jpg"
 			}
 		],
 		"info": [
@@ -349,15 +349,15 @@
 	{
 		"id": "PASAMANOSOLA",
 		"titulo": "PASAMANOS OLA",
-		"assets": "assets/img/juegossksb/Pasamanos/PASAMANOSOLA-1.jpg",
+		"assets": "assets/img/juegossksb/pasamanos/PASAMANOSOLA-1.jpg",
 		"imgs": [
 			{
 				"idImage": "img00",
-				"src": "assets/img/juegossksb/Pasamanos/PASAMANOSOLA-1.jpg"
+				"src": "assets/img/juegossksb/pasamanos/PASAMANOSOLA-1.jpg"
 			},
 			{
 				"idImage": "img01",
-				"src": "assets/img/juegossksb/Pasamanos/PASAMANOSOLA-2.jpg"
+				"src": "assets/img/juegossksb/pasamanos/PASAMANOSOLA-2.jpg"
 			}
 		],
 		"info": [
@@ -391,11 +391,11 @@
 	{
 		"id": "PASAMANOSRECTODEMETAL",
 		"titulo": "PASAMANOS RECTO DE METAL",
-		"assets": "assets/img/juegossksb/Pasamanos/PASAMANOSRECTODEMETAL.jpg",
+		"assets": "assets/img/juegossksb/pasamanos/PASAMANOSRECTODEMETAL.jpg",
 		"imgs": [
 			{
 				"idImage": "img00",
-				"src": "assets/img/juegossksb/Pasamanos/PASAMANOSRECTODEMETAL.jpg"
+				"src": "assets/img/juegossksb/pasamanos/PASAMANOSRECTODEMETAL.jpg"
 			}
 		],
 		"info": [
@@ -429,11 +429,11 @@
 	{
 		"id": "PASAMANOSS",
 		"titulo": "PASAMANOS S",
-		"assets": "assets/img/juegossksb/Pasamanos/PASAMANOSS.jpg",
+		"assets": "assets/img/juegossksb/pasamanos/PASAMANOSS.jpg",
 		"imgs": [
 			{
 				"idImage": "img00",
-				"src": "assets/img/juegossksb/Pasamanos/PASAMANOSS.jpg"
+				"src": "assets/img/juegossksb/pasamanos/PASAMANOSS.jpg"
 			}
 		],
 		"info": [
